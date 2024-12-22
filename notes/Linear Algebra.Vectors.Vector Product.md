@@ -2,8 +2,9 @@
 id: 83h5gwe0p7n8x55rqr9x8op
 title: Vector Product
 desc: ''
-updated: 1734674539911
+updated: 1734851038279
 created: 1734666703498
+nav_order: 3
 ---
 Similar to the scalar product, we can also define a binary operation known as the *vector product* over a vector space that takes two vectors and outputs another vector:
 

@@ -2,8 +2,9 @@
 id: bof4d8unu2g8shqxa7vhs4p
 title: Geometric Equations
 desc: ''
-updated: 1734665480372
+updated: 1734851014899
 created: 1734665325248
+nav_order: 4
 ---
 ## Complex equation of a line
 This equation is not called "complex equation of a line" because it involves complex numbers, but because it is unnecessarily complex. Observe. 

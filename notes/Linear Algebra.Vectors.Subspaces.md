@@ -2,8 +2,9 @@
 id: kps1vouu5g7m8efsc1ccr96
 title: Subspaces
 desc: ''
-updated: 1734760829403
+updated: 1734851053555
 created: 1734758627445
+nav_order: 5
 ---
 > <span style="background-color: #03cafc; color: black;">Definition</span> (Vector subspace). We say that $U$ is a subspace of a vector space $V$ if $U \subseteq V$ and $U$ is also a vector space under the same operations (addition and scalar multiplication). <br/><br/>
 Of the subspaces of $V$, $V$ and $\{0\}$ are trivially subspaces; the other subspaces are **proper subspaces**. <br/><br/>

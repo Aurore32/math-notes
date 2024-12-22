@@ -2,8 +2,9 @@
 id: yild13c55t8as7pol36ea84
 title: Linear Independence and Basis
 desc: ''
-updated: 1734683761339
+updated: 1734851049451
 created: 1734672143518
+nav_order: 4
 ---
 > <span style="background-color: #03cafc; color: black;">Definition</span> (Linear combination). Let $V$ be a vector space and $\mathbf{v_1,v_2, ..., v_n} \in V$ be vectors. A **linear combination** of these $n$ vectors is another vector of the form
 $$

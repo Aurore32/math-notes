@@ -2,8 +2,9 @@
 id: cijw6w7tpvzehpgzd9u59gf
 title: Definitions and Properties
 desc: ''
-updated: 1734665930788
+updated: 1734851022983
 created: 1734665589401
+nav_order: 1
 ---
 > <span style="background-color: #03cafc; color: black;">Definition</span> (Vector space). A *vector space* $V$ over $\mathbb{R}$ or $\mathbb{C}$ is a collection of entities ("vectors") $\mathbf{v} \in V$, in which we define two operations: addition of two vectors and scalar multiplication with a vector.
 

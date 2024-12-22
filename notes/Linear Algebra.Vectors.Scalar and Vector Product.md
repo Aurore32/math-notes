@@ -1,9 +1,10 @@
 ---
 id: acofzyoqoi8d1hn41m901zr
-title: Scalar and Vector Product
+title: Scalar Product
 desc: ''
-updated: 1734758124799
+updated: 1734851033155
 created: 1734665946553
+nav_order: 2
 ---
 In *addition* (ba dum-tss) to addition and multiplication, we define a third operation in a vector space $V$ - the scalar product - that takes two vectors $\mathbf{a, b}$ as inputs and returns a scalar.
 
