@@ -1,6 +1,6 @@
 ---
 id: 8r1kh8kplkgwdnntxbb67zt
-title: Suffix Notation and Tensors
+title: Tensor Notation
 desc: ''
 updated: 1734762207965
 created: 1734760849916

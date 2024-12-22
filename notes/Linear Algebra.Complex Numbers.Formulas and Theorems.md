@@ -1,6 +1,6 @@
 ---
 id: w9edr0w0irit2nls3qryzxp
-title: Basic Formulas and Theorems
+title: Formulas and Theorems
 desc: ''
 updated: 1734663116744
 created: 1734662811110

@@ -1,6 +1,6 @@
 ---
 id: acofzyoqoi8d1hn41m901zr
-title: Scalar Product and Cauchy-Schwarz
+title: Scalar and Vector Product
 desc: ''
 updated: 1734758124799
 created: 1734665946553

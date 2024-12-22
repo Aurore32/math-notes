@@ -1,7 +1,7 @@
 version: 1
 imports: []
 schemas:
-  - id: root
+  - id: Linear Algebra
     children: []
-    title: root
+    title: Linear Algebra
     parent: root
