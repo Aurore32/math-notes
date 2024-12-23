@@ -10,7 +10,7 @@ nav_order: 8
 Picking up where we left off:
 > <span style="background-color: #ffb812; color: black;">Proposition</span>. $\mathbf{(a\times b)\cdot (a\times c)= (a\cdot a)(b\cdot c)-(a\cdot b)(a\cdot c)}$.
 
-![alt text](image-2.png)
+![alt text](./assets/images/image-2.png)
 
 Consider points $A$, $B$, $C$ on the surface of a unit sphere with radius 1 and origin $O$. Let $\mathbf{a,b,c}$ denote the position vectors of $A$, $B$ and $C$ relative to the origin $O$ respectively. 
 
