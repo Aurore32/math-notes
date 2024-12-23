@@ -1,0 +1,161 @@
+{
+  "roots": [
+    {
+      "key": "pljx45cxmkjv1tt8kohsggi",
+      "title": "Linear Algebra",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Linear algebra",
+      "children": [
+        {
+          "key": "dsj2qe8miwbf9b8bx301eo9",
+          "title": "Complex Numbers",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "bof4d8unu2g8shqxa7vhs4p",
+              "title": "Geometric Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "b6pvgfgsebio60eelk93piq",
+              "title": "Complex Exponentiation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "w9edr0w0irit2nls3qryzxp",
+              "title": "Formulas and Theorems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "p6qgibfnguwutpsdy24bzls",
+              "title": "Roots of Unity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "97hpohs61y3zs5fg8yh2s4a",
+          "title": "Vectors",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "cijw6w7tpvzehpgzd9u59gf",
+              "title": "Definitions and Properties",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "acofzyoqoi8d1hn41m901zr",
+              "title": "Scalar Product",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "83h5gwe0p7n8x55rqr9x8op",
+              "title": "Vector Product",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "yild13c55t8as7pol36ea84",
+              "title": "Linear Independence and Basis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "kps1vouu5g7m8efsc1ccr96",
+              "title": "Subspaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "s4584oa4m259kma2pmw1lnq",
+              "title": "Complex Vector Spaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "8r1kh8kplkgwdnntxbb67zt",
+              "title": "Tensor Notation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "2r2el4g77gk10wt5mm3q6bm",
+              "title": "Vector Geometry",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "pljx45cxmkjv1tt8kohsggi": null,
+    "dsj2qe8miwbf9b8bx301eo9": "pljx45cxmkjv1tt8kohsggi",
+    "bof4d8unu2g8shqxa7vhs4p": "dsj2qe8miwbf9b8bx301eo9",
+    "b6pvgfgsebio60eelk93piq": "dsj2qe8miwbf9b8bx301eo9",
+    "w9edr0w0irit2nls3qryzxp": "dsj2qe8miwbf9b8bx301eo9",
+    "p6qgibfnguwutpsdy24bzls": "dsj2qe8miwbf9b8bx301eo9",
+    "97hpohs61y3zs5fg8yh2s4a": "pljx45cxmkjv1tt8kohsggi",
+    "cijw6w7tpvzehpgzd9u59gf": "97hpohs61y3zs5fg8yh2s4a",
+    "acofzyoqoi8d1hn41m901zr": "97hpohs61y3zs5fg8yh2s4a",
+    "83h5gwe0p7n8x55rqr9x8op": "97hpohs61y3zs5fg8yh2s4a",
+    "yild13c55t8as7pol36ea84": "97hpohs61y3zs5fg8yh2s4a",
+    "kps1vouu5g7m8efsc1ccr96": "97hpohs61y3zs5fg8yh2s4a",
+    "s4584oa4m259kma2pmw1lnq": "97hpohs61y3zs5fg8yh2s4a",
+    "8r1kh8kplkgwdnntxbb67zt": "97hpohs61y3zs5fg8yh2s4a",
+    "2r2el4g77gk10wt5mm3q6bm": "97hpohs61y3zs5fg8yh2s4a"
+  },
+  "notesLabelById": {
+    "pljx45cxmkjv1tt8kohsggi": "Linear Algebra",
+    "dsj2qe8miwbf9b8bx301eo9": "Complex Numbers",
+    "bof4d8unu2g8shqxa7vhs4p": "Geometric Equations",
+    "b6pvgfgsebio60eelk93piq": "Complex Exponentiation",
+    "w9edr0w0irit2nls3qryzxp": "Formulas and Theorems",
+    "p6qgibfnguwutpsdy24bzls": "Roots of Unity",
+    "97hpohs61y3zs5fg8yh2s4a": "Vectors",
+    "cijw6w7tpvzehpgzd9u59gf": "Definitions and Properties",
+    "acofzyoqoi8d1hn41m901zr": "Scalar Product",
+    "83h5gwe0p7n8x55rqr9x8op": "Vector Product",
+    "yild13c55t8as7pol36ea84": "Linear Independence and Basis",
+    "kps1vouu5g7m8efsc1ccr96": "Subspaces",
+    "s4584oa4m259kma2pmw1lnq": "Complex Vector Spaces",
+    "8r1kh8kplkgwdnntxbb67zt": "Tensor Notation",
+    "2r2el4g77gk10wt5mm3q6bm": "Vector Geometry"
+  }
+}
