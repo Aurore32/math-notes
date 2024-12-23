@@ -17,7 +17,7 @@ Thus far, the one instance of a scalar product we are familiar with is the dot p
 
 From the definition $\mathbf{a\dot b = |a||b|}\cos\theta$, we know that the dot product gives us information on the angle between two vectors; indeed, from the definition of cosine in a triangle, we know that this expression represents the component of $\mathbf{a}$ parallel to $\mathbf{b}$, also known as the *projection*:
 
-![alt text](LA_ch1_dotproduct.png)
+![alt text](./assets/images/LA_ch1_dotproduct.png)
 
 However, this is only one of many possible scalar products, or *inner products*, $\langle\mathbf{x|y}\rangle$, that can be defined. Similar to a dot product, they are defined by the following properties:
 
