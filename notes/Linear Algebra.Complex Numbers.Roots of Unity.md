@@ -4,6 +4,7 @@ title: Roots of Unity
 desc: ''
 updated: 1734665315176
 created: 1734664756862
+nav_order: 3
 ---
 > <span style="background-color: #03cafc; color: black;">Definition</span> (Roots of unity). We refer to the complex roots of the equation $\omega^n=1$ as the *nth roots of unity*; as this is a polynomial of deg $n$, we have $n$ roots of unity, which can be completely described by 
 $$

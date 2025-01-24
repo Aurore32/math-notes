@@ -4,6 +4,7 @@ title: Formulas and Theorems
 desc: ''
 updated: 1734663116744
 created: 1734662811110
+nav_order: 1
 ---
 ><span style="background-color: #03cafc; color: black;"> Definition</span> (Modulus and argument). Define the modulus of $z=a+bi$ as $|z|=\sqrt{a^2+b^2}$; this is analogous to the length of its vector representation on the Argand plane. <br/><br/>
 Define its argument as the angle its vector makes with the real axis: $\arg z = \tan^{-1}(\frac{b}{a})$. The modulus-argument pair $(r,\theta)$ can uniquely describe a complex number $z$, but each $z$ has infinitely many arguments $\theta+2k\pi$ (a full revolution, but not the French kind). We often take only the principal argument - $-\pi<\theta<\pi$.

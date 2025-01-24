@@ -4,6 +4,7 @@ title: Linear Algebra
 desc: ''
 updated: 1734662180189
 created: 1734661699359
+nav_order: 1
 ---
 ### Created by Turbo Huang
 <hr>

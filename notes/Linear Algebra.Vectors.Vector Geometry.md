@@ -2,7 +2,7 @@
 id: 2r2el4g77gk10wt5mm3q6bm
 title: Vector Geometry
 desc: ''
-updated: 1734857996337
+updated: 1735303569148
 created: 1734854557955
 nav_order: 8
 ---
@@ -43,3 +43,40 @@ $$
 which is smaller than $\frac{1}{2}$, with $\alpha$ thus being greater than $60^{o}$ - except if $\delta = 1$, where $\delta(A,B)$ and every other angle would be 0 degrees (degenerating the triangle into a point). This also implies that the sum of angles in a spherical triangle exceeds 180 degrees.
 
 ## Lines
+
+> <span style="background-color: #ffb812; color: black;">Proposition</span>. The line through a point with position vector $\mathbf{a}$ and parallel to vector $\mathbf{t}$ has equation $\mathbf{x} = \mathbf{a} + \lambda \mathbf{t}$, where $\lambda$ is a constant. 
+
+> <span style="background-color: #1eff12; color: black;">Proof</span>. If $P$ denotes the point on the line, then the position vector of $P$ $\vec{OP}$ equals $\vec{OA} + \vec{AP}$ where $\vec{OA} = \mathbf{a}$ and $\vec{AP}$ is some vector in the direction of the line; hence, $\lambda \mathbf{t}$.
+
+> <span style="background-color: #ffb812; color: black;">Proposition</span>. The equation of the same line can also be rewritten $\mathbf{(x-a)\times t = 0}$ where $\times$ denotes the cross product. This can be intuitively seen because the only case when two vectors have a cross product of zero is if one is zero, or if they are parallel; thus either $\mathbf{x=a}$ or $\mathbf{x-a}$ is in the direction of $\mathbf{t}$.
+
+## Planes
+> <span style="background-color: #ffb812; color: black;">Proposition</span>. The equation of a plane perpendicular to some unit vector $\mathbf{n}$ and passing through a point $\mathbf{a}$ is $\mathbf{(x-a)\cdot n} = 0$. This simply expresses the notion that a vector lying in the plane, $(\mathbf{x-a})$, is perpendicular to the normal vector $\mathbf{n}$.
+
+This can also be rewritten $\mathbf{x\cdot n = a\cdot n}$.
+
+> <span style="background-color: #ffb812; color: black;">Proposition</span>. The distance from the origin to the plane is equal to $\mathbf{x \cdot n = a \cdot n}$.
+
+> <span style="background-color: #1eff12; color: black;">Proof</span>. Let $Q$ be the point on the plane such that $\vec{OQ}$ is parallel to  $\mathbf{n}$. This is the perpendicular line extending from the origin to the plane, and thus it represents the minimum distance from the origin to the plane. Let $\vec{OQ} = d\mathbf{n}$ for some $d$. As $Q$ is on the plane, it satisfies
+$$
+(\vec{OQ}-\mathbf{a}) \cdot \mathbf{n} = (d\mathbf{n-a}) \cdot \mathbf{n} = d|\mathbf{n}| - a\cdot \mathbf{n} = 0
+$$
+> with $|\mathbf{n}|=1$ by $\mathbf{n}$ being a normal vector. Thus, $\mathbf{a\cdot n} = d$.
+
+Note also that if $\mathbf{l}$ and $\mathbf{m}$ are two linearly independent vectors that lie in the plane, then any point on the plane can be expressed as
+$$
+\mathbf{x}=\mathbf{a}+\mu \mathbf{l}+\lambda \mathbf{m}
+$$
+where $\lambda$ and $\mu$ are real.
+
+## Spheres and circles
+
+> <span style="background-color: #ffb812; color: black;">Proposition</span>. The equation of a generalized hypersphere in $n$ dimensions, with radius $r$ and center $\mathbf{a}$, (in 2D: a circle, in 3D: a sphere, in 4D and beyond: a hypersphere) is $\mathbf{|x-a|}=r,\ \mathbf{x} \in \mathbb{R^n}$. This encompasses the set of all points in $n$-space a distance $r$ away from $\mathbf{a}$.
+
+## Vector equations
+
+Equations involving vectors, the dot product and the cross product, such as $\mathbf{x - (x\times a)\times b = c}$, are often best solved through vector manipulation:
+1. To make a vector $\mathbf{a}$ disappear on one side of the equation, take the cross product with $\mathbf{a}$ on both sides, as $\mathbf{a\times a} = 0$.
+2. If two vectors are normal to one another, take their dot product.
+3. Use vector identities such as the vector triple product to expand more complicated expressions.
+

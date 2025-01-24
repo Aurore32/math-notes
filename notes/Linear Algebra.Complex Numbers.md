@@ -4,6 +4,7 @@ title: Complex Numbers
 desc: ''
 updated: 1734662945615
 created: 1734661935146
+nav_order: 1
 ---
 
 ## Introduction, in brief

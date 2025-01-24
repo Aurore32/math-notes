@@ -4,6 +4,7 @@ title: Complex Exponentiation
 desc: ''
 updated: 1734665198826
 created: 1734664048060
+nav_order: 2
 ---
 To extend exponentiation to complex numbers, we use the Taylor series definition of exponentiation:
 
