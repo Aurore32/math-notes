@@ -16,7 +16,7 @@ $$
 
 Essentially, the vector product takes two vectors and outputs another vector with length equal to the product of their lengths times $\sin \theta$, and in a direction normal to both of them. To make such an output unique, we restrict this direction to be the normal direction to $\mathbf{a, b}$ in a *right-handed sense*:
 
-![alt text](image.png)
+![alt text](./assets/images/image.png)
 
 The vector product satisfies the following properties:
 1. $\mathbf{a\times b = b\times a}$.
