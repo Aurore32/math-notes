@@ -1,0 +1,1853 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1737884487118,
+      "created": 1737884487118,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "cvrcdb8o4kzgfzvj7bowdtl": {
+      "id": "cvrcdb8o4kzgfzvj7bowdtl",
+      "title": "Math notes",
+      "desc": "",
+      "updated": 1735562176549,
+      "created": 1734849922137,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "481bdea8146b7628306ea1ea7f984bd7",
+      "links": [],
+      "anchors": {
+        "by-turbo-huang": {
+          "type": "header",
+          "text": "By Turbo Huang",
+          "value": "by-turbo-huang",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "pljx45cxmkjv1tt8kohsggi"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "pljx45cxmkjv1tt8kohsggi": {
+      "id": "pljx45cxmkjv1tt8kohsggi",
+      "title": "Linear Algebra",
+      "desc": "",
+      "updated": 1737878892730,
+      "created": 1734661699359,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "8f335af78f9cfeb72467ccfdfc2de5ed",
+      "links": [],
+      "anchors": {
+        "created-by-turbo-huang": {
+          "type": "header",
+          "text": "Created by Turbo Huang",
+          "value": "created-by-turbo-huang",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "dsj2qe8miwbf9b8bx301eo9",
+        "gaidz59s80wjrr035osuo5h",
+        "psmhf3tnofluj0yiig4pdgt",
+        "j03u376ezurk37ks0i9f5ej",
+        "s1y1jxgk5fpdknpk6je7bym",
+        "97hpohs61y3zs5fg8yh2s4a"
+      ],
+      "parent": "cvrcdb8o4kzgfzvj7bowdtl",
+      "data": {},
+      "schema": {
+        "schemaId": "Linear Algebra",
+        "moduleId": "Linear Algebra"
+      }
+    },
+    "97hpohs61y3zs5fg8yh2s4a": {
+      "id": "97hpohs61y3zs5fg8yh2s4a",
+      "title": "Vectors",
+      "desc": "",
+      "updated": 1735302999623,
+      "created": 1734665491773,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Vectors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "b1744facba5294e082c1c89c8c4e3443",
+      "links": [],
+      "anchors": {
+        "introduction-in-brief": {
+          "type": "header",
+          "text": "Introduction, in brief",
+          "value": "introduction-in-brief",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "s4584oa4m259kma2pmw1lnq",
+        "cijw6w7tpvzehpgzd9u59gf",
+        "yild13c55t8as7pol36ea84",
+        "acofzyoqoi8d1hn41m901zr",
+        "kps1vouu5g7m8efsc1ccr96",
+        "8r1kh8kplkgwdnntxbb67zt",
+        "2r2el4g77gk10wt5mm3q6bm",
+        "83h5gwe0p7n8x55rqr9x8op"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "83h5gwe0p7n8x55rqr9x8op": {
+      "id": "83h5gwe0p7n8x55rqr9x8op",
+      "title": "Vector Product",
+      "desc": "",
+      "updated": 1734851038279,
+      "created": 1734666703498,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Vectors.Vector Product",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "3e485cc8925ca151aed315f201219e5c",
+      "links": [],
+      "anchors": {
+        "finding-normal-vectors": {
+          "type": "header",
+          "text": "Finding normal vectors",
+          "value": "finding-normal-vectors",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "area-of-a-triangle": {
+          "type": "header",
+          "text": "Area of a triangle",
+          "value": "area-of-a-triangle",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "area-of-a-parallelpiped": {
+          "type": "header",
+          "text": "Area of a parallelpiped",
+          "value": "area-of-a-parallelpiped",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "a-final-note-on-the-vector-product-in-2d-and-3d": {
+          "type": "header",
+          "text": "A final note on the vector product in 2D and 3D",
+          "value": "a-final-note-on-the-vector-product-in-2d-and-3d",
+          "line": 71,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "2r2el4g77gk10wt5mm3q6bm": {
+      "id": "2r2el4g77gk10wt5mm3q6bm",
+      "title": "Vector Geometry",
+      "desc": "",
+      "updated": 1735303569148,
+      "created": 1734854557955,
+      "nav_order": 8,
+      "custom": {
+        "nav_order": 8
+      },
+      "fname": "Linear Algebra.Vectors.Vector Geometry",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "45a54430627544cd3999a12944e62ae8",
+      "links": [],
+      "anchors": {
+        "spherical-trigonometry": {
+          "type": "header",
+          "text": "Spherical trigonometry",
+          "value": "spherical-trigonometry",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "lines": {
+          "type": "header",
+          "text": "Lines",
+          "value": "lines",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "planes": {
+          "type": "header",
+          "text": "Planes",
+          "value": "planes",
+          "line": 52,
+          "column": 0,
+          "depth": 2
+        },
+        "spheres-and-circles": {
+          "type": "header",
+          "text": "Spheres and circles",
+          "value": "spheres-and-circles",
+          "line": 71,
+          "column": 0,
+          "depth": 2
+        },
+        "vector-equations": {
+          "type": "header",
+          "text": "Vector equations",
+          "value": "vector-equations",
+          "line": 75,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "8r1kh8kplkgwdnntxbb67zt": {
+      "id": "8r1kh8kplkgwdnntxbb67zt",
+      "title": "Tensor Notation",
+      "desc": "",
+      "updated": 1734854545968,
+      "created": 1734760849916,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Linear Algebra.Vectors.Tensor Notation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "c7c9b4f69c22ea9e4d272e8f9e9aa86f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "kps1vouu5g7m8efsc1ccr96": {
+      "id": "kps1vouu5g7m8efsc1ccr96",
+      "title": "Subspaces",
+      "desc": "",
+      "updated": 1734851053555,
+      "created": 1734758627445,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Vectors.Subspaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "db7a3b56ac46186afb6947438356f38b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "acofzyoqoi8d1hn41m901zr": {
+      "id": "acofzyoqoi8d1hn41m901zr",
+      "title": "Scalar Product",
+      "desc": "",
+      "updated": 1734851033155,
+      "created": 1734665946553,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Vectors.Scalar and Vector Product",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "d96509b0fe8346543d813dde878cfb28",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "yild13c55t8as7pol36ea84": {
+      "id": "yild13c55t8as7pol36ea84",
+      "title": "Linear Independence and Basis",
+      "desc": "",
+      "updated": 1734851049451,
+      "created": 1734672143518,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Vectors.Linear Independence and Basis",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "e8f2abcdb9ae8e6c031c8dec890d2ca8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "cijw6w7tpvzehpgzd9u59gf": {
+      "id": "cijw6w7tpvzehpgzd9u59gf",
+      "title": "Definitions and Properties",
+      "desc": "",
+      "updated": 1734851022983,
+      "created": 1734665589401,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Vectors.Definitions and Properties",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "9bff429635f3adfa57736e2ab1080bbe",
+      "links": [],
+      "anchors": {
+        "addition": {
+          "type": "header",
+          "text": "Addition",
+          "value": "addition",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "scalar-multiplication": {
+          "type": "header",
+          "text": "Scalar Multiplication",
+          "value": "scalar-multiplication",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "s4584oa4m259kma2pmw1lnq": {
+      "id": "s4584oa4m259kma2pmw1lnq",
+      "title": "Complex Vector Spaces",
+      "desc": "",
+      "updated": 1734851058819,
+      "created": 1734683773801,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Vectors.Complex Vector Spaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "f501f8c8d75dd1912b2e41ad257e35ca",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "s1y1jxgk5fpdknpk6je7bym": {
+      "id": "s1y1jxgk5fpdknpk6je7bym",
+      "title": "Transformation Groups",
+      "desc": "",
+      "updated": 1737792671354,
+      "created": 1737716387103,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Transformation Groups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "e28e68a36867a037c86ac1ce599c0f2f",
+      "links": [],
+      "anchors": {
+        "defining-groups": {
+          "type": "header",
+          "text": "Defining groups",
+          "value": "defining-groups",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-groups": {
+          "type": "header",
+          "text": "Matrix groups",
+          "value": "matrix-groups",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "orthogonal-matrices": {
+          "type": "header",
+          "text": "Orthogonal matrices",
+          "value": "orthogonal-matrices",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "orthogonal-matrices-with-det-1": {
+          "type": "header",
+          "text": "Orthogonal matrices with $\\det$ 1",
+          "value": "orthogonal-matrices-with-det-1",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "length-preserving-matrices": {
+          "type": "header",
+          "text": "Length-Preserving Matrices",
+          "value": "length-preserving-matrices",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 237,
+          "column": 17
+        }
+      },
+      "children": [
+        "k0f8nh1skx99x6b1efjfbdi"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "k0f8nh1skx99x6b1efjfbdi": {
+      "id": "k0f8nh1skx99x6b1efjfbdi",
+      "title": "Metrics",
+      "desc": "",
+      "updated": 1737867321284,
+      "created": 1737792751447,
+      "custom": {},
+      "fname": "Linear Algebra.Transformation Groups.Metrics",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "748da9f2fd64e9f190c5b36f818818ca",
+      "links": [],
+      "anchors": {
+        "metrics-or-how-to-confuse-me-completely-about-scalar-products": {
+          "type": "header",
+          "text": "Metrics (or how to confuse me completely about scalar products)",
+          "value": "metrics-or-how-to-confuse-me-completely-about-scalar-products",
+          "line": 7,
+          "column": 0,
+          "depth": 3
+        },
+        "lorentz-transformations": {
+          "type": "header",
+          "text": "Lorentz transformations",
+          "value": "lorentz-transformations",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 113,
+          "column": 17
+        }
+      },
+      "children": [],
+      "parent": "s1y1jxgk5fpdknpk6je7bym",
+      "data": {}
+    },
+    "j03u376ezurk37ks0i9f5ej": {
+      "id": "j03u376ezurk37ks0i9f5ej",
+      "title": "Systems of Linear Equations",
+      "desc": "",
+      "updated": 1736323970658,
+      "created": 1736245676112,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Systems of Linear Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "c66ad3f262e630698c7c83cdc4549d2c",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "o1xylvjonk35o9wnkmd060y",
+        "n417qwzj6g9sqx0h2tcpsoo"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "n417qwzj6g9sqx0h2tcpsoo": {
+      "id": "n417qwzj6g9sqx0h2tcpsoo",
+      "title": "Matrix Rank",
+      "desc": "",
+      "updated": 1736483314568,
+      "created": 1736395254359,
+      "custom": {},
+      "fname": "Linear Algebra.Systems of Linear Equations.Matrix Rank",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "021c6ce2aabaac8c7e33f18ca8430047",
+      "links": [],
+      "anchors": {
+        "matrix-rank-2-electric-boogaloo": {
+          "type": "header",
+          "text": "Matrix Rank 2: Electric Boogaloo",
+          "value": "matrix-rank-2-electric-boogaloo",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "homogeneous-systems-of-linear-equations": {
+          "type": "header",
+          "text": "Homogeneous systems of linear equations",
+          "value": "homogeneous-systems-of-linear-equations",
+          "line": 58,
+          "column": 0,
+          "depth": 2
+        },
+        "the-geometrical-view": {
+          "type": "header",
+          "text": "The Geometrical View",
+          "value": "the-geometrical-view",
+          "line": 68,
+          "column": 0,
+          "depth": 3
+        },
+        "the-linear-map-view": {
+          "type": "header",
+          "text": "The Linear Map View",
+          "value": "the-linear-map-view",
+          "line": 108,
+          "column": 0,
+          "depth": 3
+        },
+        "inhomogeneous-systems-of-linear-equations": {
+          "type": "header",
+          "text": "Inhomogeneous systems of linear equations",
+          "value": "inhomogeneous-systems-of-linear-equations",
+          "line": 181,
+          "column": 0,
+          "depth": 2
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 75,
+          "column": 1
+        }
+      },
+      "children": [],
+      "parent": "j03u376ezurk37ks0i9f5ej",
+      "data": {}
+    },
+    "o1xylvjonk35o9wnkmd060y": {
+      "id": "o1xylvjonk35o9wnkmd060y",
+      "title": "Matrix Inverses and Linear Equations",
+      "desc": "",
+      "updated": 1737080537515,
+      "created": 1736324651648,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Systems of Linear Equations.Matrix Inverses and Linear Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "b77fcfa01a973b37e70512debda09160",
+      "links": [],
+      "anchors": {
+        "systems-of-2times-2-equations": {
+          "type": "header",
+          "text": "Systems of $2\\times 2$ equations",
+          "value": "systems-of-2times-2-equations",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "inverse-of-a-general-ntimes-n-matrix": {
+          "type": "header",
+          "text": "Inverse of a general $n\\times n$ matrix",
+          "value": "inverse-of-a-general-ntimes-n-matrix",
+          "line": 67,
+          "column": 0,
+          "depth": 2
+        },
+        "solving-linear-equations": {
+          "type": "header",
+          "text": "Solving linear equations",
+          "value": "solving-linear-equations",
+          "line": 135,
+          "column": 0,
+          "depth": 2
+        },
+        "gaussian-elimination": {
+          "type": "header",
+          "text": "Gaussian elimination",
+          "value": "gaussian-elimination",
+          "line": 162,
+          "column": 0,
+          "depth": 2
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 112,
+          "column": 13
+        }
+      },
+      "children": [],
+      "parent": "j03u376ezurk37ks0i9f5ej",
+      "data": {}
+    },
+    "psmhf3tnofluj0yiig4pdgt": {
+      "id": "psmhf3tnofluj0yiig4pdgt",
+      "title": "Matrices and Linear Maps",
+      "desc": "",
+      "updated": 1735303005413,
+      "created": 1735302980001,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "dee4e1bbbbcf4413bc9dfb904047a016",
+      "links": [],
+      "anchors": {
+        "introduction-in-briefs": {
+          "type": "header",
+          "text": "Introduction, in briefs",
+          "value": "introduction-in-briefs",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "3g6oqjvmm0a8xcyxmfi9c98",
+        "pb3vb4nmzjvobpmrnoj9qxl",
+        "g3saar7em9n8mr1cgmrackv",
+        "1cdknz7rz4s37vg3bf9e6zc",
+        "46o6bijc8pbrmvcf5v9awc9",
+        "ixvynw05twlgbw1og9o09jc",
+        "udf5um6s0gh0r4585waftt3",
+        "kzc5fzc65b83qv97lrkuqff",
+        "i4nj9v4ltupnjuomf6c7vda"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "i4nj9v4ltupnjuomf6c7vda": {
+      "id": "i4nj9v4ltupnjuomf6c7vda",
+      "title": "Rank and Nullity",
+      "desc": "",
+      "updated": 1735372160232,
+      "created": 1735372160232,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Rank and Nullity",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "32aa98d80424a9846f773615f7b1fa37",
+      "links": [],
+      "anchors": {
+        "rank-kernel-and-nullity": {
+          "type": "header",
+          "text": "Rank, Kernel and Nullity",
+          "value": "rank-kernel-and-nullity",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "kzc5fzc65b83qv97lrkuqff": {
+      "id": "kzc5fzc65b83qv97lrkuqff",
+      "title": "Permutations",
+      "desc": "",
+      "updated": 1736072951770,
+      "created": 1735611406974,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Permutations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "edd2f9b267bd991409d6572d27fce990",
+      "links": [],
+      "anchors": {
+        "permutation-notation": {
+          "type": "header",
+          "text": "Permutation notation",
+          "value": "permutation-notation",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "udf5um6s0gh0r4585waftt3": {
+      "id": "udf5um6s0gh0r4585waftt3",
+      "title": "Matrix Operations",
+      "desc": "",
+      "updated": 1737077940895,
+      "created": 1735375651816,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Matrix Operations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "6aa3f0ac9d9a8745dcf6a66e3cf189f1",
+      "links": [],
+      "anchors": {
+        "matrix-algebra": {
+          "type": "header",
+          "text": "Matrix algebra",
+          "value": "matrix-algebra",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-classifications": {
+          "type": "header",
+          "text": "Matrix classifications",
+          "value": "matrix-classifications",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-operations": {
+          "type": "header",
+          "text": "Matrix operations",
+          "value": "matrix-operations",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-decompositions": {
+          "type": "header",
+          "text": "Matrix decompositions",
+          "value": "matrix-decompositions",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-inverses": {
+          "type": "header",
+          "text": "Matrix inverses",
+          "value": "matrix-inverses",
+          "line": 89,
+          "column": 0,
+          "depth": 2
+        },
+        "orthogonal-and-unitary-matrices": {
+          "type": "header",
+          "text": "Orthogonal and unitary matrices",
+          "value": "orthogonal-and-unitary-matrices",
+          "line": 115,
+          "column": 0,
+          "depth": 2
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 26,
+          "column": 8
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "ixvynw05twlgbw1og9o09jc": {
+      "id": "ixvynw05twlgbw1og9o09jc",
+      "title": "Matrices as Linear Maps",
+      "desc": "",
+      "updated": 1735372189451,
+      "created": 1735372184694,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Matrices as Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "477436262961dd799c398ede0be4034d",
+      "links": [],
+      "anchors": {
+        "matrices-as-linear-maps": {
+          "type": "header",
+          "text": "Matrices as linear maps",
+          "value": "matrices-as-linear-maps",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "46o6bijc8pbrmvcf5v9awc9": {
+      "id": "46o6bijc8pbrmvcf5v9awc9",
+      "title": "Higher-Dimensional Determinants",
+      "desc": "",
+      "updated": 1736072942094,
+      "created": 1735612039248,
+      "nav_order": 8,
+      "custom": {
+        "nav_order": 8
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Higher-Dimensional Determinants",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "9dc7192f89a25d65387dd11ba58d6efc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "1cdknz7rz4s37vg3bf9e6zc": {
+      "id": "1cdknz7rz4s37vg3bf9e6zc",
+      "title": "Examples of Linear Maps",
+      "desc": "",
+      "updated": 1735375596058,
+      "created": 1735372205306,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Examples of Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "02ce04c63a57efa67474ef574ad632c8",
+      "links": [],
+      "anchors": {
+        "examples-of-matrices-as-linear-maps": {
+          "type": "header",
+          "text": "Examples of matrices as linear maps",
+          "value": "examples-of-matrices-as-linear-maps",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "g3saar7em9n8mr1cgmrackv": {
+      "id": "g3saar7em9n8mr1cgmrackv",
+      "title": "Determinants",
+      "desc": "",
+      "updated": 1736072984576,
+      "created": 1735574071094,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Determinants",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "6eb54ea1a87bd3e1de3d15e437b303ed",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Linear Algebra.Matrices and Linear Maps.Determinants",
+            "id": "g3saar7em9n8mr1cgmrackv",
+            "vaultName": "Linear algebra"
+          },
+          "value": "tags.SheldonAxler",
+          "alias": "#SheldonAxler",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 29,
+              "offset": 174
+            },
+            "end": {
+              "line": 6,
+              "column": 42,
+              "offset": 187
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.SheldonAxler"
+          }
+        }
+      ],
+      "anchors": {
+        "alternative-names-for-determinants": {
+          "type": "header",
+          "text": "Alternative names for determinants",
+          "value": "alternative-names-for-determinants",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "determinants-an-extermination-guide-for-the-home": {
+          "type": "header",
+          "text": "Determinants: An Extermination Guide for the Home",
+          "value": "determinants-an-extermination-guide-for-the-home",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "determinants-and-their-demonic-offspring": {
+          "type": "header",
+          "text": "Determinants and their demonic offspring",
+          "value": "determinants-and-their-demonic-offspring",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "pb3vb4nmzjvobpmrnoj9qxl": {
+      "id": "pb3vb4nmzjvobpmrnoj9qxl",
+      "title": "Determinants of Products",
+      "desc": "",
+      "updated": 1737080323835,
+      "created": 1735867053037,
+      "nav_order": 9,
+      "custom": {
+        "nav_order": 9
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Determinants of Products",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "04dc68376ad9e7214445bd3874c7aa92",
+      "links": [],
+      "anchors": {
+        "determinant-of-a-product": {
+          "type": "header",
+          "text": "Determinant of a product",
+          "value": "determinant-of-a-product",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "minors-and-cofactors": {
+          "type": "header",
+          "text": "Minors and cofactors",
+          "value": "minors-and-cofactors",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "3g6oqjvmm0a8xcyxmfi9c98": {
+      "id": "3g6oqjvmm0a8xcyxmfi9c98",
+      "title": "Defining Linear Maps",
+      "desc": "",
+      "updated": 1735562226207,
+      "created": 1735304579474,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Defining Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "040d4ea99f15f1886eeebb4fc631cf93",
+      "links": [],
+      "anchors": {
+        "matrices": {
+          "type": "header",
+          "text": "Matrices",
+          "value": "matrices",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "linear-maps": {
+          "type": "header",
+          "text": "Linear maps",
+          "value": "linear-maps",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "gaidz59s80wjrr035osuo5h": {
+      "id": "gaidz59s80wjrr035osuo5h",
+      "title": "Eigenvalues and Eigenvectors",
+      "desc": "",
+      "updated": 1737716394236,
+      "created": 1736470332316,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "b7eae56f0f0bb17c979959dced444b53",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tklb5g2nntypp66xuohwavb",
+        "0v6omcg3j6htia1jtgc613m",
+        "btx6g3xgtg54f68m93aow7t",
+        "pfvduov4dlnmrwikm39lsne",
+        "0b2cc21hzv5pgirnffcuyyo",
+        "xsw48w148tbq8wcyezaw1hj",
+        "4e4uv6kydsnn09xemle6ok1",
+        "amle684tzu04xxy5sjdjvn6",
+        "7tx741gb0nmw3q1pv9u4kjk",
+        "2yto361ji010ae96sp9iee0"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "2yto361ji010ae96sp9iee0": {
+      "id": "2yto361ji010ae96sp9iee0",
+      "title": "Singular Value Decomposition",
+      "desc": "",
+      "updated": 1737732558863,
+      "created": 1737716370312,
+      "nav_order": 11,
+      "custom": {
+        "nav_order": 11
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Singular Value Decomposition",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "b92afc86447bf421bad1f6f3ab39144a",
+      "links": [],
+      "anchors": {
+        "defining-svd": {
+          "type": "header",
+          "text": "Defining SVD",
+          "value": "defining-svd",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "constructing-a-possible-svd": {
+          "type": "header",
+          "text": "Constructing a possible SVD",
+          "value": "constructing-a-possible-svd",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "interpretations-of-the-svd": {
+          "type": "header",
+          "text": "Interpretations of the SVD",
+          "value": "interpretations-of-the-svd",
+          "line": 128,
+          "column": 0,
+          "depth": 2
+        },
+        "applications-of-svd": {
+          "type": "header",
+          "text": "Applications of SVD",
+          "value": "applications-of-svd",
+          "line": 179,
+          "column": 0,
+          "depth": 2
+        },
+        "^2_i": {
+          "type": "block",
+          "value": "2_i",
+          "line": 224,
+          "column": 49
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 238,
+          "column": 42
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "7tx741gb0nmw3q1pv9u4kjk": {
+      "id": "7tx741gb0nmw3q1pv9u4kjk",
+      "title": "Similar Matrices and Diagonalization",
+      "desc": "",
+      "updated": 1737448614691,
+      "created": 1736777454325,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Similar Matrices",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "1b4329926ed30d42b5c9c820baecf7bc",
+      "links": [],
+      "anchors": {
+        "definitions-and-basic-properties": {
+          "type": "header",
+          "text": "Definitions and Basic Properties",
+          "value": "definitions-and-basic-properties",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "diagonalization": {
+          "type": "header",
+          "text": "Diagonalization",
+          "value": "diagonalization",
+          "line": 82,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "amle684tzu04xxy5sjdjvn6": {
+      "id": "amle684tzu04xxy5sjdjvn6",
+      "title": "Forms",
+      "desc": "",
+      "updated": 1737716307777,
+      "created": 1737622776135,
+      "nav_order": 10,
+      "custom": {
+        "nav_order": 10
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Forms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "d1087bd9fa42424379d823c70a6aa4c9",
+      "links": [],
+      "anchors": {
+        "what-are-forms": {
+          "type": "header",
+          "text": "What are forms?",
+          "value": "what-are-forms",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "principle-axes-and-simplifying-forms": {
+          "type": "header",
+          "text": "Principle axes and simplifying forms",
+          "value": "principle-axes-and-simplifying-forms",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "applications-of-forms": {
+          "type": "header",
+          "text": "Applications of forms",
+          "value": "applications-of-forms",
+          "line": 68,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "4e4uv6kydsnn09xemle6ok1": {
+      "id": "4e4uv6kydsnn09xemle6ok1",
+      "title": "Eigenvalues and Eigenvectors of Hermitian Matrices",
+      "desc": "",
+      "updated": 1737718538112,
+      "created": 1737450712987,
+      "nav_order": 9,
+      "custom": {
+        "nav_order": 9
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Eigenvalues and Eigenvectors of Hermitian Matrices",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "9187dcee06a87b964e8c69c4e2fb10b5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "xsw48w148tbq8wcyezaw1hj": {
+      "id": "xsw48w148tbq8wcyezaw1hj",
+      "title": "Eigenspaces",
+      "desc": "",
+      "updated": 1736765136876,
+      "created": 1736492566547,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Eigenspaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "241e84c166e9ecb696474cfe51f0c44b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "0b2cc21hzv5pgirnffcuyyo": {
+      "id": "0b2cc21hzv5pgirnffcuyyo",
+      "title": "Differential Equations",
+      "desc": "",
+      "updated": 1737448299902,
+      "created": 1737445032537,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "f4fa226c6cf24796df823c9520f94471",
+      "links": [],
+      "anchors": {
+        "endbmatrix": {
+          "type": "header",
+          "text": "\\end{bmatrix}",
+          "value": "endbmatrix",
+          "line": 33,
+          "column": 0,
+          "depth": 1
+        },
+        "endbmatrix-1": {
+          "type": "header",
+          "text": "\\end{bmatrix}",
+          "value": "endbmatrix-1",
+          "line": 51,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "pfvduov4dlnmrwikm39lsne": {
+      "id": "pfvduov4dlnmrwikm39lsne",
+      "title": "Change of Basis",
+      "desc": "",
+      "updated": 1736992219293,
+      "created": 1736675317856,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Change of Basis",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "3819774cf02a560c1bdbee651668cceb",
+      "links": [],
+      "anchors": {
+        "why-change-basis": {
+          "type": "header",
+          "text": "Why change basis?",
+          "value": "why-change-basis",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "eigenvectors-as-a-change-of-basis": {
+          "type": "header",
+          "text": "Eigenvectors as a Change of Basis",
+          "value": "eigenvectors-as-a-change-of-basis",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "change-of-basis-the-general-formula": {
+          "type": "header",
+          "text": "Change of Basis: The General Formula",
+          "value": "change-of-basis-the-general-formula",
+          "line": 100,
+          "column": 0,
+          "depth": 2
+        },
+        "transformation-laws": {
+          "type": "header",
+          "text": "Transformation laws",
+          "value": "transformation-laws",
+          "line": 196,
+          "column": 0,
+          "depth": 2
+        },
+        "transforming-the-components-of-a-vector-from-one-basis-to-another": {
+          "type": "header",
+          "text": "Transforming the components of a vector from one basis to another",
+          "value": "transforming-the-components-of-a-vector-from-one-basis-to-another",
+          "line": 198,
+          "column": 0,
+          "depth": 3
+        },
+        "transforming-the-basis-of-a-linear-map": {
+          "type": "header",
+          "text": "Transforming the basis of a linear map",
+          "value": "transforming-the-basis-of-a-linear-map",
+          "line": 242,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 35,
+          "column": 26
+        },
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 45,
+          "column": 26
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "btx6g3xgtg54f68m93aow7t": {
+      "id": "btx6g3xgtg54f68m93aow7t",
+      "title": "Cayley-Hamilton Theorem",
+      "desc": "",
+      "updated": 1737450686510,
+      "created": 1737448274715,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Cayley-Hamilton Theorem",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "28186c89e6059b2bc4c26164e68258a0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "0v6omcg3j6htia1jtgc613m": {
+      "id": "0v6omcg3j6htia1jtgc613m",
+      "title": "Canonical Forms",
+      "desc": "",
+      "updated": 1737448288860,
+      "created": 1737434907603,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Canonical Forms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "559351a1adabd1cf87173b7689e0c5bb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "tklb5g2nntypp66xuohwavb": {
+      "id": "tklb5g2nntypp66xuohwavb",
+      "title": "Basic Definitions and Results",
+      "desc": "",
+      "updated": 1737081207832,
+      "created": 1736470671130,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Basic Definitions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "13e421acb373a918d97bc48369b792b3",
+      "links": [],
+      "anchors": {
+        "polynomials-and-algebra": {
+          "type": "header",
+          "text": "Polynomials and algebra",
+          "value": "polynomials-and-algebra",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "eigenvalues-and-eigenvectors": {
+          "type": "header",
+          "text": "Eigenvalues and Eigenvectors",
+          "value": "eigenvalues-and-eigenvectors",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "^i": {
+          "type": "block",
+          "value": "i",
+          "line": 13,
+          "column": 25
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "dsj2qe8miwbf9b8bx301eo9": {
+      "id": "dsj2qe8miwbf9b8bx301eo9",
+      "title": "Complex Numbers",
+      "desc": "",
+      "updated": 1734662945615,
+      "created": 1734661935146,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Complex Numbers",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "64c25ce69f51ede14b84676f70820cf7",
+      "links": [],
+      "anchors": {
+        "introduction-in-brief": {
+          "type": "header",
+          "text": "Introduction, in brief",
+          "value": "introduction-in-brief",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "b6pvgfgsebio60eelk93piq",
+        "w9edr0w0irit2nls3qryzxp",
+        "bof4d8unu2g8shqxa7vhs4p",
+        "p6qgibfnguwutpsdy24bzls"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "p6qgibfnguwutpsdy24bzls": {
+      "id": "p6qgibfnguwutpsdy24bzls",
+      "title": "Roots of Unity",
+      "desc": "",
+      "updated": 1734665315176,
+      "created": 1734664756862,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Complex Numbers.Roots of Unity",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "9c89693ed577c7453cd8a8fc09b28d03",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    },
+    "bof4d8unu2g8shqxa7vhs4p": {
+      "id": "bof4d8unu2g8shqxa7vhs4p",
+      "title": "Geometric Equations",
+      "desc": "",
+      "updated": 1734851014899,
+      "created": 1734665325248,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Complex Numbers.Geometric Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "1f9ff5e547748b4e8a82181b9d2044a2",
+      "links": [],
+      "anchors": {
+        "complex-equation-of-a-line": {
+          "type": "header",
+          "text": "Complex equation of a line",
+          "value": "complex-equation-of-a-line",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "complex-equation-of-a-circle": {
+          "type": "header",
+          "text": "Complex equation of a circle",
+          "value": "complex-equation-of-a-circle",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 30,
+          "column": 37
+        }
+      },
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    },
+    "w9edr0w0irit2nls3qryzxp": {
+      "id": "w9edr0w0irit2nls3qryzxp",
+      "title": "Formulas and Theorems",
+      "desc": "",
+      "updated": 1734663116744,
+      "created": 1734662811110,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Complex Numbers.Formulas and Theorems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "f2c8c76c2361ebef7fc10485d5370c24",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    },
+    "b6pvgfgsebio60eelk93piq": {
+      "id": "b6pvgfgsebio60eelk93piq",
+      "title": "Complex Exponentiation",
+      "desc": "",
+      "updated": 1734665198826,
+      "created": 1734664048060,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Complex Numbers.Complex Exponentiation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "e31ab737964da053bd36735b30598251",
+      "links": [],
+      "anchors": {
+        "complex-logarithms": {
+          "type": "header",
+          "text": "Complex Logarithms",
+          "value": "complex-logarithms",
+          "line": 37,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "cvrcdb8o4kzgfzvj7bowdtl",
+      "title": "Math notes",
+      "desc": "",
+      "updated": 1735562176549,
+      "created": 1734849922137,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Linear algebra"
+      },
+      "contentHash": "481bdea8146b7628306ea1ea7f984bd7",
+      "links": [],
+      "anchors": {
+        "by-turbo-huang": {
+          "type": "header",
+          "text": "By Turbo Huang",
+          "value": "by-turbo-huang",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "pljx45cxmkjv1tt8kohsggi"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "## By Turbo Huang"
+    }
+  ],
+  "noteIndex": {
+    "id": "cvrcdb8o4kzgfzvj7bowdtl",
+    "title": "Math notes",
+    "desc": "",
+    "updated": 1735562176549,
+    "created": 1734849922137,
+    "nav_order": 1,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Linear algebra"
+    },
+    "contentHash": "481bdea8146b7628306ea1ea7f984bd7",
+    "links": [],
+    "anchors": {
+      "by-turbo-huang": {
+        "type": "header",
+        "text": "By Turbo Huang",
+        "value": "by-turbo-huang",
+        "line": 8,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "pljx45cxmkjv1tt8kohsggi"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "## By Turbo Huang"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Linear algebra"
+    }
+  ]
+}

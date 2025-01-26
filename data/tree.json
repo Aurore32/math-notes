@@ -1,0 +1,425 @@
+{
+  "roots": [
+    {
+      "key": "pljx45cxmkjv1tt8kohsggi",
+      "title": "Linear Algebra",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Linear algebra",
+      "children": [
+        {
+          "key": "dsj2qe8miwbf9b8bx301eo9",
+          "title": "Complex Numbers",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "w9edr0w0irit2nls3qryzxp",
+              "title": "Formulas and Theorems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "b6pvgfgsebio60eelk93piq",
+              "title": "Complex Exponentiation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "p6qgibfnguwutpsdy24bzls",
+              "title": "Roots of Unity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "bof4d8unu2g8shqxa7vhs4p",
+              "title": "Geometric Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "97hpohs61y3zs5fg8yh2s4a",
+          "title": "Vectors",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "cijw6w7tpvzehpgzd9u59gf",
+              "title": "Definitions and Properties",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "acofzyoqoi8d1hn41m901zr",
+              "title": "Scalar Product",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "83h5gwe0p7n8x55rqr9x8op",
+              "title": "Vector Product",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "yild13c55t8as7pol36ea84",
+              "title": "Linear Independence and Basis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "kps1vouu5g7m8efsc1ccr96",
+              "title": "Subspaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "s4584oa4m259kma2pmw1lnq",
+              "title": "Complex Vector Spaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "8r1kh8kplkgwdnntxbb67zt",
+              "title": "Tensor Notation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "2r2el4g77gk10wt5mm3q6bm",
+              "title": "Vector Geometry",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "psmhf3tnofluj0yiig4pdgt",
+          "title": "Matrices and Linear Maps",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "3g6oqjvmm0a8xcyxmfi9c98",
+              "title": "Defining Linear Maps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "i4nj9v4ltupnjuomf6c7vda",
+              "title": "Rank and Nullity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "ixvynw05twlgbw1og9o09jc",
+              "title": "Matrices as Linear Maps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "1cdknz7rz4s37vg3bf9e6zc",
+              "title": "Examples of Linear Maps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "udf5um6s0gh0r4585waftt3",
+              "title": "Matrix Operations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "g3saar7em9n8mr1cgmrackv",
+              "title": "Determinants",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "kzc5fzc65b83qv97lrkuqff",
+              "title": "Permutations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "46o6bijc8pbrmvcf5v9awc9",
+              "title": "Higher-Dimensional Determinants",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "pb3vb4nmzjvobpmrnoj9qxl",
+              "title": "Determinants of Products",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "j03u376ezurk37ks0i9f5ej",
+          "title": "Systems of Linear Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "o1xylvjonk35o9wnkmd060y",
+              "title": "Matrix Inverses and Linear Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "n417qwzj6g9sqx0h2tcpsoo",
+              "title": "Matrix Rank",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "gaidz59s80wjrr035osuo5h",
+          "title": "Eigenvalues and Eigenvectors",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "tklb5g2nntypp66xuohwavb",
+              "title": "Basic Definitions and Results",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "xsw48w148tbq8wcyezaw1hj",
+              "title": "Eigenspaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "pfvduov4dlnmrwikm39lsne",
+              "title": "Change of Basis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "7tx741gb0nmw3q1pv9u4kjk",
+              "title": "Similar Matrices and Diagonalization",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "0v6omcg3j6htia1jtgc613m",
+              "title": "Canonical Forms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "0b2cc21hzv5pgirnffcuyyo",
+              "title": "Differential Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "btx6g3xgtg54f68m93aow7t",
+              "title": "Cayley-Hamilton Theorem",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "4e4uv6kydsnn09xemle6ok1",
+              "title": "Eigenvalues and Eigenvectors of Hermitian Matrices",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "amle684tzu04xxy5sjdjvn6",
+              "title": "Forms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            },
+            {
+              "key": "2yto361ji010ae96sp9iee0",
+              "title": "Singular Value Decomposition",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "s1y1jxgk5fpdknpk6je7bym",
+          "title": "Transformation Groups",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Linear algebra",
+          "children": [
+            {
+              "key": "k0f8nh1skx99x6b1efjfbdi",
+              "title": "Metrics",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Linear algebra",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "pljx45cxmkjv1tt8kohsggi": null,
+    "dsj2qe8miwbf9b8bx301eo9": "pljx45cxmkjv1tt8kohsggi",
+    "w9edr0w0irit2nls3qryzxp": "dsj2qe8miwbf9b8bx301eo9",
+    "b6pvgfgsebio60eelk93piq": "dsj2qe8miwbf9b8bx301eo9",
+    "p6qgibfnguwutpsdy24bzls": "dsj2qe8miwbf9b8bx301eo9",
+    "bof4d8unu2g8shqxa7vhs4p": "dsj2qe8miwbf9b8bx301eo9",
+    "97hpohs61y3zs5fg8yh2s4a": "pljx45cxmkjv1tt8kohsggi",
+    "cijw6w7tpvzehpgzd9u59gf": "97hpohs61y3zs5fg8yh2s4a",
+    "acofzyoqoi8d1hn41m901zr": "97hpohs61y3zs5fg8yh2s4a",
+    "83h5gwe0p7n8x55rqr9x8op": "97hpohs61y3zs5fg8yh2s4a",
+    "yild13c55t8as7pol36ea84": "97hpohs61y3zs5fg8yh2s4a",
+    "kps1vouu5g7m8efsc1ccr96": "97hpohs61y3zs5fg8yh2s4a",
+    "s4584oa4m259kma2pmw1lnq": "97hpohs61y3zs5fg8yh2s4a",
+    "8r1kh8kplkgwdnntxbb67zt": "97hpohs61y3zs5fg8yh2s4a",
+    "2r2el4g77gk10wt5mm3q6bm": "97hpohs61y3zs5fg8yh2s4a",
+    "psmhf3tnofluj0yiig4pdgt": "pljx45cxmkjv1tt8kohsggi",
+    "3g6oqjvmm0a8xcyxmfi9c98": "psmhf3tnofluj0yiig4pdgt",
+    "i4nj9v4ltupnjuomf6c7vda": "psmhf3tnofluj0yiig4pdgt",
+    "ixvynw05twlgbw1og9o09jc": "psmhf3tnofluj0yiig4pdgt",
+    "1cdknz7rz4s37vg3bf9e6zc": "psmhf3tnofluj0yiig4pdgt",
+    "udf5um6s0gh0r4585waftt3": "psmhf3tnofluj0yiig4pdgt",
+    "g3saar7em9n8mr1cgmrackv": "psmhf3tnofluj0yiig4pdgt",
+    "kzc5fzc65b83qv97lrkuqff": "psmhf3tnofluj0yiig4pdgt",
+    "46o6bijc8pbrmvcf5v9awc9": "psmhf3tnofluj0yiig4pdgt",
+    "pb3vb4nmzjvobpmrnoj9qxl": "psmhf3tnofluj0yiig4pdgt",
+    "j03u376ezurk37ks0i9f5ej": "pljx45cxmkjv1tt8kohsggi",
+    "o1xylvjonk35o9wnkmd060y": "j03u376ezurk37ks0i9f5ej",
+    "n417qwzj6g9sqx0h2tcpsoo": "j03u376ezurk37ks0i9f5ej",
+    "gaidz59s80wjrr035osuo5h": "pljx45cxmkjv1tt8kohsggi",
+    "tklb5g2nntypp66xuohwavb": "gaidz59s80wjrr035osuo5h",
+    "xsw48w148tbq8wcyezaw1hj": "gaidz59s80wjrr035osuo5h",
+    "pfvduov4dlnmrwikm39lsne": "gaidz59s80wjrr035osuo5h",
+    "7tx741gb0nmw3q1pv9u4kjk": "gaidz59s80wjrr035osuo5h",
+    "0v6omcg3j6htia1jtgc613m": "gaidz59s80wjrr035osuo5h",
+    "0b2cc21hzv5pgirnffcuyyo": "gaidz59s80wjrr035osuo5h",
+    "btx6g3xgtg54f68m93aow7t": "gaidz59s80wjrr035osuo5h",
+    "4e4uv6kydsnn09xemle6ok1": "gaidz59s80wjrr035osuo5h",
+    "amle684tzu04xxy5sjdjvn6": "gaidz59s80wjrr035osuo5h",
+    "2yto361ji010ae96sp9iee0": "gaidz59s80wjrr035osuo5h",
+    "s1y1jxgk5fpdknpk6je7bym": "pljx45cxmkjv1tt8kohsggi",
+    "k0f8nh1skx99x6b1efjfbdi": "s1y1jxgk5fpdknpk6je7bym"
+  },
+  "notesLabelById": {
+    "pljx45cxmkjv1tt8kohsggi": "Linear Algebra",
+    "dsj2qe8miwbf9b8bx301eo9": "Complex Numbers",
+    "w9edr0w0irit2nls3qryzxp": "Formulas and Theorems",
+    "b6pvgfgsebio60eelk93piq": "Complex Exponentiation",
+    "p6qgibfnguwutpsdy24bzls": "Roots of Unity",
+    "bof4d8unu2g8shqxa7vhs4p": "Geometric Equations",
+    "97hpohs61y3zs5fg8yh2s4a": "Vectors",
+    "cijw6w7tpvzehpgzd9u59gf": "Definitions and Properties",
+    "acofzyoqoi8d1hn41m901zr": "Scalar Product",
+    "83h5gwe0p7n8x55rqr9x8op": "Vector Product",
+    "yild13c55t8as7pol36ea84": "Linear Independence and Basis",
+    "kps1vouu5g7m8efsc1ccr96": "Subspaces",
+    "s4584oa4m259kma2pmw1lnq": "Complex Vector Spaces",
+    "8r1kh8kplkgwdnntxbb67zt": "Tensor Notation",
+    "2r2el4g77gk10wt5mm3q6bm": "Vector Geometry",
+    "psmhf3tnofluj0yiig4pdgt": "Matrices and Linear Maps",
+    "3g6oqjvmm0a8xcyxmfi9c98": "Defining Linear Maps",
+    "i4nj9v4ltupnjuomf6c7vda": "Rank and Nullity",
+    "ixvynw05twlgbw1og9o09jc": "Matrices as Linear Maps",
+    "1cdknz7rz4s37vg3bf9e6zc": "Examples of Linear Maps",
+    "udf5um6s0gh0r4585waftt3": "Matrix Operations",
+    "g3saar7em9n8mr1cgmrackv": "Determinants",
+    "kzc5fzc65b83qv97lrkuqff": "Permutations",
+    "46o6bijc8pbrmvcf5v9awc9": "Higher-Dimensional Determinants",
+    "pb3vb4nmzjvobpmrnoj9qxl": "Determinants of Products",
+    "j03u376ezurk37ks0i9f5ej": "Systems of Linear Equations",
+    "o1xylvjonk35o9wnkmd060y": "Matrix Inverses and Linear Equations",
+    "n417qwzj6g9sqx0h2tcpsoo": "Matrix Rank",
+    "gaidz59s80wjrr035osuo5h": "Eigenvalues and Eigenvectors",
+    "tklb5g2nntypp66xuohwavb": "Basic Definitions and Results",
+    "xsw48w148tbq8wcyezaw1hj": "Eigenspaces",
+    "pfvduov4dlnmrwikm39lsne": "Change of Basis",
+    "7tx741gb0nmw3q1pv9u4kjk": "Similar Matrices and Diagonalization",
+    "0v6omcg3j6htia1jtgc613m": "Canonical Forms",
+    "0b2cc21hzv5pgirnffcuyyo": "Differential Equations",
+    "btx6g3xgtg54f68m93aow7t": "Cayley-Hamilton Theorem",
+    "4e4uv6kydsnn09xemle6ok1": "Eigenvalues and Eigenvectors of Hermitian Matrices",
+    "amle684tzu04xxy5sjdjvn6": "Forms",
+    "2yto361ji010ae96sp9iee0": "Singular Value Decomposition",
+    "s1y1jxgk5fpdknpk6je7bym": "Transformation Groups",
+    "k0f8nh1skx99x6b1efjfbdi": "Metrics"
+  }
+}
