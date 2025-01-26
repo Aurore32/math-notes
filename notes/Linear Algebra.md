@@ -2,9 +2,9 @@
 id: pljx45cxmkjv1tt8kohsggi
 title: Linear Algebra
 desc: ''
-updated: 1734662180189
+updated: 1737878892730
 created: 1734661699359
-nav_order: 1
+nav_order: 2
 ---
 ### Created by Turbo Huang
 <hr>
