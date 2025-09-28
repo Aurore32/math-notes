@@ -11,5 +11,13 @@
   "description": "",
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.122.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aurore32/math-notes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aurore32/math-notes/issues"
+  },
+  "homepage": "https://github.com/Aurore32/math-notes#readme"
 }
