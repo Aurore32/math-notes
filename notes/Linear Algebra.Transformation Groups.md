@@ -2,11 +2,11 @@
 id: s1y1jxgk5fpdknpk6je7bym
 title: Transformation Groups
 desc: ''
-updated: 1737792671354
+updated: 1739095429980
 created: 1737716387103
 nav_order: 6
 ---
-Apparently there's a fun little pattern with how these Cum Breech Tripod courses are designed: they give you the world's most microscopic glimpse of the next course you'll be studying, but like Vince Gilligan, they end it right before the good part to pad viewer engagement. Cowards. 
+Apparently there's a fun little pattern with how these Cum Breech Tripod courses are designed: they give you the world's most microscopic glimpse of the next course you'll be studying, but like Vince Gilligan, they end it right before the good part to pad viewer engagement. Cowards (Unvravo Bince).
 
 ## Defining groups
 > ~~<span style="background-color: #03cafc; color: black;">Definition</span>. I'm done with this shit, yo. Just go take **Group Theory** or something.~~
@@ -276,3 +276,4 @@ $$
 which is a rotation.
 
 > <span style="background-color: #ffb812; color: black;">Remark</span>. The determinant of a rotation matrix (as above) is $1$; the determinant of a reflection matrxi is $-1$. Thus we conclude that if $P \in SO(2)$, the group of orthogonal matrices with determinant 1, then it is a rotation matrix.
+

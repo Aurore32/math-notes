@@ -2,7 +2,7 @@
 id: 83h5gwe0p7n8x55rqr9x8op
 title: Vector Product
 desc: ''
-updated: 1734851038279
+updated: 1759080976541
 created: 1734666703498
 nav_order: 3
 ---
@@ -44,7 +44,7 @@ as $\hat{n}$ is a unit vector. Thus, the area of the triangle is half the magnit
 ### Area of a parallelpiped
 (Derived from the Ancient Greek prefix *parallel*, meaning parallel, and *pipos*, meaning pipes.)
 
-![alt text](image-1.png)
+![alt text](./assets/images/image-1.png)
 
 A parallelpiped is just a really jiggly parallelogram. (This should be a proposition.) We first define
 > <span style="background-color: #03cafc; color: black;">Definition</span> (Scalar triple product). Write $[\mathbf{a,b,c}]$ for three vectors $\mathbf{a,b,c}$ to denote the product $\mathbf{a\cdot(b\times c)}$. As this is a vector product first and a scalar product second, this outputs a scalar.

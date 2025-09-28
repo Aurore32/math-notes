@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: Linear algebra
+            name: notes
     journal:
         dailyDomain: daily
         name: journal
@@ -82,8 +82,6 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    assetsPrefix: /math-notes
-    siteUrl: https://aurore32.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true

@@ -1,0 +1,23 @@
+---
+id: r6778su93rvk465af181xit
+title: Resonance of Solutions
+desc: ''
+updated: 1738386546305
+created: 1738386496461
+nav_order: 3
+---
+In the previous section, we mentioned the notion of an *indicial equation* that determined the index of the Frobenius series in the case of a regular singular point. As with differential equations with constant coefficients, it may be that this indicial equation yields repeated roots or roots $\sigma_1,\ \sigma_2$ that have special characteristics. Let's examine these cases one by one:
+
+1. $\sigma_2-\sigma_1$ is not an integer. In this case, the two Frobenius series
+$$
+    \sum_{n=0}^{\infty}c_n(x-x_0)^{n+\sigma_{1,2}}
+$$
+are independent solutions to the differential equation. 
+2. $\sigma_2-\sigma_1$ is an integer (including when the two are equal). In this case, one series is contained within the other, so the Frobenius method cannot find two independent series. One independent solution will be 
+$$
+    y_1=\sum_{n=0}^{\infty}c_n(x-x_0)^{n+\sigma_2}
+$$
+for $\sigma_2\geq \sigma_1$, as dictated by the Frobenius series, but the other independent solution will usually be in the form
+$$
+    y_2=\ln(x-x_0)y_1+\sum_{n=0}^{\infty}b_n(x-x_0)^{n+\sigma_2}
+$$

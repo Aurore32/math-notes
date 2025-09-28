@@ -2,7 +2,7 @@
 id: pfvduov4dlnmrwikm39lsne
 title: Change of Basis
 desc: ''
-updated: 1736992219293
+updated: 1742623849674
 created: 1736675317856
 nav_order: 3
 ---
@@ -110,7 +110,7 @@ to the linear combination of $\tilde{e}_n$s
 $$
 \mathbf{x} = b_1 \tilde{e}_1 + b_2 \tilde{e}_2 + ... + b_n \tilde{e}_n.
 $$
-(You can pinpoint the exact moment where the amount of shits I gave about bolding out all the vectors dropped irrevocably to zero.)
+(You can pinpoint the exact moment where the amount of craps I gave about bolding out all the vectors dropped irrevocably to zero.)
 
 In the basis $\{e_i\}$, we have
 $$

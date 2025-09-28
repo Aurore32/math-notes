@@ -1,0 +1,9 @@
+---
+id: phi04hkjfomkh64fsqcz5j8
+title: Tensors
+desc: ''
+updated: 1742605651001
+created: 1742543644349
+nav_order: 8
+---
+> Tensors are things that are elements of tensor spaces. Basically, if it looks like a tensor and walks like a tensor, it's a tensor, except for when it isn't; and if it smells like a tensor and talks like a tensor, it's probably a tensor but you should ask it "what are you?" just to make sure. If it says "a fancy list of numbers", call the nearest pest-control crew or spray it with herbicide yourself; it's three machine-learning computer scientists in disguise. If it says "past, present, and future", run quickly and never look back. But if it says "a tensor", it might just be a tensor, unless it's not. Please help me get out of here I haven't seen my family in six months
