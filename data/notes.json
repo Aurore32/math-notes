@@ -1,0 +1,6956 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1759095748789,
+      "created": 1759095748789,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "cvrcdb8o4kzgfzvj7bowdtl": {
+      "id": "cvrcdb8o4kzgfzvj7bowdtl",
+      "title": "Math notes",
+      "desc": "",
+      "updated": 1735562176549,
+      "created": 1734849922137,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "481bdea8146b7628306ea1ea7f984bd7",
+      "links": [],
+      "anchors": {
+        "by-turbo-huang": {
+          "type": "header",
+          "text": "By Turbo Huang",
+          "value": "by-turbo-huang",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6pzg4lteljkq8fn4clmv9y1",
+        "nws43qzeppx8mrw19k868hu",
+        "pljx45cxmkjv1tt8kohsggi",
+        "3tmmw5hl8xrirepk0mjudl4"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "3tmmw5hl8xrirepk0mjudl4": {
+      "id": "3tmmw5hl8xrirepk0mjudl4",
+      "title": "Vector Calculus",
+      "desc": "",
+      "updated": 1739856502343,
+      "created": 1739433639620,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "deded804f7a8ba5b369499667b85d09f",
+      "links": [
+        {
+          "from": {
+            "fname": "Vector Calculus.Differential Operators.Second-Order Operators",
+            "id": "z7hgjig8068ld6bvrym4qgi",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 72,
+              "column": 209,
+              "offset": 3673
+            },
+            "end": {
+              "line": 72,
+              "column": 228,
+              "offset": 3692
+            },
+            "indent": []
+          },
+          "value": "Vector Calculus"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "8f3knzlp7caw0zuy3zvux02",
+        "42ta6y1z42bfkexycvzr7d6",
+        "q8j48hpustufdimi076ru66",
+        "m3zun4jdnkto6pb8o6j19ym",
+        "x467ljycicwakgbfe821jzm",
+        "4zlw0by57byl7ojg5soybhy",
+        "wagqdbxliknfhukctsf4bcj",
+        "xot3ips2e7ncbzc1xg1xxny",
+        "phi04hkjfomkh64fsqcz5j8"
+      ],
+      "parent": "cvrcdb8o4kzgfzvj7bowdtl",
+      "data": {}
+    },
+    "phi04hkjfomkh64fsqcz5j8": {
+      "id": "phi04hkjfomkh64fsqcz5j8",
+      "title": "Tensors",
+      "desc": "",
+      "updated": 1742605651001,
+      "created": 1742543644349,
+      "nav_order": 8,
+      "custom": {
+        "nav_order": 8
+      },
+      "fname": "Vector Calculus.Tensors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "85d4c95392ae4a77d2911611286de216",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "jqmpl4v1p55nm8mwx655y7w",
+        "d2bdexizo9ca3cmahu5a3uf",
+        "rxi1zafrraesc93a8tb2yrf",
+        "5xckuaks5kuji8gyg4ah7pv"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "5xckuaks5kuji8gyg4ah7pv": {
+      "id": "5xckuaks5kuji8gyg4ah7pv",
+      "title": "Tensors are Tensors",
+      "desc": "",
+      "updated": 1752566729132,
+      "created": 1742605673599,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Tensors.Tensors are Tensors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "46904048a801efda23917a6b1521431c",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Tensors",
+            "id": "5xckuaks5kuji8gyg4ah7pv",
+            "vaultName": "notes"
+          },
+          "value": "Linear Algebra",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 123,
+              "offset": 1887
+            },
+            "end": {
+              "line": 19,
+              "column": 141,
+              "offset": 1905
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Linear Algebra"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Tensors",
+            "id": "5xckuaks5kuji8gyg4ah7pv",
+            "vaultName": "notes"
+          },
+          "value": "Linear Algebra.Transformation Groups",
+          "position": {
+            "start": {
+              "line": 103,
+              "column": 76,
+              "offset": 5205
+            },
+            "end": {
+              "line": 103,
+              "column": 116,
+              "offset": 5245
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Linear Algebra.Transformation Groups"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Tensors",
+            "id": "5xckuaks5kuji8gyg4ah7pv",
+            "vaultName": "notes"
+          },
+          "value": "Linear Algebra.Eigenvalues and Eigenvectors.Change of Basis",
+          "position": {
+            "start": {
+              "line": 131,
+              "column": 153,
+              "offset": 6306
+            },
+            "end": {
+              "line": 131,
+              "column": 216,
+              "offset": 6369
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Change of Basis"
+          }
+        }
+      ],
+      "anchors": {
+        "what-are-tensors": {
+          "type": "header",
+          "text": "What are tensors?",
+          "value": "what-are-tensors",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "what-do-tensors-look-like": {
+          "type": "header",
+          "text": "What do tensors look like?",
+          "value": "what-do-tensors-look-like",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "what-do-tensors-need-to-be": {
+          "type": "header",
+          "text": "What do tensors need to be?",
+          "value": "what-do-tensors-need-to-be",
+          "line": 22,
+          "column": 0,
+          "depth": 3
+        },
+        "tensor-transformation-laws": {
+          "type": "header",
+          "text": "Tensor transformation laws",
+          "value": "tensor-transformation-laws",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "vector-transformations": {
+          "type": "header",
+          "text": "Vector transformations",
+          "value": "vector-transformations",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "matrix-transformations": {
+          "type": "header",
+          "text": "Matrix transformations",
+          "value": "matrix-transformations",
+          "line": 140,
+          "column": 0,
+          "depth": 3
+        },
+        "general-tensor-transformations": {
+          "type": "header",
+          "text": "General tensor transformations",
+          "value": "general-tensor-transformations",
+          "line": 170,
+          "column": 0,
+          "depth": 3
+        },
+        "what-is-not-a-tensor": {
+          "type": "header",
+          "text": "What is not a tensor?",
+          "value": "what-is-not-a-tensor",
+          "line": 199,
+          "column": 0,
+          "depth": 3
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 138,
+          "column": 269
+        }
+      },
+      "children": [],
+      "parent": "phi04hkjfomkh64fsqcz5j8",
+      "data": {}
+    },
+    "rxi1zafrraesc93a8tb2yrf": {
+      "id": "rxi1zafrraesc93a8tb2yrf",
+      "title": "Tensors are Other Things",
+      "desc": "",
+      "updated": 1759080976481,
+      "created": 1742879056428,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Vector Calculus.Tensors.Tensors are Other Things",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ef302224bfc051feb9f105c824e5c7fb",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Other Things",
+            "id": "rxi1zafrraesc93a8tb2yrf",
+            "vaultName": "notes"
+          },
+          "value": "Linear Algebra.Eigenvalues and Eigenvectors.Eigenvalues and Eigenvectors of Hermitian Matrices",
+          "position": {
+            "start": {
+              "line": 174,
+              "column": 70,
+              "offset": 14304
+            },
+            "end": {
+              "line": 174,
+              "column": 168,
+              "offset": 14402
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Eigenvalues and Eigenvectors of Hermitian Matrices"
+          }
+        }
+      ],
+      "anchors": {
+        "the-existential-question": {
+          "type": "header",
+          "text": "The existential question",
+          "value": "the-existential-question",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "tensors-in-electric-fields": {
+          "type": "header",
+          "text": "Tensors in electric fields",
+          "value": "tensors-in-electric-fields",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        },
+        "the-inertia-tensor": {
+          "type": "header",
+          "text": "The inertia tensor",
+          "value": "the-inertia-tensor",
+          "line": 133,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "phi04hkjfomkh64fsqcz5j8",
+      "data": {}
+    },
+    "d2bdexizo9ca3cmahu5a3uf": {
+      "id": "d2bdexizo9ca3cmahu5a3uf",
+      "title": "Tensors are Multilinear Maps",
+      "desc": "",
+      "updated": 1752570462014,
+      "created": 1742629369065,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Tensors.Tensors are Multilinear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "6ad3bea85188277d618bea8905798078",
+      "links": [],
+      "anchors": {
+        "what-are-multilinear-maps": {
+          "type": "header",
+          "text": "What are multilinear maps?",
+          "value": "what-are-multilinear-maps",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "tensor-operations": {
+          "type": "header",
+          "text": "Tensor operations",
+          "value": "tensor-operations",
+          "line": 73,
+          "column": 0,
+          "depth": 2
+        },
+        "linear-operations-on-tensors": {
+          "type": "header",
+          "text": "Linear operations on tensors",
+          "value": "linear-operations-on-tensors",
+          "line": 79,
+          "column": 0,
+          "depth": 3
+        },
+        "tensor-multiplication": {
+          "type": "header",
+          "text": "Tensor multiplication",
+          "value": "tensor-multiplication",
+          "line": 96,
+          "column": 0,
+          "depth": 3
+        },
+        "tensor-contraction": {
+          "type": "header",
+          "text": "Tensor contraction",
+          "value": "tensor-contraction",
+          "line": 146,
+          "column": 0,
+          "depth": 3
+        },
+        "symmetric-and-anti-symmetric-matrices": {
+          "type": "header",
+          "text": "Symmetric and anti-symmetric matrices",
+          "value": "symmetric-and-anti-symmetric-matrices",
+          "line": 162,
+          "column": 0,
+          "depth": 3
+        },
+        "contracting-products-and-the-quotient-rule": {
+          "type": "header",
+          "text": "Contracting products and the quotient rule",
+          "value": "contracting-products-and-the-quotient-rule",
+          "line": 231,
+          "column": 0,
+          "depth": 2
+        },
+        "contracting-a-product": {
+          "type": "header",
+          "text": "Contracting a product",
+          "value": "contracting-a-product",
+          "line": 235,
+          "column": 0,
+          "depth": 3
+        },
+        "tensor-quotients": {
+          "type": "header",
+          "text": "Tensor quotients",
+          "value": "tensor-quotients",
+          "line": 253,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 64,
+          "column": 54
+        },
+        "^1": {
+          "type": "block",
+          "value": "1",
+          "line": 221,
+          "column": 26
+        },
+        "^k": {
+          "type": "block",
+          "value": "k",
+          "line": 217,
+          "column": 57
+        },
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 221,
+          "column": 52
+        }
+      },
+      "children": [],
+      "parent": "phi04hkjfomkh64fsqcz5j8",
+      "data": {}
+    },
+    "jqmpl4v1p55nm8mwx655y7w": {
+      "id": "jqmpl4v1p55nm8mwx655y7w",
+      "title": "Tensors are Tensor Fields",
+      "desc": "",
+      "updated": 1752577914530,
+      "created": 1742655660227,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus.Tensors.Tensors are Elements of Tensor Fields",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "1934b7299fb0b8ea3026a7b269791885",
+      "links": [],
+      "anchors": {
+        "invariant-and-isotropic-tensors": {
+          "type": "header",
+          "text": "Invariant and isotropic tensors",
+          "value": "invariant-and-isotropic-tensors",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "rank-2-tensor-decomposition": {
+          "type": "header",
+          "text": "Rank $2$ tensor decomposition",
+          "value": "rank-2-tensor-decomposition",
+          "line": 91,
+          "column": 0,
+          "depth": 3
+        },
+        "tensor-fields-and-their-derivatives": {
+          "type": "header",
+          "text": "Tensor fields and their derivatives",
+          "value": "tensor-fields-and-their-derivatives",
+          "line": 116,
+          "column": 0,
+          "depth": 2
+        },
+        "tensor-integral-theorems": {
+          "type": "header",
+          "text": "Tensor integral theorems",
+          "value": "tensor-integral-theorems",
+          "line": 192,
+          "column": 0,
+          "depth": 2
+        },
+        "invariant-integrals": {
+          "type": "header",
+          "text": "Invariant integrals",
+          "value": "invariant-integrals",
+          "line": 194,
+          "column": 0,
+          "depth": 3
+        },
+        "tensor-divergence-theorem": {
+          "type": "header",
+          "text": "Tensor divergence theorem",
+          "value": "tensor-divergence-theorem",
+          "line": 251,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "phi04hkjfomkh64fsqcz5j8",
+      "data": {}
+    },
+    "xot3ips2e7ncbzc1xg1xxny": {
+      "id": "xot3ips2e7ncbzc1xg1xxny",
+      "title": "Surface Integrals",
+      "desc": "",
+      "updated": 1741099326672,
+      "created": 1741098914158,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Vector Calculus.Surface Integrals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "8f09c555df5bad686dbf64e974a77f09",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "bppjh6ro6ivkjzybl0218pg",
+        "j2xtas36maeloynfjl7khnm"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "j2xtas36maeloynfjl7khnm": {
+      "id": "j2xtas36maeloynfjl7khnm",
+      "title": "Evaluating Surface Integrals",
+      "desc": "",
+      "updated": 1759080976484,
+      "created": 1741266390249,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Surface Integrals.Scalar Fields",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "608c0d8d8c71ac479754bb0ae08b9b4f",
+      "links": [],
+      "anchors": {
+        "generalizing-the-line-integral": {
+          "type": "header",
+          "text": "Generalizing the line integral",
+          "value": "generalizing-the-line-integral",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "areas-along-a-parametric-surface": {
+          "type": "header",
+          "text": "Areas along a parametric surface",
+          "value": "areas-along-a-parametric-surface",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "reparameterization-invariance": {
+          "type": "header",
+          "text": "Reparameterization invariance",
+          "value": "reparameterization-invariance",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "scalar-fields": {
+          "type": "header",
+          "text": "Scalar fields",
+          "value": "scalar-fields",
+          "line": 80,
+          "column": 0,
+          "depth": 2
+        },
+        "vector-fields": {
+          "type": "header",
+          "text": "Vector fields",
+          "value": "vector-fields",
+          "line": 127,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 122,
+          "column": 8
+        }
+      },
+      "children": [],
+      "parent": "xot3ips2e7ncbzc1xg1xxny",
+      "data": {}
+    },
+    "bppjh6ro6ivkjzybl0218pg": {
+      "id": "bppjh6ro6ivkjzybl0218pg",
+      "title": "Revisiting Surfaces",
+      "desc": "",
+      "updated": 1751784703744,
+      "created": 1741253401067,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Surface Integrals.Revisiting Surfaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b50c94c5fbace50d00c738a5adf9a85c",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Surface Integrals.Revisiting Surfaces",
+            "id": "bppjh6ro6ivkjzybl0218pg",
+            "vaultName": "notes"
+          },
+          "value": "Vector Calculus.Curves and Surfaces.Surfaces",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 16,
+              "offset": 15
+            },
+            "end": {
+              "line": 1,
+              "column": 64,
+              "offset": 63
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Vector Calculus.Curves and Surfaces.Surfaces"
+          }
+        }
+      ],
+      "anchors": {
+        "review-see-": {
+          "type": "header",
+          "text": "Review (See )",
+          "value": "review-see-",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "defining-surfaces": {
+          "type": "header",
+          "text": "Defining surfaces",
+          "value": "defining-surfaces",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "normal-vectors-to-surfaces": {
+          "type": "header",
+          "text": "Normal vectors to surfaces",
+          "value": "normal-vectors-to-surfaces",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "boundaries-to-surfaces": {
+          "type": "header",
+          "text": "Boundaries to surfaces",
+          "value": "boundaries-to-surfaces",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        },
+        "orientability": {
+          "type": "header",
+          "text": "Orientability",
+          "value": "orientability",
+          "line": 62,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "xot3ips2e7ncbzc1xg1xxny",
+      "data": {}
+    },
+    "wagqdbxliknfhukctsf4bcj": {
+      "id": "wagqdbxliknfhukctsf4bcj",
+      "title": "Poisson and Laplace Equations",
+      "desc": "",
+      "updated": 1742203588344,
+      "created": 1742200156817,
+      "nav_order": 8,
+      "custom": {
+        "nav_order": 8
+      },
+      "fname": "Vector Calculus.Poisson and Laplace Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "2b286dd4d5564af9af8607b351e33415",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "bg8uqr6kl87d2bt7ydgvxwl",
+        "8o8n6c8bwvppdsgg6j5uoy0",
+        "9ct9sy0ph4ewyzsppgv363h",
+        "9pqdbygdcfz3lg0q2pas8oy"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "9pqdbygdcfz3lg0q2pas8oy": {
+      "id": "9pqdbygdcfz3lg0q2pas8oy",
+      "title": "Solving the Laplace Equation",
+      "desc": "",
+      "updated": 1742545394835,
+      "created": 1742481102824,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Poisson and Laplace Equations.Solving the Laplace Equation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "6332d855dede71e04bf58aba359b42a7",
+      "links": [],
+      "anchors": {
+        "properties-of-the-laplace-equation": {
+          "type": "header",
+          "text": "Properties of the Laplace equation",
+          "value": "properties-of-the-laplace-equation",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "radial-symmetry-and-isotropic-solutions": {
+          "type": "header",
+          "text": "Radial symmetry and isotropic solutions",
+          "value": "radial-symmetry-and-isotropic-solutions",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "monopoles-and-dipoles": {
+          "type": "header",
+          "text": "Monopoles and dipoles",
+          "value": "monopoles-and-dipoles",
+          "line": 65,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "wagqdbxliknfhukctsf4bcj",
+      "data": {}
+    },
+    "9ct9sy0ph4ewyzsppgv363h": {
+      "id": "9ct9sy0ph4ewyzsppgv363h",
+      "title": "Integral Solutions",
+      "desc": "",
+      "updated": 1742563178919,
+      "created": 1742543630798,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Vector Calculus.Poisson and Laplace Equations.Integral Solutions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "78ed39a71983ae59ecf9ae29a3ad5135",
+      "links": [],
+      "anchors": {
+        "point-sources-and-the-delta-function": {
+          "type": "header",
+          "text": "Point sources and the Delta function",
+          "value": "point-sources-and-the-delta-function",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "an-integral-solution-for-the-poisson-equation": {
+          "type": "header",
+          "text": "An integral solution for the Poisson equation",
+          "value": "an-integral-solution-for-the-poisson-equation",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wagqdbxliknfhukctsf4bcj",
+      "data": {}
+    },
+    "8o8n6c8bwvppdsgg6j5uoy0": {
+      "id": "8o8n6c8bwvppdsgg6j5uoy0",
+      "title": "Existence and Uniqueness",
+      "desc": "",
+      "updated": 1752494793448,
+      "created": 1742543622086,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus.Poisson and Laplace Equations.Existence and Uniqueness",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "0a4263c2f31ea599455adc87daa40194",
+      "links": [],
+      "anchors": {
+        "boundary-conditions-and-poissons-equation": {
+          "type": "header",
+          "text": "Boundary conditions and Poisson's Equation",
+          "value": "boundary-conditions-and-poissons-equation",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "harmonic-functions-and-their-properties": {
+          "type": "header",
+          "text": "Harmonic functions and their properties",
+          "value": "harmonic-functions-and-their-properties",
+          "line": 91,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wagqdbxliknfhukctsf4bcj",
+      "data": {}
+    },
+    "bg8uqr6kl87d2bt7ydgvxwl": {
+      "id": "bg8uqr6kl87d2bt7ydgvxwl",
+      "title": "Physical Origins and Significance",
+      "desc": "",
+      "updated": 1752283104608,
+      "created": 1742467566512,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Poisson and Laplace Equations.Derivation and Significance",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "cb93210b0d9689f81f14c2993f5b231e",
+      "links": [],
+      "anchors": {
+        "the-fundamental-forces": {
+          "type": "header",
+          "text": "The Fundamental Forces",
+          "value": "the-fundamental-forces",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "inverse-square-unification": {
+          "type": "header",
+          "text": "Inverse-square unification",
+          "value": "inverse-square-unification",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "the-poisson-and-laplace-equations": {
+          "type": "header",
+          "text": "The Poisson and Laplace Equations",
+          "value": "the-poisson-and-laplace-equations",
+          "line": 129,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wagqdbxliknfhukctsf4bcj",
+      "data": {}
+    },
+    "4zlw0by57byl7ojg5soybhy": {
+      "id": "4zlw0by57byl7ojg5soybhy",
+      "title": "Partial Differentiation",
+      "desc": "",
+      "updated": 1739929660790,
+      "created": 1739861370121,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Partial Differentiation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "4c9358db1fbc092dc02e7f160f66c592",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "68ii6enm0j9cktgmk6183bg",
+        "adt80pku4ms2kx67urfykds",
+        "a51b94g3myhubif5xgfnslp",
+        "94otf54sqlrwh45msr4awez",
+        "13zb1v1saqoj2doziceal14",
+        "cp1tdvhopvnu9t3jk44jvi5"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "cp1tdvhopvnu9t3jk44jvi5": {
+      "id": "cp1tdvhopvnu9t3jk44jvi5",
+      "title": "The Chain Rule",
+      "desc": "",
+      "updated": 1751704599208,
+      "created": 1740192686677,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Vector Calculus.Partial Differentiation.The Chain Rule",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "df182ddd0643169a11c3f60491d75fb2",
+      "links": [],
+      "anchors": {
+        "the-univariate-chain-rule-revisited": {
+          "type": "header",
+          "text": "The univariate chain rule, revisited",
+          "value": "the-univariate-chain-rule-revisited",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "the-chain-rule-in-2d": {
+          "type": "header",
+          "text": "The chain rule in 2D",
+          "value": "the-chain-rule-in-2d",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "4zlw0by57byl7ojg5soybhy",
+      "data": {}
+    },
+    "13zb1v1saqoj2doziceal14": {
+      "id": "13zb1v1saqoj2doziceal14",
+      "title": "Review",
+      "desc": "",
+      "updated": 1759080976491,
+      "created": 1739862154021,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Partial Differentiation.Review",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "49948ade02ddb2b3b95c0613eb5af9e9",
+      "links": [],
+      "anchors": {
+        "vector-notation": {
+          "type": "header",
+          "text": "Vector notation",
+          "value": "vector-notation",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "basic-properties-of-vector-addition-and-multiplication": {
+          "type": "header",
+          "text": "Basic properties of vector addition and multiplication",
+          "value": "basic-properties-of-vector-addition-and-multiplication",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        },
+        "polar-coordinates-in-mathbbr3": {
+          "type": "header",
+          "text": "Polar coordinates in $\\mathbb{R^3}$",
+          "value": "polar-coordinates-in-mathbbr3",
+          "line": 64,
+          "column": 0,
+          "depth": 2
+        },
+        "cylindrical-polar-coordinates": {
+          "type": "header",
+          "text": "Cylindrical polar coordinates",
+          "value": "cylindrical-polar-coordinates",
+          "line": 66,
+          "column": 0,
+          "depth": 3
+        },
+        "spherical-polar-coordinates": {
+          "type": "header",
+          "text": "Spherical polar coordinates",
+          "value": "spherical-polar-coordinates",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        },
+        "determinants": {
+          "type": "header",
+          "text": "Determinants",
+          "value": "determinants",
+          "line": 98,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4zlw0by57byl7ojg5soybhy",
+      "data": {}
+    },
+    "94otf54sqlrwh45msr4awez": {
+      "id": "94otf54sqlrwh45msr4awez",
+      "title": "Partial Derivatives",
+      "desc": "",
+      "updated": 1751703632455,
+      "created": 1740130227601,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus.Partial Differentiation.Partial Derivatives",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "c2081187d6fcb6c26f783f988d99e490",
+      "links": [],
+      "anchors": {
+        "defining-partial-derivatives": {
+          "type": "header",
+          "text": "Defining partial derivatives",
+          "value": "defining-partial-derivatives",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "directional-derivatives": {
+          "type": "header",
+          "text": "Directional derivatives",
+          "value": "directional-derivatives",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        },
+        "differentiability": {
+          "type": "header",
+          "text": "Differentiability",
+          "value": "differentiability",
+          "line": 65,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4zlw0by57byl7ojg5soybhy",
+      "data": {}
+    },
+    "a51b94g3myhubif5xgfnslp": {
+      "id": "a51b94g3myhubif5xgfnslp",
+      "title": "Limits and Continuity",
+      "desc": "",
+      "updated": 1751703075053,
+      "created": 1739929252903,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Partial Differentiation.Limits and Continuity",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "46f1adac441b5b138fcc1047e91f72b7",
+      "links": [],
+      "anchors": {
+        "scalar-functions-of-one-variable": {
+          "type": "header",
+          "text": "Scalar functions of one variable",
+          "value": "scalar-functions-of-one-variable",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "limits": {
+          "type": "header",
+          "text": "Limits",
+          "value": "limits",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "continuity": {
+          "type": "header",
+          "text": "Continuity",
+          "value": "continuity",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "differentiability": {
+          "type": "header",
+          "text": "Differentiability",
+          "value": "differentiability",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "taylors-theorem": {
+          "type": "header",
+          "text": "Taylor's theorem",
+          "value": "taylors-theorem",
+          "line": 52,
+          "column": 0,
+          "depth": 3
+        },
+        "functions-of-several-variables": {
+          "type": "header",
+          "text": "Functions of several variables",
+          "value": "functions-of-several-variables",
+          "line": 95,
+          "column": 0,
+          "depth": 2
+        },
+        "limits-1": {
+          "type": "header",
+          "text": "Limits",
+          "value": "limits-1",
+          "line": 109,
+          "column": 0,
+          "depth": 3
+        },
+        "continuity-1": {
+          "type": "header",
+          "text": "Continuity",
+          "value": "continuity-1",
+          "line": 156,
+          "column": 0,
+          "depth": 3
+        },
+        "derivatives-of-vector-valued-functions": {
+          "type": "header",
+          "text": "Derivatives of vector-valued functions",
+          "value": "derivatives-of-vector-valued-functions",
+          "line": 169,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 197,
+          "column": 31
+        }
+      },
+      "children": [],
+      "parent": "4zlw0by57byl7ojg5soybhy",
+      "data": {}
+    },
+    "adt80pku4ms2kx67urfykds": {
+      "id": "adt80pku4ms2kx67urfykds",
+      "title": "Higher-Order Partial Derivatives",
+      "desc": "",
+      "updated": 1751705126814,
+      "created": 1740203495204,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Vector Calculus.Partial Differentiation.Higher-Order Partial Derivatives",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "240534fcb42e9950b746dcdb7b4398d6",
+      "links": [],
+      "anchors": {
+        "higher-order-partial-derivatives": {
+          "type": "header",
+          "text": "Higher-order partial derivatives",
+          "value": "higher-order-partial-derivatives",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "taylors-theorem-multivariate-case": {
+          "type": "header",
+          "text": "Taylor's theorem (multivariate case)",
+          "value": "taylors-theorem-multivariate-case",
+          "line": 58,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4zlw0by57byl7ojg5soybhy",
+      "data": {}
+    },
+    "68ii6enm0j9cktgmk6183bg": {
+      "id": "68ii6enm0j9cktgmk6183bg",
+      "title": "Gradients",
+      "desc": "",
+      "updated": 1751704656167,
+      "created": 1740201814245,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Vector Calculus.Partial Differentiation.Gradients",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "7c9778f05d0d926df5568d60a8752153",
+      "links": [],
+      "anchors": {
+        "the-gradient-vector": {
+          "type": "header",
+          "text": "The Gradient Vector",
+          "value": "the-gradient-vector",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4zlw0by57byl7ojg5soybhy",
+      "data": {}
+    },
+    "x467ljycicwakgbfe821jzm": {
+      "id": "x467ljycicwakgbfe821jzm",
+      "title": "Multiple Integrals",
+      "desc": "",
+      "updated": 1741013530568,
+      "created": 1741013343143,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Vector Calculus.Multiple Integrals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "95a2d3a1076bf21c61caebd3fb9fc708",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "zwoduv6zfijwzm9s7c8gn4l",
+        "bw0vshsl9q10fgg63mzuci1",
+        "rtukfip9nnyllaawx8dpx9z"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "rtukfip9nnyllaawx8dpx9z": {
+      "id": "rtukfip9nnyllaawx8dpx9z",
+      "title": "Volume Integrals",
+      "desc": "",
+      "updated": 1741098883747,
+      "created": 1741080112673,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus.Multiple Integrals.Volume Integrals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "fb6cdaf5c15278eb6967ba3e8d80a70b",
+      "links": [],
+      "anchors": {
+        "generalizing-the-area-integral": {
+          "type": "header",
+          "text": "Generalizing the area integral",
+          "value": "generalizing-the-area-integral",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "change-of-variables-for-volume-integrals": {
+          "type": "header",
+          "text": "Change of variables for volume integrals",
+          "value": "change-of-variables-for-volume-integrals",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        },
+        "wrapping-up": {
+          "type": "header",
+          "text": "Wrapping up",
+          "value": "wrapping-up",
+          "line": 129,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "x467ljycicwakgbfe821jzm",
+      "data": {}
+    },
+    "bw0vshsl9q10fgg63mzuci1": {
+      "id": "bw0vshsl9q10fgg63mzuci1",
+      "title": "Change of Variables",
+      "desc": "",
+      "updated": 1759080976494,
+      "created": 1741037112788,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Multiple Integrals.Change of Variables",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "fe03cc00d2c5ea11460d8eed33710582",
+      "links": [],
+      "anchors": {
+        "the-jacobian": {
+          "type": "header",
+          "text": "The Jacobian",
+          "value": "the-jacobian",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "polar-coordinates-in-2d": {
+          "type": "header",
+          "text": "Polar coordinates in 2D",
+          "value": "polar-coordinates-in-2d",
+          "line": 87,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "x467ljycicwakgbfe821jzm",
+      "data": {}
+    },
+    "zwoduv6zfijwzm9s7c8gn4l": {
+      "id": "zwoduv6zfijwzm9s7c8gn4l",
+      "title": "Area Integrals",
+      "desc": "",
+      "updated": 1759080976497,
+      "created": 1741014020674,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Multiple Integrals.Area Integrals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ef3fb389bf9c8045ca219f0a2407c671",
+      "links": [],
+      "anchors": {
+        "generalizing-the-integral": {
+          "type": "header",
+          "text": "Generalizing the integral",
+          "value": "generalizing-the-integral",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "area-integrals": {
+          "type": "header",
+          "text": "Area integrals",
+          "value": "area-integrals",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "x467ljycicwakgbfe821jzm",
+      "data": {}
+    },
+    "m3zun4jdnkto6pb8o6j19ym": {
+      "id": "m3zun4jdnkto6pb8o6j19ym",
+      "title": "Line Integrals",
+      "desc": "",
+      "updated": 1759080976503,
+      "created": 1740203627370,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus.Line Integrals and Exact Differentials",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "97d500caaf4c520d2221ec70139c8750",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "jison1m3isyy139b9fv8lq2",
+        "64t8ptaalufwp8zilizp1g0",
+        "19daeqeo5tz5bez00vc1vf6"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "19daeqeo5tz5bez00vc1vf6": {
+      "id": "19daeqeo5tz5bez00vc1vf6",
+      "title": "Riemann Integrals",
+      "desc": "",
+      "updated": 1759080976500,
+      "created": 1740291771625,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Line Integrals and Exact Differentials.Riemann Integrals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "5de482e208970dbaf65f47d85b694204",
+      "links": [],
+      "anchors": {
+        "partitions-and-riemann-sums": {
+          "type": "header",
+          "text": "Partitions and Riemann Sums",
+          "value": "partitions-and-riemann-sums",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "integrals-and-integrability": {
+          "type": "header",
+          "text": "Integrals and Integrability",
+          "value": "integrals-and-integrability",
+          "line": 45,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "m3zun4jdnkto6pb8o6j19ym",
+      "data": {}
+    },
+    "64t8ptaalufwp8zilizp1g0": {
+      "id": "64t8ptaalufwp8zilizp1g0",
+      "title": "Line Integals",
+      "desc": "",
+      "updated": 1751773210979,
+      "created": 1740294342212,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Line Integrals and Exact Differentials.Line Integals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "3621ae5d333c612c958b6f9c19e9b4bc",
+      "links": [],
+      "anchors": {
+        "scalar-fields": {
+          "type": "header",
+          "text": "Scalar fields",
+          "value": "scalar-fields",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "vector-fields": {
+          "type": "header",
+          "text": "Vector fields",
+          "value": "vector-fields",
+          "line": 98,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "m3zun4jdnkto6pb8o6j19ym",
+      "data": {}
+    },
+    "jison1m3isyy139b9fv8lq2": {
+      "id": "jison1m3isyy139b9fv8lq2",
+      "title": "Fundamental Theorem of Line Integrals",
+      "desc": "",
+      "updated": 1759080976513,
+      "created": 1740915300416,
+      "custom": {},
+      "fname": "Vector Calculus.Line Integrals and Exact Differentials.Fundamental Theorem of Line Integrals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "078900fb3a9c62077e302dea3aebe8c9",
+      "links": [],
+      "anchors": {
+        "basic-concepts": {
+          "type": "header",
+          "text": "Basic concepts",
+          "value": "basic-concepts",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
+        "path-independence": {
+          "type": "header",
+          "text": "Path independence",
+          "value": "path-independence",
+          "line": 95,
+          "column": 0,
+          "depth": 3
+        },
+        "closed-paths": {
+          "type": "header",
+          "text": "Closed paths",
+          "value": "closed-paths",
+          "line": 155,
+          "column": 0,
+          "depth": 3
+        },
+        "putting-the-conservative-in-conservative-field": {
+          "type": "header",
+          "text": "Putting the \"conservative\" in \"conservative field\"",
+          "value": "putting-the-conservative-in-conservative-field",
+          "line": 204,
+          "column": 0,
+          "depth": 3
+        },
+        "testing-if-a-field-is-conservative": {
+          "type": "header",
+          "text": "Testing if a field is conservative",
+          "value": "testing-if-a-field-is-conservative",
+          "line": 256,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 235,
+          "column": 185
+        }
+      },
+      "children": [],
+      "parent": "m3zun4jdnkto6pb8o6j19ym",
+      "data": {}
+    },
+    "q8j48hpustufdimi076ru66": {
+      "id": "q8j48hpustufdimi076ru66",
+      "title": "Integral Theorems",
+      "desc": "",
+      "updated": 1759080976510,
+      "created": 1741384606217,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Vector Calculus.Integral Theorems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "f349a912d4582e95b707850109250700",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ug263fsf2k2nyyzjz6w3gfk",
+        "r7sxg4tr107exgx1eb792bh",
+        "nx5x0drn82shqnrk5rllt25",
+        "pw0mr7g1nh90w8kj5gd8q1s",
+        "emg29oynu0ibam7ks899ki8"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "emg29oynu0ibam7ks899ki8": {
+      "id": "emg29oynu0ibam7ks899ki8",
+      "title": "Stokes' Theorem",
+      "desc": "",
+      "updated": 1759080976506,
+      "created": 1741496757617,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus.Integral Theorems.Stokes Theorem",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "32ec684b0b7c0283b1001462b7e5b931",
+      "links": [],
+      "anchors": {
+        "the-big-ideas": {
+          "type": "header",
+          "text": "The big ideas",
+          "value": "the-big-ideas",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "generalizing-greens-theorem": {
+          "type": "header",
+          "text": "Generalizing Green's Theorem",
+          "value": "generalizing-greens-theorem",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "a-new-understanding-of-curl": {
+          "type": "header",
+          "text": "A new understanding of curl",
+          "value": "a-new-understanding-of-curl",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "sketching-a-proof": {
+          "type": "header",
+          "text": "Sketching a proof",
+          "value": "sketching-a-proof",
+          "line": 69,
+          "column": 0,
+          "depth": 2
+        },
+        "corollary-irrotational-fields-are-conservative-fields": {
+          "type": "header",
+          "text": "Corollary: irrotational fields are conservative fields",
+          "value": "corollary-irrotational-fields-are-conservative-fields",
+          "line": 126,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "q8j48hpustufdimi076ru66",
+      "data": {}
+    },
+    "pw0mr7g1nh90w8kj5gd8q1s": {
+      "id": "pw0mr7g1nh90w8kj5gd8q1s",
+      "title": "Green's Theorem",
+      "desc": "",
+      "updated": 1759080976516,
+      "created": 1741384898483,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Integral Theorems.Green and Stokes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "79695dda8f98b0fa59c290405a2a9ff2",
+      "links": [],
+      "anchors": {
+        "the-big-idea": {
+          "type": "header",
+          "text": "The big idea",
+          "value": "the-big-idea",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "sketching-a-proof": {
+          "type": "header",
+          "text": "Sketching a proof",
+          "value": "sketching-a-proof",
+          "line": 46,
+          "column": 0,
+          "depth": 3
+        },
+        "corollaries-of-greens-theorem-the-fundamental-theorem-of-calculus": {
+          "type": "header",
+          "text": "Corollaries of Green's theorem: The Fundamental Theorem of Calculus",
+          "value": "corollaries-of-greens-theorem-the-fundamental-theorem-of-calculus",
+          "line": 73,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "q8j48hpustufdimi076ru66",
+      "data": {}
+    },
+    "nx5x0drn82shqnrk5rllt25": {
+      "id": "nx5x0drn82shqnrk5rllt25",
+      "title": "Examples and Applications",
+      "desc": "",
+      "updated": 1759080976520,
+      "created": 1741420710528,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Vector Calculus.Integral Theorems.Examples and Applications",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "1400f61697cdb6ca6235b925c5766c97",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Integral Theorems.Examples and Applications",
+            "id": "nx5x0drn82shqnrk5rllt25",
+            "vaultName": "notes"
+          },
+          "value": "Differential Equations.Partial Differential Equations.Heat Equation",
+          "position": {
+            "start": {
+              "line": 229,
+              "column": 114,
+              "offset": 12458
+            },
+            "end": {
+              "line": 229,
+              "column": 185,
+              "offset": 12529
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Differential Equations.Partial Differential Equations.Heat Equation"
+          }
+        }
+      ],
+      "anchors": {
+        "basic-examples": {
+          "type": "header",
+          "text": "Basic examples",
+          "value": "basic-examples",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "divergence-theorem": {
+          "type": "header",
+          "text": "Divergence theorem",
+          "value": "divergence-theorem",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "greens-theorem": {
+          "type": "header",
+          "text": "Green's theorem",
+          "value": "greens-theorem",
+          "line": 48,
+          "column": 0,
+          "depth": 3
+        },
+        "stokes-theorem": {
+          "type": "header",
+          "text": "Stokes' theorem",
+          "value": "stokes-theorem",
+          "line": 81,
+          "column": 0,
+          "depth": 3
+        },
+        "applications": {
+          "type": "header",
+          "text": "Applications",
+          "value": "applications",
+          "line": 169,
+          "column": 0,
+          "depth": 2
+        },
+        "conservation-laws": {
+          "type": "header",
+          "text": "Conservation laws",
+          "value": "conservation-laws",
+          "line": 171,
+          "column": 0,
+          "depth": 3
+        },
+        "heat-diffusion": {
+          "type": "header",
+          "text": "Heat diffusion",
+          "value": "heat-diffusion",
+          "line": 211,
+          "column": 0,
+          "depth": 3
+        },
+        "magnetism": {
+          "type": "header",
+          "text": "Magnetism",
+          "value": "magnetism",
+          "line": 238,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 40,
+          "column": 42
+        },
+        "^4": {
+          "type": "block",
+          "value": "4",
+          "line": 74,
+          "column": 99
+        },
+        "^2T": {
+          "type": "block",
+          "value": "2T",
+          "line": 234,
+          "column": 44
+        }
+      },
+      "children": [],
+      "parent": "q8j48hpustufdimi076ru66",
+      "data": {}
+    },
+    "r7sxg4tr107exgx1eb792bh": {
+      "id": "r7sxg4tr107exgx1eb792bh",
+      "title": "Divergence Theorem",
+      "desc": "",
+      "updated": 1759080976523,
+      "created": 1741384860540,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Integral Theorems.Divergence Theorem",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "fd7739940e9997d09877a2c95de60fe5",
+      "links": [],
+      "anchors": {
+        "a-new-understanding-of-divergence": {
+          "type": "header",
+          "text": "A new understanding of divergence",
+          "value": "a-new-understanding-of-divergence",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "building-intuition-for-the-divergence-theorem": {
+          "type": "header",
+          "text": "Building intuition for the Divergence Theorem",
+          "value": "building-intuition-for-the-divergence-theorem",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "re-defining-divergence": {
+          "type": "header",
+          "text": "Re-defining divergence",
+          "value": "re-defining-divergence",
+          "line": 46,
+          "column": 0,
+          "depth": 3
+        },
+        "the-divergence-theroem-in-scalar-fields": {
+          "type": "header",
+          "text": "The Divergence Theroem in scalar fields",
+          "value": "the-divergence-theroem-in-scalar-fields",
+          "line": 85,
+          "column": 0,
+          "depth": 3
+        },
+        "sketching-the-proof": {
+          "type": "header",
+          "text": "Sketching the proof",
+          "value": "sketching-the-proof",
+          "line": 104,
+          "column": 0,
+          "depth": 2
+        },
+        "attempt-1": {
+          "type": "header",
+          "text": "Attempt 1",
+          "value": "attempt-1",
+          "line": 106,
+          "column": 0,
+          "depth": 3
+        },
+        "attempt-2-d": {
+          "type": "header",
+          "text": "Attempt 2-D",
+          "value": "attempt-2-d",
+          "line": 181,
+          "column": 0,
+          "depth": 3
+        },
+        "attempt-3": {
+          "type": "header",
+          "text": "Attempt 3",
+          "value": "attempt-3",
+          "line": 267,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "q8j48hpustufdimi076ru66",
+      "data": {}
+    },
+    "ug263fsf2k2nyyzjz6w3gfk": {
+      "id": "ug263fsf2k2nyyzjz6w3gfk",
+      "title": "Curvilinear Differential Operators",
+      "desc": "",
+      "updated": 1759080976526,
+      "created": 1741384626531,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Vector Calculus.Integral Theorems.Curvilinear Differential Operators",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "e7350b0bc7136e6ee12e46208a20b0a1",
+      "links": [],
+      "anchors": {
+        "divergence-and-curl": {
+          "type": "header",
+          "text": "Divergence and curl",
+          "value": "divergence-and-curl",
+          "line": 9,
+          "column": 0,
+          "depth": 3
+        },
+        "differential-operators-in-cylindrical-coordinates": {
+          "type": "header",
+          "text": "Differential operators in cylindrical coordinates",
+          "value": "differential-operators-in-cylindrical-coordinates",
+          "line": 135,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "q8j48hpustufdimi076ru66",
+      "data": {}
+    },
+    "42ta6y1z42bfkexycvzr7d6": {
+      "id": "42ta6y1z42bfkexycvzr7d6",
+      "title": "Differential Operators",
+      "desc": "",
+      "updated": 1741324845833,
+      "created": 1741274847204,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Vector Calculus.Differential Operators",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "92a73e4324184b18a996c597adf4a7d8",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "gxnq41qhl1qkz9qpk8uprn5",
+        "2y9mihsvutycobs1m8hlpmk",
+        "z7hgjig8068ld6bvrym4qgi"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "z7hgjig8068ld6bvrym4qgi": {
+      "id": "z7hgjig8068ld6bvrym4qgi",
+      "title": "Second-Order Operators",
+      "desc": "",
+      "updated": 1751786738110,
+      "created": 1741338307619,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Differential Operators.Second-Order Operators",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "c695447d677920283949d7e236032827",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Differential Operators.Second-Order Operators",
+            "id": "z7hgjig8068ld6bvrym4qgi",
+            "vaultName": "notes"
+          },
+          "value": "Vector Calculus",
+          "position": {
+            "start": {
+              "line": 72,
+              "column": 209,
+              "offset": 3673
+            },
+            "end": {
+              "line": 72,
+              "column": 228,
+              "offset": 3692
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Vector Calculus"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Differential Operators.Second-Order Operators",
+            "id": "z7hgjig8068ld6bvrym4qgi",
+            "vaultName": "notes"
+          },
+          "value": "Differential Equations.Partial Differential Equations.Heat Equation",
+          "position": {
+            "start": {
+              "line": 88,
+              "column": 142,
+              "offset": 4553
+            },
+            "end": {
+              "line": 88,
+              "column": 213,
+              "offset": 4624
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Differential Equations.Partial Differential Equations.Heat Equation"
+          }
+        }
+      ],
+      "anchors": {
+        "curling-the-grad": {
+          "type": "header",
+          "text": "Curling the grad",
+          "value": "curling-the-grad",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "the-laplacian": {
+          "type": "header",
+          "text": "The Laplacian",
+          "value": "the-laplacian",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "applications-of-differential-operators": {
+          "type": "header",
+          "text": "Applications of differential operators",
+          "value": "applications-of-differential-operators",
+          "line": 77,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "42ta6y1z42bfkexycvzr7d6",
+      "data": {}
+    },
+    "2y9mihsvutycobs1m8hlpmk": {
+      "id": "2y9mihsvutycobs1m8hlpmk",
+      "title": "Orthogonal Curvilinear Coordinates",
+      "desc": "",
+      "updated": 1751787157739,
+      "created": 1741341700157,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Vector Calculus.Differential Operators.Orthogonal Curvilinear Coordinates",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "9e2cffc5570798428b0aa6ce64b0367c",
+      "links": [],
+      "anchors": {
+        "on-the-oxymoronic-qualities-of-curvilinearity": {
+          "type": "header",
+          "text": "On the oxymoronic qualities of curvilinearity",
+          "value": "on-the-oxymoronic-qualities-of-curvilinearity",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "cylindrical-and-spherical-polar-coordinates": {
+          "type": "header",
+          "text": "Cylindrical and spherical polar coordinates",
+          "value": "cylindrical-and-spherical-polar-coordinates",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "cylindrical-coordinates": {
+          "type": "header",
+          "text": "Cylindrical coordinates",
+          "value": "cylindrical-coordinates",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        },
+        "spherical-coordinates": {
+          "type": "header",
+          "text": "Spherical coordinates",
+          "value": "spherical-coordinates",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "differential-operators-in-curvilinear-coordinates": {
+          "type": "header",
+          "text": "Differential operators in curvilinear coordinates",
+          "value": "differential-operators-in-curvilinear-coordinates",
+          "line": 70,
+          "column": 0,
+          "depth": 2
+        },
+        "the-gradient-and-the-gradient-operator": {
+          "type": "header",
+          "text": "The gradient and the gradient operator",
+          "value": "the-gradient-and-the-gradient-operator",
+          "line": 72,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "42ta6y1z42bfkexycvzr7d6",
+      "data": {}
+    },
+    "gxnq41qhl1qkz9qpk8uprn5": {
+      "id": "gxnq41qhl1qkz9qpk8uprn5",
+      "title": "Basic Definitions",
+      "desc": "",
+      "updated": 1759080976530,
+      "created": 1741287423546,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Vector Calculus.Differential Operators.Basic Definintions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "2fda4e73239d75ceadc09f0a3a53039c",
+      "links": [],
+      "anchors": {
+        "gradient-and-the-gradient-operator": {
+          "type": "header",
+          "text": "Gradient and the Gradient Operator",
+          "value": "gradient-and-the-gradient-operator",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "defining-the-gradient-2-electric-boogaloo": {
+          "type": "header",
+          "text": "Defining the Gradient 2: Electric Boogaloo",
+          "value": "defining-the-gradient-2-electric-boogaloo",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "the-gradient-operator": {
+          "type": "header",
+          "text": "The Gradient Operator",
+          "value": "the-gradient-operator",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "curl-and-divergence": {
+          "type": "header",
+          "text": "Curl and Divergence",
+          "value": "curl-and-divergence",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        },
+        "interpreting-curl-and-divergence": {
+          "type": "header",
+          "text": "Interpreting curl and divergence",
+          "value": "interpreting-curl-and-divergence",
+          "line": 90,
+          "column": 0,
+          "depth": 3
+        },
+        "basic-properties": {
+          "type": "header",
+          "text": "Basic properties",
+          "value": "basic-properties",
+          "line": 104,
+          "column": 0,
+          "depth": 3
+        },
+        "irrotational-and-solenoidal-fields": {
+          "type": "header",
+          "text": "Irrotational and solenoidal fields",
+          "value": "irrotational-and-solenoidal-fields",
+          "line": 130,
+          "column": 0,
+          "depth": 2
+        },
+        "irrotational-fields": {
+          "type": "header",
+          "text": "Irrotational fields",
+          "value": "irrotational-fields",
+          "line": 132,
+          "column": 0,
+          "depth": 3
+        },
+        "solenoidal-fields": {
+          "type": "header",
+          "text": "Solenoidal fields",
+          "value": "solenoidal-fields",
+          "line": 176,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "42ta6y1z42bfkexycvzr7d6",
+      "data": {}
+    },
+    "8f3knzlp7caw0zuy3zvux02": {
+      "id": "8f3knzlp7caw0zuy3zvux02",
+      "title": "Curves and Surfaces",
+      "desc": "",
+      "updated": 1740211192363,
+      "created": 1740203503217,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Vector Calculus.Curves and Surfaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "54e179d1b1de03578ed5189d6779614e",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "bzrgunlaz0monn4b9aecc6w",
+        "erf58bjg36cdf82wsycudq4"
+      ],
+      "parent": "3tmmw5hl8xrirepk0mjudl4",
+      "data": {}
+    },
+    "erf58bjg36cdf82wsycudq4": {
+      "id": "erf58bjg36cdf82wsycudq4",
+      "title": "Surfaces",
+      "desc": "",
+      "updated": 1759080976533,
+      "created": 1740276681342,
+      "custom": {},
+      "fname": "Vector Calculus.Curves and Surfaces.Surfaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "462ec0e94fe00ee5e6c4892cbfd849da",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Curves and Surfaces.Surfaces",
+            "id": "erf58bjg36cdf82wsycudq4",
+            "vaultName": "notes"
+          },
+          "value": "Linear Algebra",
+          "position": {
+            "start": {
+              "line": 135,
+              "column": 35,
+              "offset": 9072
+            },
+            "end": {
+              "line": 135,
+              "column": 53,
+              "offset": 9090
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Linear Algebra"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Vector Calculus.Curves and Surfaces.Surfaces",
+            "id": "erf58bjg36cdf82wsycudq4",
+            "vaultName": "notes"
+          },
+          "value": "Differential Equations",
+          "position": {
+            "start": {
+              "line": 135,
+              "column": 58,
+              "offset": 9095
+            },
+            "end": {
+              "line": 135,
+              "column": 84,
+              "offset": 9121
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Differential Equations"
+          }
+        },
+        {
+          "from": {
+            "fname": "Vector Calculus.Surface Integrals.Revisiting Surfaces",
+            "id": "bppjh6ro6ivkjzybl0218pg",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 16,
+              "offset": 15
+            },
+            "end": {
+              "line": 1,
+              "column": 64,
+              "offset": 63
+            },
+            "indent": []
+          },
+          "value": "Vector Calculus.Curves and Surfaces.Surfaces"
+        }
+      ],
+      "anchors": {
+        "representations-of-surfaces": {
+          "type": "header",
+          "text": "Representations of surfaces",
+          "value": "representations-of-surfaces",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "normals-to-surfaces": {
+          "type": "header",
+          "text": "Normals to surfaces",
+          "value": "normals-to-surfaces",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "classification-of-surfaces": {
+          "type": "header",
+          "text": "Classification of surfaces",
+          "value": "classification-of-surfaces",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        },
+        "stationary-points-in-surfaces": {
+          "type": "header",
+          "text": "Stationary points in surfaces",
+          "value": "stationary-points-in-surfaces",
+          "line": 79,
+          "column": 0,
+          "depth": 2
+        },
+        "nature-of-multivariate-stationary-points": {
+          "type": "header",
+          "text": "Nature of multivariate stationary points",
+          "value": "nature-of-multivariate-stationary-points",
+          "line": 139,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "8f3knzlp7caw0zuy3zvux02",
+      "data": {}
+    },
+    "bzrgunlaz0monn4b9aecc6w": {
+      "id": "bzrgunlaz0monn4b9aecc6w",
+      "title": "Curves",
+      "desc": "",
+      "updated": 1759080976536,
+      "created": 1740216688576,
+      "custom": {},
+      "fname": "Vector Calculus.Curves and Surfaces.Curves",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "d8c6009395589bb72a1665c3efabc1c8",
+      "links": [],
+      "anchors": {
+        "what-are-curves": {
+          "type": "header",
+          "text": "What are curves?",
+          "value": "what-are-curves",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "classification-of-curves": {
+          "type": "header",
+          "text": "Classification of curves",
+          "value": "classification-of-curves",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "length-of-a-simple-curve": {
+          "type": "header",
+          "text": "Length of a simple curve",
+          "value": "length-of-a-simple-curve",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        },
+        "tangents-to-curves": {
+          "type": "header",
+          "text": "Tangents to curves",
+          "value": "tangents-to-curves",
+          "line": 136,
+          "column": 0,
+          "depth": 2
+        },
+        "curvature-normal-and-bi-normal": {
+          "type": "header",
+          "text": "Curvature, Normal, and Bi-normal",
+          "value": "curvature-normal-and-bi-normal",
+          "line": 158,
+          "column": 0,
+          "depth": 2
+        },
+        "curvature": {
+          "type": "header",
+          "text": "Curvature",
+          "value": "curvature",
+          "line": 160,
+          "column": 0,
+          "depth": 3
+        },
+        "normal-and-bi-normal": {
+          "type": "header",
+          "text": "Normal and bi-normal",
+          "value": "normal-and-bi-normal",
+          "line": 207,
+          "column": 0,
+          "depth": 3
+        },
+        "osculating-planes": {
+          "type": "header",
+          "text": "Osculating planes",
+          "value": "osculating-planes",
+          "line": 289,
+          "column": 0,
+          "depth": 2
+        },
+        "serret-frenet-equations": {
+          "type": "header",
+          "text": "Serret-Frenet equations",
+          "value": "serret-frenet-equations",
+          "line": 337,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "8f3knzlp7caw0zuy3zvux02",
+      "data": {}
+    },
+    "pljx45cxmkjv1tt8kohsggi": {
+      "id": "pljx45cxmkjv1tt8kohsggi",
+      "title": "Linear Algebra",
+      "desc": "",
+      "updated": 1737878892730,
+      "created": 1734661699359,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "8f335af78f9cfeb72467ccfdfc2de5ed",
+      "links": [
+        {
+          "from": {
+            "fname": "Vector Calculus.Curves and Surfaces.Surfaces",
+            "id": "erf58bjg36cdf82wsycudq4",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 135,
+              "column": 35,
+              "offset": 9072
+            },
+            "end": {
+              "line": 135,
+              "column": 53,
+              "offset": 9090
+            },
+            "indent": []
+          },
+          "value": "Linear Algebra"
+        },
+        {
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Tensors",
+            "id": "5xckuaks5kuji8gyg4ah7pv",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 123,
+              "offset": 1887
+            },
+            "end": {
+              "line": 19,
+              "column": 141,
+              "offset": 1905
+            },
+            "indent": []
+          },
+          "value": "Linear Algebra"
+        }
+      ],
+      "anchors": {
+        "created-by-turbo-huang": {
+          "type": "header",
+          "text": "Created by Turbo Huang",
+          "value": "created-by-turbo-huang",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "dsj2qe8miwbf9b8bx301eo9",
+        "gaidz59s80wjrr035osuo5h",
+        "psmhf3tnofluj0yiig4pdgt",
+        "j03u376ezurk37ks0i9f5ej",
+        "s1y1jxgk5fpdknpk6je7bym",
+        "97hpohs61y3zs5fg8yh2s4a"
+      ],
+      "parent": "cvrcdb8o4kzgfzvj7bowdtl",
+      "data": {},
+      "schema": {
+        "schemaId": "Linear Algebra",
+        "moduleId": "Linear Algebra"
+      }
+    },
+    "97hpohs61y3zs5fg8yh2s4a": {
+      "id": "97hpohs61y3zs5fg8yh2s4a",
+      "title": "Vectors",
+      "desc": "",
+      "updated": 1735302999623,
+      "created": 1734665491773,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Vectors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b1744facba5294e082c1c89c8c4e3443",
+      "links": [],
+      "anchors": {
+        "introduction-in-brief": {
+          "type": "header",
+          "text": "Introduction, in brief",
+          "value": "introduction-in-brief",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "s4584oa4m259kma2pmw1lnq",
+        "cijw6w7tpvzehpgzd9u59gf",
+        "yild13c55t8as7pol36ea84",
+        "acofzyoqoi8d1hn41m901zr",
+        "kps1vouu5g7m8efsc1ccr96",
+        "8r1kh8kplkgwdnntxbb67zt",
+        "2r2el4g77gk10wt5mm3q6bm",
+        "83h5gwe0p7n8x55rqr9x8op"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "83h5gwe0p7n8x55rqr9x8op": {
+      "id": "83h5gwe0p7n8x55rqr9x8op",
+      "title": "Vector Product",
+      "desc": "",
+      "updated": 1759080976541,
+      "created": 1734666703498,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Vectors.Vector Product",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "5dbd7f5d6506939db95654cee0ca4867",
+      "links": [],
+      "anchors": {
+        "finding-normal-vectors": {
+          "type": "header",
+          "text": "Finding normal vectors",
+          "value": "finding-normal-vectors",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "area-of-a-triangle": {
+          "type": "header",
+          "text": "Area of a triangle",
+          "value": "area-of-a-triangle",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "area-of-a-parallelpiped": {
+          "type": "header",
+          "text": "Area of a parallelpiped",
+          "value": "area-of-a-parallelpiped",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "a-final-note-on-the-vector-product-in-2d-and-3d": {
+          "type": "header",
+          "text": "A final note on the vector product in 2D and 3D",
+          "value": "a-final-note-on-the-vector-product-in-2d-and-3d",
+          "line": 71,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "2r2el4g77gk10wt5mm3q6bm": {
+      "id": "2r2el4g77gk10wt5mm3q6bm",
+      "title": "Vector Geometry",
+      "desc": "",
+      "updated": 1735303569148,
+      "created": 1734854557955,
+      "nav_order": 8,
+      "custom": {
+        "nav_order": 8
+      },
+      "fname": "Linear Algebra.Vectors.Vector Geometry",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "45a54430627544cd3999a12944e62ae8",
+      "links": [],
+      "anchors": {
+        "spherical-trigonometry": {
+          "type": "header",
+          "text": "Spherical trigonometry",
+          "value": "spherical-trigonometry",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "lines": {
+          "type": "header",
+          "text": "Lines",
+          "value": "lines",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "planes": {
+          "type": "header",
+          "text": "Planes",
+          "value": "planes",
+          "line": 52,
+          "column": 0,
+          "depth": 2
+        },
+        "spheres-and-circles": {
+          "type": "header",
+          "text": "Spheres and circles",
+          "value": "spheres-and-circles",
+          "line": 71,
+          "column": 0,
+          "depth": 2
+        },
+        "vector-equations": {
+          "type": "header",
+          "text": "Vector equations",
+          "value": "vector-equations",
+          "line": 75,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "8r1kh8kplkgwdnntxbb67zt": {
+      "id": "8r1kh8kplkgwdnntxbb67zt",
+      "title": "Tensor Notation",
+      "desc": "",
+      "updated": 1734854545968,
+      "created": 1734760849916,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Linear Algebra.Vectors.Tensor Notation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "c7c9b4f69c22ea9e4d272e8f9e9aa86f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "kps1vouu5g7m8efsc1ccr96": {
+      "id": "kps1vouu5g7m8efsc1ccr96",
+      "title": "Subspaces",
+      "desc": "",
+      "updated": 1734851053555,
+      "created": 1734758627445,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Vectors.Subspaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "db7a3b56ac46186afb6947438356f38b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "acofzyoqoi8d1hn41m901zr": {
+      "id": "acofzyoqoi8d1hn41m901zr",
+      "title": "Scalar Product",
+      "desc": "",
+      "updated": 1734851033155,
+      "created": 1734665946553,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Vectors.Scalar and Vector Product",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "d96509b0fe8346543d813dde878cfb28",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "yild13c55t8as7pol36ea84": {
+      "id": "yild13c55t8as7pol36ea84",
+      "title": "Linear Independence and Basis",
+      "desc": "",
+      "updated": 1734851049451,
+      "created": 1734672143518,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Vectors.Linear Independence and Basis",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "e8f2abcdb9ae8e6c031c8dec890d2ca8",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "cijw6w7tpvzehpgzd9u59gf": {
+      "id": "cijw6w7tpvzehpgzd9u59gf",
+      "title": "Definitions and Properties",
+      "desc": "",
+      "updated": 1734851022983,
+      "created": 1734665589401,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Vectors.Definitions and Properties",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "9bff429635f3adfa57736e2ab1080bbe",
+      "links": [],
+      "anchors": {
+        "addition": {
+          "type": "header",
+          "text": "Addition",
+          "value": "addition",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "scalar-multiplication": {
+          "type": "header",
+          "text": "Scalar Multiplication",
+          "value": "scalar-multiplication",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "s4584oa4m259kma2pmw1lnq": {
+      "id": "s4584oa4m259kma2pmw1lnq",
+      "title": "Complex Vector Spaces",
+      "desc": "",
+      "updated": 1734851058819,
+      "created": 1734683773801,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Vectors.Complex Vector Spaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "f501f8c8d75dd1912b2e41ad257e35ca",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "97hpohs61y3zs5fg8yh2s4a",
+      "data": {}
+    },
+    "s1y1jxgk5fpdknpk6je7bym": {
+      "id": "s1y1jxgk5fpdknpk6je7bym",
+      "title": "Transformation Groups",
+      "desc": "",
+      "updated": 1739095429980,
+      "created": 1737716387103,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Transformation Groups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "cc9c439154ce9e40029be6c02fc1d34d",
+      "links": [
+        {
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Tensors",
+            "id": "5xckuaks5kuji8gyg4ah7pv",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 103,
+              "column": 76,
+              "offset": 5205
+            },
+            "end": {
+              "line": 103,
+              "column": 116,
+              "offset": 5245
+            },
+            "indent": []
+          },
+          "value": "Linear Algebra.Transformation Groups"
+        }
+      ],
+      "anchors": {
+        "defining-groups": {
+          "type": "header",
+          "text": "Defining groups",
+          "value": "defining-groups",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-groups": {
+          "type": "header",
+          "text": "Matrix groups",
+          "value": "matrix-groups",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "orthogonal-matrices": {
+          "type": "header",
+          "text": "Orthogonal matrices",
+          "value": "orthogonal-matrices",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "orthogonal-matrices-with-det-1": {
+          "type": "header",
+          "text": "Orthogonal matrices with $\\det$ 1",
+          "value": "orthogonal-matrices-with-det-1",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "length-preserving-matrices": {
+          "type": "header",
+          "text": "Length-Preserving Matrices",
+          "value": "length-preserving-matrices",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 237,
+          "column": 17
+        }
+      },
+      "children": [
+        "k0f8nh1skx99x6b1efjfbdi"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "k0f8nh1skx99x6b1efjfbdi": {
+      "id": "k0f8nh1skx99x6b1efjfbdi",
+      "title": "Metrics",
+      "desc": "",
+      "updated": 1737867321284,
+      "created": 1737792751447,
+      "custom": {},
+      "fname": "Linear Algebra.Transformation Groups.Metrics",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "748da9f2fd64e9f190c5b36f818818ca",
+      "links": [],
+      "anchors": {
+        "metrics-or-how-to-confuse-me-completely-about-scalar-products": {
+          "type": "header",
+          "text": "Metrics (or how to confuse me completely about scalar products)",
+          "value": "metrics-or-how-to-confuse-me-completely-about-scalar-products",
+          "line": 7,
+          "column": 0,
+          "depth": 3
+        },
+        "lorentz-transformations": {
+          "type": "header",
+          "text": "Lorentz transformations",
+          "value": "lorentz-transformations",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 113,
+          "column": 17
+        }
+      },
+      "children": [],
+      "parent": "s1y1jxgk5fpdknpk6je7bym",
+      "data": {}
+    },
+    "j03u376ezurk37ks0i9f5ej": {
+      "id": "j03u376ezurk37ks0i9f5ej",
+      "title": "Systems of Linear Equations",
+      "desc": "",
+      "updated": 1736323970658,
+      "created": 1736245676112,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Systems of Linear Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "c66ad3f262e630698c7c83cdc4549d2c",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "o1xylvjonk35o9wnkmd060y",
+        "n417qwzj6g9sqx0h2tcpsoo"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "n417qwzj6g9sqx0h2tcpsoo": {
+      "id": "n417qwzj6g9sqx0h2tcpsoo",
+      "title": "Matrix Rank",
+      "desc": "",
+      "updated": 1736483314568,
+      "created": 1736395254359,
+      "custom": {},
+      "fname": "Linear Algebra.Systems of Linear Equations.Matrix Rank",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "021c6ce2aabaac8c7e33f18ca8430047",
+      "links": [],
+      "anchors": {
+        "matrix-rank-2-electric-boogaloo": {
+          "type": "header",
+          "text": "Matrix Rank 2: Electric Boogaloo",
+          "value": "matrix-rank-2-electric-boogaloo",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "homogeneous-systems-of-linear-equations": {
+          "type": "header",
+          "text": "Homogeneous systems of linear equations",
+          "value": "homogeneous-systems-of-linear-equations",
+          "line": 58,
+          "column": 0,
+          "depth": 2
+        },
+        "the-geometrical-view": {
+          "type": "header",
+          "text": "The Geometrical View",
+          "value": "the-geometrical-view",
+          "line": 68,
+          "column": 0,
+          "depth": 3
+        },
+        "the-linear-map-view": {
+          "type": "header",
+          "text": "The Linear Map View",
+          "value": "the-linear-map-view",
+          "line": 108,
+          "column": 0,
+          "depth": 3
+        },
+        "inhomogeneous-systems-of-linear-equations": {
+          "type": "header",
+          "text": "Inhomogeneous systems of linear equations",
+          "value": "inhomogeneous-systems-of-linear-equations",
+          "line": 181,
+          "column": 0,
+          "depth": 2
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 75,
+          "column": 1
+        }
+      },
+      "children": [],
+      "parent": "j03u376ezurk37ks0i9f5ej",
+      "data": {}
+    },
+    "o1xylvjonk35o9wnkmd060y": {
+      "id": "o1xylvjonk35o9wnkmd060y",
+      "title": "Matrix Inverses and Linear Equations",
+      "desc": "",
+      "updated": 1737080537515,
+      "created": 1736324651648,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Systems of Linear Equations.Matrix Inverses and Linear Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b77fcfa01a973b37e70512debda09160",
+      "links": [],
+      "anchors": {
+        "systems-of-2times-2-equations": {
+          "type": "header",
+          "text": "Systems of $2\\times 2$ equations",
+          "value": "systems-of-2times-2-equations",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "inverse-of-a-general-ntimes-n-matrix": {
+          "type": "header",
+          "text": "Inverse of a general $n\\times n$ matrix",
+          "value": "inverse-of-a-general-ntimes-n-matrix",
+          "line": 67,
+          "column": 0,
+          "depth": 2
+        },
+        "solving-linear-equations": {
+          "type": "header",
+          "text": "Solving linear equations",
+          "value": "solving-linear-equations",
+          "line": 135,
+          "column": 0,
+          "depth": 2
+        },
+        "gaussian-elimination": {
+          "type": "header",
+          "text": "Gaussian elimination",
+          "value": "gaussian-elimination",
+          "line": 162,
+          "column": 0,
+          "depth": 2
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 112,
+          "column": 13
+        }
+      },
+      "children": [],
+      "parent": "j03u376ezurk37ks0i9f5ej",
+      "data": {}
+    },
+    "psmhf3tnofluj0yiig4pdgt": {
+      "id": "psmhf3tnofluj0yiig4pdgt",
+      "title": "Matrices and Linear Maps",
+      "desc": "",
+      "updated": 1735303005413,
+      "created": 1735302980001,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "dee4e1bbbbcf4413bc9dfb904047a016",
+      "links": [],
+      "anchors": {
+        "introduction-in-briefs": {
+          "type": "header",
+          "text": "Introduction, in briefs",
+          "value": "introduction-in-briefs",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "3g6oqjvmm0a8xcyxmfi9c98",
+        "pb3vb4nmzjvobpmrnoj9qxl",
+        "g3saar7em9n8mr1cgmrackv",
+        "1cdknz7rz4s37vg3bf9e6zc",
+        "46o6bijc8pbrmvcf5v9awc9",
+        "ixvynw05twlgbw1og9o09jc",
+        "udf5um6s0gh0r4585waftt3",
+        "kzc5fzc65b83qv97lrkuqff",
+        "i4nj9v4ltupnjuomf6c7vda"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "i4nj9v4ltupnjuomf6c7vda": {
+      "id": "i4nj9v4ltupnjuomf6c7vda",
+      "title": "Rank and Nullity",
+      "desc": "",
+      "updated": 1735372160232,
+      "created": 1735372160232,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Rank and Nullity",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "32aa98d80424a9846f773615f7b1fa37",
+      "links": [],
+      "anchors": {
+        "rank-kernel-and-nullity": {
+          "type": "header",
+          "text": "Rank, Kernel and Nullity",
+          "value": "rank-kernel-and-nullity",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "kzc5fzc65b83qv97lrkuqff": {
+      "id": "kzc5fzc65b83qv97lrkuqff",
+      "title": "Permutations",
+      "desc": "",
+      "updated": 1736072951770,
+      "created": 1735611406974,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Permutations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "edd2f9b267bd991409d6572d27fce990",
+      "links": [],
+      "anchors": {
+        "permutation-notation": {
+          "type": "header",
+          "text": "Permutation notation",
+          "value": "permutation-notation",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "udf5um6s0gh0r4585waftt3": {
+      "id": "udf5um6s0gh0r4585waftt3",
+      "title": "Matrix Operations",
+      "desc": "",
+      "updated": 1737077940895,
+      "created": 1735375651816,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Matrix Operations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "6aa3f0ac9d9a8745dcf6a66e3cf189f1",
+      "links": [],
+      "anchors": {
+        "matrix-algebra": {
+          "type": "header",
+          "text": "Matrix algebra",
+          "value": "matrix-algebra",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-classifications": {
+          "type": "header",
+          "text": "Matrix classifications",
+          "value": "matrix-classifications",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-operations": {
+          "type": "header",
+          "text": "Matrix operations",
+          "value": "matrix-operations",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-decompositions": {
+          "type": "header",
+          "text": "Matrix decompositions",
+          "value": "matrix-decompositions",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "matrix-inverses": {
+          "type": "header",
+          "text": "Matrix inverses",
+          "value": "matrix-inverses",
+          "line": 89,
+          "column": 0,
+          "depth": 2
+        },
+        "orthogonal-and-unitary-matrices": {
+          "type": "header",
+          "text": "Orthogonal and unitary matrices",
+          "value": "orthogonal-and-unitary-matrices",
+          "line": 115,
+          "column": 0,
+          "depth": 2
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 26,
+          "column": 8
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "ixvynw05twlgbw1og9o09jc": {
+      "id": "ixvynw05twlgbw1og9o09jc",
+      "title": "Matrices as Linear Maps",
+      "desc": "",
+      "updated": 1735372189451,
+      "created": 1735372184694,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Matrices as Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "477436262961dd799c398ede0be4034d",
+      "links": [],
+      "anchors": {
+        "matrices-as-linear-maps": {
+          "type": "header",
+          "text": "Matrices as linear maps",
+          "value": "matrices-as-linear-maps",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "46o6bijc8pbrmvcf5v9awc9": {
+      "id": "46o6bijc8pbrmvcf5v9awc9",
+      "title": "Higher-Dimensional Determinants",
+      "desc": "",
+      "updated": 1736072942094,
+      "created": 1735612039248,
+      "nav_order": 8,
+      "custom": {
+        "nav_order": 8
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Higher-Dimensional Determinants",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "9dc7192f89a25d65387dd11ba58d6efc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "1cdknz7rz4s37vg3bf9e6zc": {
+      "id": "1cdknz7rz4s37vg3bf9e6zc",
+      "title": "Examples of Linear Maps",
+      "desc": "",
+      "updated": 1735375596058,
+      "created": 1735372205306,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Examples of Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "02ce04c63a57efa67474ef574ad632c8",
+      "links": [],
+      "anchors": {
+        "examples-of-matrices-as-linear-maps": {
+          "type": "header",
+          "text": "Examples of matrices as linear maps",
+          "value": "examples-of-matrices-as-linear-maps",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "g3saar7em9n8mr1cgmrackv": {
+      "id": "g3saar7em9n8mr1cgmrackv",
+      "title": "Determinants",
+      "desc": "",
+      "updated": 1736072984576,
+      "created": 1735574071094,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Determinants",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "6eb54ea1a87bd3e1de3d15e437b303ed",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Linear Algebra.Matrices and Linear Maps.Determinants",
+            "id": "g3saar7em9n8mr1cgmrackv",
+            "vaultName": "notes"
+          },
+          "value": "tags.SheldonAxler",
+          "alias": "#SheldonAxler",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 29,
+              "offset": 174
+            },
+            "end": {
+              "line": 6,
+              "column": 42,
+              "offset": 187
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.SheldonAxler"
+          }
+        }
+      ],
+      "anchors": {
+        "alternative-names-for-determinants": {
+          "type": "header",
+          "text": "Alternative names for determinants",
+          "value": "alternative-names-for-determinants",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "determinants-an-extermination-guide-for-the-home": {
+          "type": "header",
+          "text": "Determinants: An Extermination Guide for the Home",
+          "value": "determinants-an-extermination-guide-for-the-home",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "determinants-and-their-demonic-offspring": {
+          "type": "header",
+          "text": "Determinants and their demonic offspring",
+          "value": "determinants-and-their-demonic-offspring",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "pb3vb4nmzjvobpmrnoj9qxl": {
+      "id": "pb3vb4nmzjvobpmrnoj9qxl",
+      "title": "Determinants of Products",
+      "desc": "",
+      "updated": 1737080323835,
+      "created": 1735867053037,
+      "nav_order": 9,
+      "custom": {
+        "nav_order": 9
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Determinants of Products",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "04dc68376ad9e7214445bd3874c7aa92",
+      "links": [],
+      "anchors": {
+        "determinant-of-a-product": {
+          "type": "header",
+          "text": "Determinant of a product",
+          "value": "determinant-of-a-product",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "minors-and-cofactors": {
+          "type": "header",
+          "text": "Minors and cofactors",
+          "value": "minors-and-cofactors",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "3g6oqjvmm0a8xcyxmfi9c98": {
+      "id": "3g6oqjvmm0a8xcyxmfi9c98",
+      "title": "Defining Linear Maps",
+      "desc": "",
+      "updated": 1735562226207,
+      "created": 1735304579474,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Matrices and Linear Maps.Defining Linear Maps",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "040d4ea99f15f1886eeebb4fc631cf93",
+      "links": [],
+      "anchors": {
+        "matrices": {
+          "type": "header",
+          "text": "Matrices",
+          "value": "matrices",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "linear-maps": {
+          "type": "header",
+          "text": "Linear maps",
+          "value": "linear-maps",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "psmhf3tnofluj0yiig4pdgt",
+      "data": {}
+    },
+    "gaidz59s80wjrr035osuo5h": {
+      "id": "gaidz59s80wjrr035osuo5h",
+      "title": "Eigenvalues and Eigenvectors",
+      "desc": "",
+      "updated": 1737716394236,
+      "created": 1736470332316,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b7eae56f0f0bb17c979959dced444b53",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tklb5g2nntypp66xuohwavb",
+        "0v6omcg3j6htia1jtgc613m",
+        "btx6g3xgtg54f68m93aow7t",
+        "pfvduov4dlnmrwikm39lsne",
+        "0b2cc21hzv5pgirnffcuyyo",
+        "xsw48w148tbq8wcyezaw1hj",
+        "4e4uv6kydsnn09xemle6ok1",
+        "amle684tzu04xxy5sjdjvn6",
+        "7tx741gb0nmw3q1pv9u4kjk",
+        "2yto361ji010ae96sp9iee0"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "2yto361ji010ae96sp9iee0": {
+      "id": "2yto361ji010ae96sp9iee0",
+      "title": "Singular Value Decomposition",
+      "desc": "",
+      "updated": 1737732558863,
+      "created": 1737716370312,
+      "nav_order": 11,
+      "custom": {
+        "nav_order": 11
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Singular Value Decomposition",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b92afc86447bf421bad1f6f3ab39144a",
+      "links": [],
+      "anchors": {
+        "defining-svd": {
+          "type": "header",
+          "text": "Defining SVD",
+          "value": "defining-svd",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "constructing-a-possible-svd": {
+          "type": "header",
+          "text": "Constructing a possible SVD",
+          "value": "constructing-a-possible-svd",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "interpretations-of-the-svd": {
+          "type": "header",
+          "text": "Interpretations of the SVD",
+          "value": "interpretations-of-the-svd",
+          "line": 128,
+          "column": 0,
+          "depth": 2
+        },
+        "applications-of-svd": {
+          "type": "header",
+          "text": "Applications of SVD",
+          "value": "applications-of-svd",
+          "line": 179,
+          "column": 0,
+          "depth": 2
+        },
+        "^2_i": {
+          "type": "block",
+          "value": "2_i",
+          "line": 224,
+          "column": 49
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 238,
+          "column": 42
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "7tx741gb0nmw3q1pv9u4kjk": {
+      "id": "7tx741gb0nmw3q1pv9u4kjk",
+      "title": "Similar Matrices and Diagonalization",
+      "desc": "",
+      "updated": 1737448614691,
+      "created": 1736777454325,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Similar Matrices",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "1b4329926ed30d42b5c9c820baecf7bc",
+      "links": [],
+      "anchors": {
+        "definitions-and-basic-properties": {
+          "type": "header",
+          "text": "Definitions and Basic Properties",
+          "value": "definitions-and-basic-properties",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "diagonalization": {
+          "type": "header",
+          "text": "Diagonalization",
+          "value": "diagonalization",
+          "line": 82,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "amle684tzu04xxy5sjdjvn6": {
+      "id": "amle684tzu04xxy5sjdjvn6",
+      "title": "Forms",
+      "desc": "",
+      "updated": 1737716307777,
+      "created": 1737622776135,
+      "nav_order": 10,
+      "custom": {
+        "nav_order": 10
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Forms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "d1087bd9fa42424379d823c70a6aa4c9",
+      "links": [],
+      "anchors": {
+        "what-are-forms": {
+          "type": "header",
+          "text": "What are forms?",
+          "value": "what-are-forms",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "principle-axes-and-simplifying-forms": {
+          "type": "header",
+          "text": "Principle axes and simplifying forms",
+          "value": "principle-axes-and-simplifying-forms",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "applications-of-forms": {
+          "type": "header",
+          "text": "Applications of forms",
+          "value": "applications-of-forms",
+          "line": 68,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "4e4uv6kydsnn09xemle6ok1": {
+      "id": "4e4uv6kydsnn09xemle6ok1",
+      "title": "Eigenvalues and Eigenvectors of Hermitian Matrices",
+      "desc": "",
+      "updated": 1737718538112,
+      "created": 1737450712987,
+      "nav_order": 9,
+      "custom": {
+        "nav_order": 9
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Eigenvalues and Eigenvectors of Hermitian Matrices",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "9187dcee06a87b964e8c69c4e2fb10b5",
+      "links": [
+        {
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Other Things",
+            "id": "rxi1zafrraesc93a8tb2yrf",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 174,
+              "column": 70,
+              "offset": 14304
+            },
+            "end": {
+              "line": 174,
+              "column": 168,
+              "offset": 14402
+            },
+            "indent": []
+          },
+          "value": "Linear Algebra.Eigenvalues and Eigenvectors.Eigenvalues and Eigenvectors of Hermitian Matrices"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "xsw48w148tbq8wcyezaw1hj": {
+      "id": "xsw48w148tbq8wcyezaw1hj",
+      "title": "Eigenspaces",
+      "desc": "",
+      "updated": 1736765136876,
+      "created": 1736492566547,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Eigenspaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "241e84c166e9ecb696474cfe51f0c44b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "0b2cc21hzv5pgirnffcuyyo": {
+      "id": "0b2cc21hzv5pgirnffcuyyo",
+      "title": "Differential Equations",
+      "desc": "",
+      "updated": 1737448299902,
+      "created": 1737445032537,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "f4fa226c6cf24796df823c9520f94471",
+      "links": [],
+      "anchors": {
+        "endbmatrix": {
+          "type": "header",
+          "text": "\\end{bmatrix}",
+          "value": "endbmatrix",
+          "line": 33,
+          "column": 0,
+          "depth": 1
+        },
+        "endbmatrix-1": {
+          "type": "header",
+          "text": "\\end{bmatrix}",
+          "value": "endbmatrix-1",
+          "line": 51,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "pfvduov4dlnmrwikm39lsne": {
+      "id": "pfvduov4dlnmrwikm39lsne",
+      "title": "Change of Basis",
+      "desc": "",
+      "updated": 1742623849674,
+      "created": 1736675317856,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Change of Basis",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "4471dbe4e3997ef1430b336aa2a4a932",
+      "links": [
+        {
+          "from": {
+            "fname": "Vector Calculus.Tensors.Tensors are Tensors",
+            "id": "5xckuaks5kuji8gyg4ah7pv",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 131,
+              "column": 153,
+              "offset": 6306
+            },
+            "end": {
+              "line": 131,
+              "column": 216,
+              "offset": 6369
+            },
+            "indent": []
+          },
+          "value": "Linear Algebra.Eigenvalues and Eigenvectors.Change of Basis"
+        }
+      ],
+      "anchors": {
+        "why-change-basis": {
+          "type": "header",
+          "text": "Why change basis?",
+          "value": "why-change-basis",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "eigenvectors-as-a-change-of-basis": {
+          "type": "header",
+          "text": "Eigenvectors as a Change of Basis",
+          "value": "eigenvectors-as-a-change-of-basis",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "change-of-basis-the-general-formula": {
+          "type": "header",
+          "text": "Change of Basis: The General Formula",
+          "value": "change-of-basis-the-general-formula",
+          "line": 100,
+          "column": 0,
+          "depth": 2
+        },
+        "transformation-laws": {
+          "type": "header",
+          "text": "Transformation laws",
+          "value": "transformation-laws",
+          "line": 196,
+          "column": 0,
+          "depth": 2
+        },
+        "transforming-the-components-of-a-vector-from-one-basis-to-another": {
+          "type": "header",
+          "text": "Transforming the components of a vector from one basis to another",
+          "value": "transforming-the-components-of-a-vector-from-one-basis-to-another",
+          "line": 198,
+          "column": 0,
+          "depth": 3
+        },
+        "transforming-the-basis-of-a-linear-map": {
+          "type": "header",
+          "text": "Transforming the basis of a linear map",
+          "value": "transforming-the-basis-of-a-linear-map",
+          "line": 242,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 35,
+          "column": 26
+        },
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 45,
+          "column": 26
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "btx6g3xgtg54f68m93aow7t": {
+      "id": "btx6g3xgtg54f68m93aow7t",
+      "title": "Cayley-Hamilton Theorem",
+      "desc": "",
+      "updated": 1737450686510,
+      "created": 1737448274715,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Cayley-Hamilton Theorem",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "28186c89e6059b2bc4c26164e68258a0",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "0v6omcg3j6htia1jtgc613m": {
+      "id": "0v6omcg3j6htia1jtgc613m",
+      "title": "Canonical Forms",
+      "desc": "",
+      "updated": 1737448288860,
+      "created": 1737434907603,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Canonical Forms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "559351a1adabd1cf87173b7689e0c5bb",
+      "links": [
+        {
+          "from": {
+            "fname": "Groups.Matrix Groups.The Mobius Group",
+            "id": "o3uik0jo6na1lscglwisp77",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 168,
+              "column": 6,
+              "offset": 12119
+            },
+            "end": {
+              "line": 168,
+              "column": 69,
+              "offset": 12182
+            },
+            "indent": []
+          },
+          "value": "Linear Algebra.Eigenvalues and Eigenvectors.Canonical Forms"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "tklb5g2nntypp66xuohwavb": {
+      "id": "tklb5g2nntypp66xuohwavb",
+      "title": "Basic Definitions and Results",
+      "desc": "",
+      "updated": 1737081207832,
+      "created": 1736470671130,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Basic Definitions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "13e421acb373a918d97bc48369b792b3",
+      "links": [],
+      "anchors": {
+        "polynomials-and-algebra": {
+          "type": "header",
+          "text": "Polynomials and algebra",
+          "value": "polynomials-and-algebra",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "eigenvalues-and-eigenvectors": {
+          "type": "header",
+          "text": "Eigenvalues and Eigenvectors",
+          "value": "eigenvalues-and-eigenvectors",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "^i": {
+          "type": "block",
+          "value": "i",
+          "line": 13,
+          "column": 25
+        }
+      },
+      "children": [],
+      "parent": "gaidz59s80wjrr035osuo5h",
+      "data": {}
+    },
+    "dsj2qe8miwbf9b8bx301eo9": {
+      "id": "dsj2qe8miwbf9b8bx301eo9",
+      "title": "Complex Numbers",
+      "desc": "",
+      "updated": 1734662945615,
+      "created": 1734661935146,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Complex Numbers",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "64c25ce69f51ede14b84676f70820cf7",
+      "links": [],
+      "anchors": {
+        "introduction-in-brief": {
+          "type": "header",
+          "text": "Introduction, in brief",
+          "value": "introduction-in-brief",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "b6pvgfgsebio60eelk93piq",
+        "w9edr0w0irit2nls3qryzxp",
+        "bof4d8unu2g8shqxa7vhs4p",
+        "p6qgibfnguwutpsdy24bzls"
+      ],
+      "parent": "pljx45cxmkjv1tt8kohsggi",
+      "data": {}
+    },
+    "p6qgibfnguwutpsdy24bzls": {
+      "id": "p6qgibfnguwutpsdy24bzls",
+      "title": "Roots of Unity",
+      "desc": "",
+      "updated": 1734665315176,
+      "created": 1734664756862,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Linear Algebra.Complex Numbers.Roots of Unity",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "9c89693ed577c7453cd8a8fc09b28d03",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    },
+    "bof4d8unu2g8shqxa7vhs4p": {
+      "id": "bof4d8unu2g8shqxa7vhs4p",
+      "title": "Geometric Equations",
+      "desc": "",
+      "updated": 1734851014899,
+      "created": 1734665325248,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Linear Algebra.Complex Numbers.Geometric Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "1f9ff5e547748b4e8a82181b9d2044a2",
+      "links": [],
+      "anchors": {
+        "complex-equation-of-a-line": {
+          "type": "header",
+          "text": "Complex equation of a line",
+          "value": "complex-equation-of-a-line",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "complex-equation-of-a-circle": {
+          "type": "header",
+          "text": "Complex equation of a circle",
+          "value": "complex-equation-of-a-circle",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 30,
+          "column": 37
+        }
+      },
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    },
+    "w9edr0w0irit2nls3qryzxp": {
+      "id": "w9edr0w0irit2nls3qryzxp",
+      "title": "Formulas and Theorems",
+      "desc": "",
+      "updated": 1734663116744,
+      "created": 1734662811110,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Linear Algebra.Complex Numbers.Formulas and Theorems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "f2c8c76c2361ebef7fc10485d5370c24",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    },
+    "b6pvgfgsebio60eelk93piq": {
+      "id": "b6pvgfgsebio60eelk93piq",
+      "title": "Complex Exponentiation",
+      "desc": "",
+      "updated": 1734665198826,
+      "created": 1734664048060,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Linear Algebra.Complex Numbers.Complex Exponentiation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "e31ab737964da053bd36735b30598251",
+      "links": [],
+      "anchors": {
+        "complex-logarithms": {
+          "type": "header",
+          "text": "Complex Logarithms",
+          "value": "complex-logarithms",
+          "line": 37,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "dsj2qe8miwbf9b8bx301eo9",
+      "data": {}
+    },
+    "nws43qzeppx8mrw19k868hu": {
+      "id": "nws43qzeppx8mrw19k868hu",
+      "title": "Group Theory",
+      "desc": "",
+      "updated": 1743443667847,
+      "created": 1742920915593,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Groups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "0db011fa048b37c90a0b6670b3991cca",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "uykq2uef6t4raxvhniquqth",
+        "mygvpkq0qd6bfu5iniod3fu",
+        "w1jnfre9zy9y65l03pf31iu",
+        "709ipzlot5rqhtc7i5usn4y",
+        "ueub0bnan3wvxjhz40fai0t",
+        "ryeuc9zk1mjisuuwjnctu87"
+      ],
+      "parent": "cvrcdb8o4kzgfzvj7bowdtl",
+      "data": {}
+    },
+    "ryeuc9zk1mjisuuwjnctu87": {
+      "id": "ryeuc9zk1mjisuuwjnctu87",
+      "title": "Quotient Groups",
+      "desc": "",
+      "updated": 1745666038306,
+      "created": 1745590136106,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Groups.Quotient Groups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "9bdb326ebdd84fd56f63e5dae2cb39bd",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "pfww89ysaeiieomrxa7nwc4",
+        "ni3hpaluegma8mln8yevsiw"
+      ],
+      "parent": "nws43qzeppx8mrw19k868hu",
+      "data": {}
+    },
+    "ni3hpaluegma8mln8yevsiw": {
+      "id": "ni3hpaluegma8mln8yevsiw",
+      "title": "Quotient Group Theorems",
+      "desc": "",
+      "updated": 1759080976544,
+      "created": 1745666064373,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Groups.Quotient Groups.Quotient Group Theorems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "60dbca288f58801323ad540e489c1a21",
+      "links": [],
+      "anchors": {
+        "theorems-of-normal-subgroups": {
+          "type": "header",
+          "text": "Theorems of normal subgroups",
+          "value": "theorems-of-normal-subgroups",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "the-big-one": {
+          "type": "header",
+          "text": "The big one",
+          "value": "the-big-one",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        },
+        "what-the-hell-does-this-mean": {
+          "type": "header",
+          "text": "What the hell does this mean??",
+          "value": "what-the-hell-does-this-mean",
+          "line": 80,
+          "column": 0,
+          "depth": 3
+        },
+        "simple-groups": {
+          "type": "header",
+          "text": "Simple groups",
+          "value": "simple-groups",
+          "line": 156,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "ryeuc9zk1mjisuuwjnctu87",
+      "data": {}
+    },
+    "pfww89ysaeiieomrxa7nwc4": {
+      "id": "pfww89ysaeiieomrxa7nwc4",
+      "title": "Normal Subgroups",
+      "desc": "",
+      "updated": 1759080976548,
+      "created": 1749213679831,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Groups.Quotient Groups.Normal Subgroups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "8e81a23c249db3ab326337b518417e6a",
+      "links": [],
+      "anchors": {
+        "what-are-normal-subgroups": {
+          "type": "header",
+          "text": "What are normal subgroups?",
+          "value": "what-are-normal-subgroups",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "what-are-group-products": {
+          "type": "header",
+          "text": "What are group products?",
+          "value": "what-are-group-products",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "what-are-group-quotients": {
+          "type": "header",
+          "text": "What are group quotients?",
+          "value": "what-are-group-quotients",
+          "line": 68,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "ryeuc9zk1mjisuuwjnctu87",
+      "data": {}
+    },
+    "ueub0bnan3wvxjhz40fai0t": {
+      "id": "ueub0bnan3wvxjhz40fai0t",
+      "title": "Permutation Groups",
+      "desc": "",
+      "updated": 1744798698748,
+      "created": 1744792666600,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Groups.Permutation Groups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "3f818967be24c425af325fbb96ddb236",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ovco5v150uo99cv3au933vz",
+        "z5qq1tdda9971j27ds5ys49"
+      ],
+      "parent": "nws43qzeppx8mrw19k868hu",
+      "data": {}
+    },
+    "z5qq1tdda9971j27ds5ys49": {
+      "id": "z5qq1tdda9971j27ds5ys49",
+      "title": "Sign of a Permutation",
+      "desc": "",
+      "updated": 1749202412153,
+      "created": 1744876345956,
+      "custom": {},
+      "fname": "Groups.Permutation Groups.Sign of a Permutation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "8157a199c482bc58688d0b4fcfce78ce",
+      "links": [],
+      "anchors": {
+        "transpositions": {
+          "type": "header",
+          "text": "Transpositions",
+          "value": "transpositions",
+          "line": 7,
+          "column": 0,
+          "depth": 3
+        },
+        "the-sign-of-a-transposition": {
+          "type": "header",
+          "text": "The sign of a transposition",
+          "value": "the-sign-of-a-transposition",
+          "line": 61,
+          "column": 0,
+          "depth": 3
+        },
+        "alternating-groups": {
+          "type": "header",
+          "text": "Alternating groups",
+          "value": "alternating-groups",
+          "line": 123,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "ueub0bnan3wvxjhz40fai0t",
+      "data": {}
+    },
+    "ovco5v150uo99cv3au933vz": {
+      "id": "ovco5v150uo99cv3au933vz",
+      "title": "Permutations and Cycles",
+      "desc": "",
+      "updated": 1749199117840,
+      "created": 1744798410818,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Groups.Permutation Groups.Permutations and Cycles",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "da4461e00ade1eff9d30bc4252b05d95",
+      "links": [
+        {
+          "from": {
+            "fname": "Groups.Groups and Homomorphisms.Group Families",
+            "id": "qhav2hoq2josw5eyo6n6oi3",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 97,
+              "column": 26,
+              "offset": 8449
+            },
+            "end": {
+              "line": 97,
+              "column": 79,
+              "offset": 8502
+            },
+            "indent": []
+          },
+          "value": "Groups.Permutation Groups.Permutations and Cycles"
+        }
+      ],
+      "anchors": {
+        "permutations": {
+          "type": "header",
+          "text": "Permutations",
+          "value": "permutations",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "cycles": {
+          "type": "header",
+          "text": "Cycles",
+          "value": "cycles",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "compositions-of-cycles": {
+          "type": "header",
+          "text": "Compositions of cycles",
+          "value": "compositions-of-cycles",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 98,
+          "column": 55
+        },
+        "^r": {
+          "type": "block",
+          "value": "r",
+          "line": 166,
+          "column": 61
+        },
+        "^1": {
+          "type": "block",
+          "value": "1",
+          "line": 166,
+          "column": 29
+        },
+        "^s": {
+          "type": "block",
+          "value": "s",
+          "line": 136,
+          "column": 110
+        },
+        "^i": {
+          "type": "block",
+          "value": "i",
+          "line": 170,
+          "column": 55
+        },
+        "^l": {
+          "type": "block",
+          "value": "l",
+          "line": 166,
+          "column": 70
+        }
+      },
+      "children": [],
+      "parent": "ueub0bnan3wvxjhz40fai0t",
+      "data": {}
+    },
+    "709ipzlot5rqhtc7i5usn4y": {
+      "id": "709ipzlot5rqhtc7i5usn4y",
+      "title": "Matrix Groups",
+      "desc": "",
+      "updated": 1749278082526,
+      "created": 1746496675976,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Groups.Matrix Groups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "f7697d69d4f363f2c180da5551db67c5",
+      "links": [],
+      "anchors": {
+        "the-general-linear-group": {
+          "type": "header",
+          "text": "The general linear group",
+          "value": "the-general-linear-group",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "group-actions-of-matrix-groups": {
+          "type": "header",
+          "text": "Group actions of matrix groups",
+          "value": "group-actions-of-matrix-groups",
+          "line": 54,
+          "column": 0,
+          "depth": 2
+        },
+        "orthogonal-matrix-groups": {
+          "type": "header",
+          "text": "Orthogonal matrix groups",
+          "value": "orthogonal-matrix-groups",
+          "line": 96,
+          "column": 0,
+          "depth": 2
+        },
+        "the-orthogonal-group": {
+          "type": "header",
+          "text": "The orthogonal group",
+          "value": "the-orthogonal-group",
+          "line": 97,
+          "column": 0,
+          "depth": 3
+        },
+        "rotations-and-reflections": {
+          "type": "header",
+          "text": "Rotations and reflections",
+          "value": "rotations-and-reflections",
+          "line": 151,
+          "column": 0,
+          "depth": 3
+        },
+        "^T": {
+          "type": "block",
+          "value": "T",
+          "line": 109,
+          "column": 68
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 163,
+          "column": 17
+        }
+      },
+      "children": [
+        "o3uik0jo6na1lscglwisp77"
+      ],
+      "parent": "nws43qzeppx8mrw19k868hu",
+      "data": {}
+    },
+    "o3uik0jo6na1lscglwisp77": {
+      "id": "o3uik0jo6na1lscglwisp77",
+      "title": "The Mobius Group",
+      "desc": "",
+      "updated": 1759080976551,
+      "created": 1746496707164,
+      "custom": {},
+      "fname": "Groups.Matrix Groups.The Mobius Group",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "70e598bce7c111b4476de74d2547f066",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Groups.Matrix Groups.The Mobius Group",
+            "id": "o3uik0jo6na1lscglwisp77",
+            "vaultName": "notes"
+          },
+          "value": "Linear Algebra.Eigenvalues and Eigenvectors.Canonical Forms",
+          "position": {
+            "start": {
+              "line": 168,
+              "column": 6,
+              "offset": 12119
+            },
+            "end": {
+              "line": 168,
+              "column": 69,
+              "offset": 12182
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Linear Algebra.Eigenvalues and Eigenvectors.Canonical Forms"
+          }
+        }
+      ],
+      "anchors": {
+        "mddot-obius-transformations": {
+          "type": "header",
+          "text": "M$\\ddot o$bius transformations",
+          "value": "mddot-obius-transformations",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "group-properties-of-the-möbius-map": {
+          "type": "header",
+          "text": "Group properties of the Möbius map",
+          "value": "group-properties-of-the-möbius-map",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        },
+        "the-möbius-maps-form-a-group": {
+          "type": "header",
+          "text": "The Möbius maps form a group",
+          "value": "the-möbius-maps-form-a-group",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        },
+        "fixed-points-of-möbius-maps": {
+          "type": "header",
+          "text": "Fixed points of Möbius maps",
+          "value": "fixed-points-of-möbius-maps",
+          "line": 146,
+          "column": 0,
+          "depth": 3
+        },
+        "group-actions-of-möbius-maps": {
+          "type": "header",
+          "text": "Group actions of Möbius maps",
+          "value": "group-actions-of-möbius-maps",
+          "line": 199,
+          "column": 0,
+          "depth": 3
+        },
+        "möbius-maps-preserve-geometric-structures": {
+          "type": "header",
+          "text": "Möbius maps preserve geometric structures",
+          "value": "möbius-maps-preserve-geometric-structures",
+          "line": 243,
+          "column": 0,
+          "depth": 3
+        },
+        "möbius-maps-preserve-the-cross-ratio": {
+          "type": "header",
+          "text": "Möbius maps preserve the cross-ratio",
+          "value": "möbius-maps-preserve-the-cross-ratio",
+          "line": 314,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 259,
+          "column": 35
+        }
+      },
+      "children": [],
+      "parent": "709ipzlot5rqhtc7i5usn4y",
+      "data": {}
+    },
+    "w1jnfre9zy9y65l03pf31iu": {
+      "id": "w1jnfre9zy9y65l03pf31iu",
+      "title": "Lagrange's Theorem",
+      "desc": "",
+      "updated": 1745654916067,
+      "created": 1745388690923,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Groups.Lagrange Theorem",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "51630e5316af173711a2f28f153d963d",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "bd1lv7h4pgqw8181od9557u",
+        "sbbmi4o8yr1nvsj3k3hyk5x",
+        "e255ewjqpl6o2yn1f7jrkeq"
+      ],
+      "parent": "nws43qzeppx8mrw19k868hu",
+      "data": {}
+    },
+    "e255ewjqpl6o2yn1f7jrkeq": {
+      "id": "e255ewjqpl6o2yn1f7jrkeq",
+      "title": "Random Applications",
+      "desc": "",
+      "updated": 1749213598535,
+      "created": 1745736624224,
+      "custom": {},
+      "fname": "Groups.Lagrange Theorem.Random Applications",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "f966ed819d407ba255e4162e3c76d918",
+      "links": [],
+      "anchors": {
+        "a-foray-into-the-weeds-the-euler-fermat-theorem": {
+          "type": "header",
+          "text": "A foray into the weeds: the Euler-Fermat theorem",
+          "value": "a-foray-into-the-weeds-the-euler-fermat-theorem",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "classifying-small-groups": {
+          "type": "header",
+          "text": "Classifying small groups",
+          "value": "classifying-small-groups",
+          "line": 85,
+          "column": 0,
+          "depth": 2
+        },
+        "quaternions": {
+          "type": "header",
+          "text": "Quaternions",
+          "value": "quaternions",
+          "line": 91,
+          "column": 0,
+          "depth": 3
+        },
+        "direct-product-theorems": {
+          "type": "header",
+          "text": "Direct product theorems",
+          "value": "direct-product-theorems",
+          "line": 130,
+          "column": 0,
+          "depth": 3
+        },
+        "group-classifications": {
+          "type": "header",
+          "text": "Group classifications",
+          "value": "group-classifications",
+          "line": 202,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "w1jnfre9zy9y65l03pf31iu",
+      "data": {}
+    },
+    "sbbmi4o8yr1nvsj3k3hyk5x": {
+      "id": "sbbmi4o8yr1nvsj3k3hyk5x",
+      "title": "Group Structures",
+      "desc": "",
+      "updated": 1759080976555,
+      "created": 1745392322801,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Groups.Lagrange Theorem.Group Structures",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "d36b75d7064a9d43f2cb93ecd41b44c6",
+      "links": [],
+      "anchors": {
+        "visualizing-group-structures": {
+          "type": "header",
+          "text": "Visualizing group structures",
+          "value": "visualizing-group-structures",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "subgroups-in-group-structures": {
+          "type": "header",
+          "text": "Subgroups in group structures",
+          "value": "subgroups-in-group-structures",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        },
+        "cosets-in-group-structures": {
+          "type": "header",
+          "text": "Cosets in group structures",
+          "value": "cosets-in-group-structures",
+          "line": 61,
+          "column": 0,
+          "depth": 3
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 27,
+          "column": 16
+        }
+      },
+      "children": [],
+      "parent": "w1jnfre9zy9y65l03pf31iu",
+      "data": {}
+    },
+    "bd1lv7h4pgqw8181od9557u": {
+      "id": "bd1lv7h4pgqw8181od9557u",
+      "title": "Lagrange's Theorem",
+      "desc": "",
+      "updated": 1749209448808,
+      "created": 1745392330013,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Groups.Lagrange Theorem.Cosets",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "82e8d7c0528a2e0330a0232f901c9a37",
+      "links": [],
+      "anchors": {
+        "properties-of-cosets": {
+          "type": "header",
+          "text": "Properties of cosets",
+          "value": "properties-of-cosets",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "lagranges-theorem": {
+          "type": "header",
+          "text": "Lagrange's Theorem",
+          "value": "lagranges-theorem",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "w1jnfre9zy9y65l03pf31iu",
+      "data": {}
+    },
+    "mygvpkq0qd6bfu5iniod3fu": {
+      "id": "mygvpkq0qd6bfu5iniod3fu",
+      "title": "Groups and Homomorphisms",
+      "desc": "",
+      "updated": 1743853718836,
+      "created": 1743446020739,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Groups.Groups and Homomorphisms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "2abf869f202fe907f099dd16cecfa99e",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "yifybyavu4cvu2kmulijla3",
+        "qhav2hoq2josw5eyo6n6oi3",
+        "pqm3586qth11ctqgyr4t8sk",
+        "oqnxnsodgippoj18oxfo5rp",
+        "0l5zq2kvnbcz4zp20y1ir1r"
+      ],
+      "parent": "nws43qzeppx8mrw19k868hu",
+      "data": {}
+    },
+    "0l5zq2kvnbcz4zp20y1ir1r": {
+      "id": "0l5zq2kvnbcz4zp20y1ir1r",
+      "title": "Subgroups",
+      "desc": "",
+      "updated": 1749197445773,
+      "created": 1743514064108,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Groups.Groups and Homomorphisms.Subgroups",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "1d83311a74fee93d342fc61cda8dd1b6",
+      "links": [],
+      "anchors": {
+        "subgroups": {
+          "type": "header",
+          "text": "Subgroups",
+          "value": "subgroups",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "mygvpkq0qd6bfu5iniod3fu",
+      "data": {}
+    },
+    "oqnxnsodgippoj18oxfo5rp": {
+      "id": "oqnxnsodgippoj18oxfo5rp",
+      "title": "Preface",
+      "desc": "",
+      "updated": 1759080976558,
+      "created": 1743480155461,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Groups.Groups and Homomorphisms.Preface",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "c2bb9af9311c7665a47be541a9a234c8",
+      "links": [],
+      "anchors": {
+        "saga-1-the-horror-of-hungary": {
+          "type": "header",
+          "text": "Saga 1: The Horror of Hungary",
+          "value": "saga-1-the-horror-of-hungary",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "saga-2-rubiks-platonic-solids": {
+          "type": "header",
+          "text": "Saga 2: Rubik's Platonic Solids",
+          "value": "saga-2-rubiks-platonic-solids",
+          "line": 45,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "mygvpkq0qd6bfu5iniod3fu",
+      "data": {}
+    },
+    "pqm3586qth11ctqgyr4t8sk": {
+      "id": "pqm3586qth11ctqgyr4t8sk",
+      "title": "Homomorphisms",
+      "desc": "",
+      "updated": 1759080976561,
+      "created": 1743853686089,
+      "custom": {},
+      "fname": "Groups.Groups and Homomorphisms.Homomorphisms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ab47d8c416bbed1051628f5933dd2a2e",
+      "links": [],
+      "anchors": {
+        "homomorphisms": {
+          "type": "header",
+          "text": "Homomorphisms",
+          "value": "homomorphisms",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "isomorphisms": {
+          "type": "header",
+          "text": "Isomorphisms",
+          "value": "isomorphisms",
+          "line": 72,
+          "column": 0,
+          "depth": 2
+        },
+        "image-and-kernel": {
+          "type": "header",
+          "text": "Image and Kernel",
+          "value": "image-and-kernel",
+          "line": 84,
+          "column": 0,
+          "depth": 2
+        },
+        "a-final-word-on-cyclic-groups": {
+          "type": "header",
+          "text": "A final word on cyclic groups",
+          "value": "a-final-word-on-cyclic-groups",
+          "line": 138,
+          "column": 0,
+          "depth": 2
+        },
+        "^k": {
+          "type": "block",
+          "value": "k",
+          "line": 164,
+          "column": 11
+        }
+      },
+      "children": [],
+      "parent": "mygvpkq0qd6bfu5iniod3fu",
+      "data": {}
+    },
+    "qhav2hoq2josw5eyo6n6oi3": {
+      "id": "qhav2hoq2josw5eyo6n6oi3",
+      "title": "Group Families",
+      "desc": "",
+      "updated": 1759080976564,
+      "created": 1743590073625,
+      "custom": {},
+      "fname": "Groups.Groups and Homomorphisms.Group Families",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ec6596b5d195f3dac2b338cea8509790",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Groups.Groups and Homomorphisms.Group Families",
+            "id": "qhav2hoq2josw5eyo6n6oi3",
+            "vaultName": "notes"
+          },
+          "value": "Groups.Permutation Groups.Permutations and Cycles",
+          "position": {
+            "start": {
+              "line": 97,
+              "column": 26,
+              "offset": 8449
+            },
+            "end": {
+              "line": 97,
+              "column": 79,
+              "offset": 8502
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Groups.Permutation Groups.Permutations and Cycles"
+          }
+        }
+      ],
+      "anchors": {
+        "dihedral-groups": {
+          "type": "header",
+          "text": "Dihedral groups",
+          "value": "dihedral-groups",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "permutation-groups": {
+          "type": "header",
+          "text": "Permutation groups",
+          "value": "permutation-groups",
+          "line": 99,
+          "column": 0,
+          "depth": 2
+        },
+        "cyclic-groups": {
+          "type": "header",
+          "text": "Cyclic groups",
+          "value": "cyclic-groups",
+          "line": 105,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 59,
+          "column": 134
+        },
+        "^k": {
+          "type": "block",
+          "value": "k",
+          "line": 81,
+          "column": 31
+        }
+      },
+      "children": [],
+      "parent": "mygvpkq0qd6bfu5iniod3fu",
+      "data": {}
+    },
+    "yifybyavu4cvu2kmulijla3": {
+      "id": "yifybyavu4cvu2kmulijla3",
+      "title": "Basic Definitions",
+      "desc": "",
+      "updated": 1759080976477,
+      "created": 1743504931189,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Groups.Groups and Homomorphisms.Basic Definitions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "171de36095f12da46750b16d28b28d7d",
+      "links": [],
+      "anchors": {
+        "what-are-groups": {
+          "type": "header",
+          "text": "What are groups?",
+          "value": "what-are-groups",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "abelian-groups-and-subgroups": {
+          "type": "header",
+          "text": "Abelian groups and subgroups",
+          "value": "abelian-groups-and-subgroups",
+          "line": 98,
+          "column": 0,
+          "depth": 2
+        },
+        "visualizing-groups": {
+          "type": "header",
+          "text": "Visualizing groups",
+          "value": "visualizing-groups",
+          "line": 118,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "mygvpkq0qd6bfu5iniod3fu",
+      "data": {}
+    },
+    "uykq2uef6t4raxvhniquqth": {
+      "id": "uykq2uef6t4raxvhniquqth",
+      "title": "Group Actions",
+      "desc": "",
+      "updated": 1746690683649,
+      "created": 1745798164351,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Groups.Group Actions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "19d452160ced50741c204104cc15925a",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "y4rxvs6ablmpkja3x83ttpp",
+        "q7gca6v82fgdg2nc4vddc8n",
+        "yc98mxhtouq030oimyyhjdh",
+        "te6kuv5nxto47bx4vhu4z0y"
+      ],
+      "parent": "nws43qzeppx8mrw19k868hu",
+      "data": {}
+    },
+    "te6kuv5nxto47bx4vhu4z0y": {
+      "id": "te6kuv5nxto47bx4vhu4z0y",
+      "title": "Orbits and Stabilizers",
+      "desc": "",
+      "updated": 1745849971642,
+      "created": 1745848360627,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Groups.Group Actions.Orbits and Stabilizers",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b8e2b4c41fb8b749447ff025cda22a07",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "uykq2uef6t4raxvhniquqth",
+      "data": {}
+    },
+    "yc98mxhtouq030oimyyhjdh": {
+      "id": "yc98mxhtouq030oimyyhjdh",
+      "title": "Group Actions",
+      "desc": "",
+      "updated": 1749213915606,
+      "created": 1749213894329,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Groups.Group Actions.Group Actions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "521f219f5f219f45054cca6026f7a388",
+      "links": [],
+      "anchors": {
+        "what-are-group-actions": {
+          "type": "header",
+          "text": "What are group actions?",
+          "value": "what-are-group-actions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "uykq2uef6t4raxvhniquqth",
+      "data": {}
+    },
+    "q7gca6v82fgdg2nc4vddc8n": {
+      "id": "q7gca6v82fgdg2nc4vddc8n",
+      "title": "Conjugation",
+      "desc": "",
+      "updated": 1749275756793,
+      "created": 1745848383573,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Groups.Group Actions.Conjugation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "bdff480abe428bb95b9528d76c7451d4",
+      "links": [],
+      "anchors": {
+        "examples-of-group-actions": {
+          "type": "header",
+          "text": "Examples of group actions",
+          "value": "examples-of-group-actions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "left-regular-action": {
+          "type": "header",
+          "text": "Left regular action",
+          "value": "left-regular-action",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "left-coset-action": {
+          "type": "header",
+          "text": "Left coset action",
+          "value": "left-coset-action",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "the-conjugation-action": {
+          "type": "header",
+          "text": "The conjugation action",
+          "value": "the-conjugation-action",
+          "line": 57,
+          "column": 0,
+          "depth": 2
+        },
+        "cauchys-theorem": {
+          "type": "header",
+          "text": "Cauchy's Theorem",
+          "value": "cauchys-theorem",
+          "line": 157,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "uykq2uef6t4raxvhniquqth",
+      "data": {}
+    },
+    "y4rxvs6ablmpkja3x83ttpp": {
+      "id": "y4rxvs6ablmpkja3x83ttpp",
+      "title": "Conjugacy Classes of Permutations",
+      "desc": "",
+      "updated": 1749383496513,
+      "created": 1746408656017,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Groups.Group Actions.Conjugacy Classes of Permutations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "3195c23b8768688656e3341ee6a23627",
+      "links": [],
+      "anchors": {
+        "conjugate-permutations": {
+          "type": "header",
+          "text": "Conjugate permutations",
+          "value": "conjugate-permutations",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "cycle-types-and-conjugacy-classes": {
+          "type": "header",
+          "text": "Cycle types and conjugacy classes",
+          "value": "cycle-types-and-conjugacy-classes",
+          "line": 99,
+          "column": 0,
+          "depth": 2
+        },
+        "conjugacy-classes-in-alternating-groups": {
+          "type": "header",
+          "text": "Conjugacy classes in alternating groups",
+          "value": "conjugacy-classes-in-alternating-groups",
+          "line": 172,
+          "column": 0,
+          "depth": 2
+        },
+        "^1": {
+          "type": "block",
+          "value": "1",
+          "line": 75,
+          "column": 109
+        },
+        "^i": {
+          "type": "block",
+          "value": "i",
+          "line": 91,
+          "column": 6
+        },
+        "^i_j": {
+          "type": "block",
+          "value": "i_j",
+          "line": 91,
+          "column": 17
+        }
+      },
+      "children": [],
+      "parent": "uykq2uef6t4raxvhniquqth",
+      "data": {}
+    },
+    "6pzg4lteljkq8fn4clmv9y1": {
+      "id": "6pzg4lteljkq8fn4clmv9y1",
+      "title": "Differential Equations",
+      "desc": "",
+      "updated": 1737878889415,
+      "created": 1737872521925,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "4ebd58a5df6f7e856c4440bde7a12772",
+      "links": [
+        {
+          "from": {
+            "fname": "Vector Calculus.Curves and Surfaces.Surfaces",
+            "id": "erf58bjg36cdf82wsycudq4",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 135,
+              "column": 58,
+              "offset": 9095
+            },
+            "end": {
+              "line": 135,
+              "column": 84,
+              "offset": 9121
+            },
+            "indent": []
+          },
+          "value": "Differential Equations"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "gv3pkv58nre5g52cyc6tq73",
+        "kl15yfn4in91gcpuv10l999",
+        "fezha9fok50w13uuxpu00vh",
+        "ok7m5b2pap6hl5jl837txqd",
+        "oz5w0dk6wt2w6lkv1537hb6",
+        "od0v6l3mi9349a6ahvetidb",
+        "o0znon4syo5gjdazfsxwavg"
+      ],
+      "parent": "cvrcdb8o4kzgfzvj7bowdtl",
+      "data": {}
+    },
+    "o0znon4syo5gjdazfsxwavg": {
+      "id": "o0znon4syo5gjdazfsxwavg",
+      "title": "Systems of Differential Equations",
+      "desc": "",
+      "updated": 1738388754868,
+      "created": 1738388741478,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Differential Equations.Systems of Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "2cd16374940b2ca74c90b8861dd7ab46",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "f70s0yzjyot4rjt9rr0l678",
+        "509cman1903g1ylhux4x647",
+        "ymd86fi12f7d8uxx08o1l63"
+      ],
+      "parent": "6pzg4lteljkq8fn4clmv9y1",
+      "data": {}
+    },
+    "ymd86fi12f7d8uxx08o1l63": {
+      "id": "ymd86fi12f7d8uxx08o1l63",
+      "title": "Phase-Portrait Analysis",
+      "desc": "",
+      "updated": 1739435693622,
+      "created": 1738389269382,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Differential Equations.Systems of Differential Equations.Phase-Portrait Analysis",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "91d905f28ae9104d9ace30beb3b0327d",
+      "links": [],
+      "anchors": {
+        "sinks-and-sources": {
+          "type": "header",
+          "text": "Sinks and sources",
+          "value": "sinks-and-sources",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "spiral-points": {
+          "type": "header",
+          "text": "Spiral points",
+          "value": "spiral-points",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "o0znon4syo5gjdazfsxwavg",
+      "data": {}
+    },
+    "509cman1903g1ylhux4x647": {
+      "id": "509cman1903g1ylhux4x647",
+      "title": "Nonlinear Dynamical Systems",
+      "desc": "",
+      "updated": 1739435797293,
+      "created": 1739435702787,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Differential Equations.Systems of Differential Equations.Nonlinear Dynamical Systems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ff21bfa1dc94702849904afee5f9b78d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "o0znon4syo5gjdazfsxwavg",
+      "data": {}
+    },
+    "f70s0yzjyot4rjt9rr0l678": {
+      "id": "f70s0yzjyot4rjt9rr0l678",
+      "title": "Linear Systems of Differential Equations",
+      "desc": "",
+      "updated": 1739435119118,
+      "created": 1738388775486,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations.Systems of Differential Equations.Linear Systems of Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "04b9c941338456dd55dee1e4bbe4ac5f",
+      "links": [],
+      "anchors": {
+        "transforming-higher-order-des-into-systems": {
+          "type": "header",
+          "text": "Transforming higher-order DEs into systems",
+          "value": "transforming-higher-order-des-into-systems",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "eigenvalue-solutions-to-linear-systems-of-des": {
+          "type": "header",
+          "text": "Eigenvalue solutions to linear systems of DEs",
+          "value": "eigenvalue-solutions-to-linear-systems-of-des",
+          "line": 80,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "o0znon4syo5gjdazfsxwavg",
+      "data": {}
+    },
+    "od0v6l3mi9349a6ahvetidb": {
+      "id": "od0v6l3mi9349a6ahvetidb",
+      "title": "Series Solutions to Differential Equations",
+      "desc": "",
+      "updated": 1738385664837,
+      "created": 1737963084044,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Differential Equations.Series Solutions to Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "1d415ed32c52f94c83a4b85197f65b8c",
+      "links": [],
+      "anchors": {
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 31,
+          "column": 43
+        }
+      },
+      "children": [
+        "nnr2tc5a78wx0h3g6chjsrr",
+        "r6778su93rvk465af181xit",
+        "d1ze3vxw7eskbjg40jcqfhh"
+      ],
+      "parent": "6pzg4lteljkq8fn4clmv9y1",
+      "data": {}
+    },
+    "d1ze3vxw7eskbjg40jcqfhh": {
+      "id": "d1ze3vxw7eskbjg40jcqfhh",
+      "title": "Singular and Ordinary Points",
+      "desc": "",
+      "updated": 1738386315573,
+      "created": 1738386263875,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations.Series Solutions to Differential Equations.Singular and Ordinary Points",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b4394194e0c030c986d5004f5bd92ebc",
+      "links": [],
+      "anchors": {
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 28,
+          "column": 32
+        }
+      },
+      "children": [],
+      "parent": "od0v6l3mi9349a6ahvetidb",
+      "data": {}
+    },
+    "r6778su93rvk465af181xit": {
+      "id": "r6778su93rvk465af181xit",
+      "title": "Resonance of Solutions",
+      "desc": "",
+      "updated": 1738386546305,
+      "created": 1738386496461,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Differential Equations.Series Solutions to Differential Equations.Resonance of Solutions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ec234e3300dd25334d31497cd454f36e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "od0v6l3mi9349a6ahvetidb",
+      "data": {}
+    },
+    "nnr2tc5a78wx0h3g6chjsrr": {
+      "id": "nnr2tc5a78wx0h3g6chjsrr",
+      "title": "Examples of Series Solutions",
+      "desc": "",
+      "updated": 1738386484863,
+      "created": 1738386300307,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Differential Equations.Series Solutions to Differential Equations.Examples of Series Solutions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "7299060b0260e37515937acc4dd42b17",
+      "links": [],
+      "anchors": {
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 40,
+          "column": 38
+        }
+      },
+      "children": [],
+      "parent": "od0v6l3mi9349a6ahvetidb",
+      "data": {}
+    },
+    "oz5w0dk6wt2w6lkv1537hb6": {
+      "id": "oz5w0dk6wt2w6lkv1537hb6",
+      "title": "Second-Order Differential Equations",
+      "desc": "",
+      "updated": 1737882625855,
+      "created": 1737882538446,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Differential Equations.Second-Order Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "73e332618cffa78527db463f86d1c78d",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "pw32zcpaxaw6o2os4my2vw5",
+        "lzhy8bvxt01f3gcdtmvvvua",
+        "1xyzrht8zfjzny8n8lj7vd5",
+        "lunebnp6hfbd51z9lnzvnfc",
+        "9iwoo2vtyjjut6weur45ae3",
+        "sfpud698rpyl9rqza77ikw6",
+        "nuhvrygqm4o29rrxrd7ufzh"
+      ],
+      "parent": "6pzg4lteljkq8fn4clmv9y1",
+      "data": {}
+    },
+    "nuhvrygqm4o29rrxrd7ufzh": {
+      "id": "nuhvrygqm4o29rrxrd7ufzh",
+      "title": "Second-Order Difference Equations",
+      "desc": "",
+      "updated": 1737960722462,
+      "created": 1737960605947,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Differential Equations.Second-Order Differential Equations.Second-Order Difference Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "a865f8d7429bcc2dd2c7c7001f2e977c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oz5w0dk6wt2w6lkv1537hb6",
+      "data": {}
+    },
+    "sfpud698rpyl9rqza77ikw6": {
+      "id": "sfpud698rpyl9rqza77ikw6",
+      "title": "Physical Systems",
+      "desc": "",
+      "updated": 1737962028612,
+      "created": 1737960729616,
+      "custom": {},
+      "fname": "Differential Equations.Second-Order Differential Equations.Physical Systems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "5139ebbb564eeeb593325034f3a1350e",
+      "links": [],
+      "anchors": {
+        "undamped-free-vibrations": {
+          "type": "header",
+          "text": "Undamped free vibrations",
+          "value": "undamped-free-vibrations",
+          "line": 59,
+          "column": 0,
+          "depth": 2
+        },
+        "damped-free-vibrations": {
+          "type": "header",
+          "text": "Damped free vibrations",
+          "value": "damped-free-vibrations",
+          "line": 86,
+          "column": 0,
+          "depth": 2
+        },
+        "forced-vibrations": {
+          "type": "header",
+          "text": "Forced vibrations",
+          "value": "forced-vibrations",
+          "line": 136,
+          "column": 0,
+          "depth": 2
+        },
+        "resonance": {
+          "type": "header",
+          "text": "Resonance",
+          "value": "resonance",
+          "line": 156,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "oz5w0dk6wt2w6lkv1537hb6",
+      "data": {}
+    },
+    "9iwoo2vtyjjut6weur45ae3": {
+      "id": "9iwoo2vtyjjut6weur45ae3",
+      "title": "Nonhomogeneous Equations",
+      "desc": "",
+      "updated": 1738385212157,
+      "created": 1737883958432,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Differential Equations.Second-Order Differential Equations.Nonhomogeneous Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b82d25e0df5eec8731eb41272139702e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oz5w0dk6wt2w6lkv1537hb6",
+      "data": {}
+    },
+    "lunebnp6hfbd51z9lnzvnfc": {
+      "id": "lunebnp6hfbd51z9lnzvnfc",
+      "title": "Inital-Condition Problems",
+      "desc": "",
+      "updated": 1737883937830,
+      "created": 1737883042002,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Differential Equations.Second-Order Differential Equations.Inital-Condition Problems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "7d4565aa411fbf41de0e5563ed1aa32a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oz5w0dk6wt2w6lkv1537hb6",
+      "data": {}
+    },
+    "1xyzrht8zfjzny8n8lj7vd5": {
+      "id": "1xyzrht8zfjzny8n8lj7vd5",
+      "title": "Impulse Functions",
+      "desc": "",
+      "updated": 1737962213849,
+      "created": 1737962213849,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Differential Equations.Second-Order Differential Equations.Impulse Functions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "65b4e87ba304d77f2c83f5f7c4f58eed",
+      "links": [],
+      "anchors": {
+        "heaviside-step-function": {
+          "type": "header",
+          "text": "Heaviside step function",
+          "value": "heaviside-step-function",
+          "line": 119,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "oz5w0dk6wt2w6lkv1537hb6",
+      "data": {}
+    },
+    "lzhy8bvxt01f3gcdtmvvvua": {
+      "id": "lzhy8bvxt01f3gcdtmvvvua",
+      "title": "Equidimensional Equations",
+      "desc": "",
+      "updated": 1737960579722,
+      "created": 1737960336774,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Differential Equations.Second-Order Differential Equations.Equidimensional Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "28f5431c32a95909668af9324af176c1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oz5w0dk6wt2w6lkv1537hb6",
+      "data": {}
+    },
+    "pw32zcpaxaw6o2os4my2vw5": {
+      "id": "pw32zcpaxaw6o2os4my2vw5",
+      "title": "Constant-Coefficient Equations",
+      "desc": "",
+      "updated": 1737883049818,
+      "created": 1737882639556,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations.Second-Order Differential Equations.Constant-Coefficient Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "75ea8a98e33400f0d289c98ad6dd51f7",
+      "links": [],
+      "anchors": {
+        "complementary-functions": {
+          "type": "header",
+          "text": "Complementary functions",
+          "value": "complementary-functions",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "oz5w0dk6wt2w6lkv1537hb6",
+      "data": {}
+    },
+    "ok7m5b2pap6hl5jl837txqd": {
+      "id": "ok7m5b2pap6hl5jl837txqd",
+      "title": "Partial Differential Equations",
+      "desc": "",
+      "updated": 1739435839766,
+      "created": 1739435810037,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Differential Equations.Partial Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "6f4eb3e799175119cb775a6a9ef0cad4",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "92awlr0l52v7qrhpz9kt927",
+        "01qcq0jmgijhv4bj5bz0d7l",
+        "qte89iyg3hbzoxjcqmyctkt"
+      ],
+      "parent": "6pzg4lteljkq8fn4clmv9y1",
+      "data": {}
+    },
+    "qte89iyg3hbzoxjcqmyctkt": {
+      "id": "qte89iyg3hbzoxjcqmyctkt",
+      "title": "Wave Equation",
+      "desc": "",
+      "updated": 1739436591898,
+      "created": 1739436209039,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Differential Equations.Partial Differential Equations.Wave Equation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "e078da302f8d3ec2722c202fffe4b463",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ok7m5b2pap6hl5jl837txqd",
+      "data": {}
+    },
+    "01qcq0jmgijhv4bj5bz0d7l": {
+      "id": "01qcq0jmgijhv4bj5bz0d7l",
+      "title": "Transport Equation",
+      "desc": "",
+      "updated": 1739436600784,
+      "created": 1739435846178,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations.Partial Differential Equations.Transport Equation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "5e027e051057d6f5f545f4ef0f5e8237",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ok7m5b2pap6hl5jl837txqd",
+      "data": {}
+    },
+    "92awlr0l52v7qrhpz9kt927": {
+      "id": "92awlr0l52v7qrhpz9kt927",
+      "title": "Heat Equation",
+      "desc": "",
+      "updated": 1739436783275,
+      "created": 1739436608281,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Differential Equations.Partial Differential Equations.Heat Equation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "d2e262aa9039d3f855c5ca51deb3a169",
+      "links": [
+        {
+          "from": {
+            "fname": "Vector Calculus.Differential Operators.Second-Order Operators",
+            "id": "z7hgjig8068ld6bvrym4qgi",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 88,
+              "column": 142,
+              "offset": 4553
+            },
+            "end": {
+              "line": 88,
+              "column": 213,
+              "offset": 4624
+            },
+            "indent": []
+          },
+          "value": "Differential Equations.Partial Differential Equations.Heat Equation"
+        },
+        {
+          "from": {
+            "fname": "Vector Calculus.Integral Theorems.Examples and Applications",
+            "id": "nx5x0drn82shqnrk5rllt25",
+            "vaultName": "notes"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 229,
+              "column": 114,
+              "offset": 12458
+            },
+            "end": {
+              "line": 229,
+              "column": 185,
+              "offset": 12529
+            },
+            "indent": []
+          },
+          "value": "Differential Equations.Partial Differential Equations.Heat Equation"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ok7m5b2pap6hl5jl837txqd",
+      "data": {}
+    },
+    "fezha9fok50w13uuxpu00vh": {
+      "id": "fezha9fok50w13uuxpu00vh",
+      "title": "Multivariate Differential Equations",
+      "desc": "",
+      "updated": 1738387023653,
+      "created": 1738386568113,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Differential Equations.Multivariate Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "8f7b13a93e2f7c9b0ccd0557121d62f8",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hrvwtwdmpo21tmwzsiyy8un",
+        "ao91sx24ma0i83ro4uo6spq"
+      ],
+      "parent": "6pzg4lteljkq8fn4clmv9y1",
+      "data": {}
+    },
+    "ao91sx24ma0i83ro4uo6spq": {
+      "id": "ao91sx24ma0i83ro4uo6spq",
+      "title": "Stationary Points",
+      "desc": "",
+      "updated": 1738388720831,
+      "created": 1738387278193,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Differential Equations.Multivariate Differential Equations.Stationary Points",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "f1daa1d404651ecd180dbf866f1e0ede",
+      "links": [],
+      "anchors": {
+        "taylor-series-for-multivariate-functions": {
+          "type": "header",
+          "text": "Taylor series for multivariate functions",
+          "value": "taylor-series-for-multivariate-functions",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "classification-of-multivariate-stationary-points": {
+          "type": "header",
+          "text": "Classification of multivariate stationary points",
+          "value": "classification-of-multivariate-stationary-points",
+          "line": 99,
+          "column": 0,
+          "depth": 2
+        },
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 178,
+          "column": 80
+        }
+      },
+      "children": [],
+      "parent": "fezha9fok50w13uuxpu00vh",
+      "data": {}
+    },
+    "hrvwtwdmpo21tmwzsiyy8un": {
+      "id": "hrvwtwdmpo21tmwzsiyy8un",
+      "title": "Directional Derivative and Gradient",
+      "desc": "",
+      "updated": 1738387288065,
+      "created": 1738387043055,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations.Multivariate Differential Equations.Multivariate Gradient",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ca6402151a4e22ade3256643ed7b93ad",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "fezha9fok50w13uuxpu00vh",
+      "data": {}
+    },
+    "kl15yfn4in91gcpuv10l999": {
+      "id": "kl15yfn4in91gcpuv10l999",
+      "title": "First-Order Differential Equations",
+      "desc": "",
+      "updated": 1737878907639,
+      "created": 1737877275702,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Differential Equations.First-Order Differential Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "8ee442d5eed91c9b783c76627630fe6e",
+      "links": [],
+      "anchors": {
+        "the-exponential-function": {
+          "type": "header",
+          "text": "The exponential function",
+          "value": "the-exponential-function",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "defining-and-classifying-differential-equations": {
+          "type": "header",
+          "text": "Defining and classifying differential equations",
+          "value": "defining-and-classifying-differential-equations",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "^x": {
+          "type": "block",
+          "value": "x",
+          "line": 22,
+          "column": 16
+        }
+      },
+      "children": [
+        "fmouzl8qxved9orlrpa7kuu",
+        "x1ozstkcytqvkx3eu95ztmo",
+        "d6z8wi85dat6p12e6akcvfs",
+        "lvkak3uo5q9zb7gxt78rlnd",
+        "x5ttibwtz9kw9kjjo9z2jxc",
+        "rifvn0500fkjo4kkrs9spok",
+        "hduqs5fphra3kiley5psg9p"
+      ],
+      "parent": "6pzg4lteljkq8fn4clmv9y1",
+      "data": {}
+    },
+    "hduqs5fphra3kiley5psg9p": {
+      "id": "hduqs5fphra3kiley5psg9p",
+      "title": "Solution Curves",
+      "desc": "",
+      "updated": 1737880172234,
+      "created": 1737879773032,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "Differential Equations.First-Order Differential Equations.Solution Curves",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "d9194a11e2d4a6563bfa14d1afcaebaa",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "kl15yfn4in91gcpuv10l999",
+      "data": {}
+    },
+    "rifvn0500fkjo4kkrs9spok": {
+      "id": "rifvn0500fkjo4kkrs9spok",
+      "title": "Non-Linear Equations",
+      "desc": "",
+      "updated": 1737879767808,
+      "created": 1737879192101,
+      "nav_order": 4,
+      "custom": {
+        "nav_order": 4
+      },
+      "fname": "Differential Equations.First-Order Differential Equations.Non-Linear Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "af259ae0ed99be1d58a48cd8fb5cce54",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "kl15yfn4in91gcpuv10l999",
+      "data": {}
+    },
+    "x5ttibwtz9kw9kjjo9z2jxc": {
+      "id": "x5ttibwtz9kw9kjjo9z2jxc",
+      "title": "Integrating Factors",
+      "desc": "",
+      "updated": 1737879178190,
+      "created": 1737879095852,
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "Differential Equations.First-Order Differential Equations.Integrating Factors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "e5c69e048865aedee3ccb9533afcfe46",
+      "links": [],
+      "anchors": {
+        "non-constant-coefficient-des": {
+          "type": "header",
+          "text": "Non-constant coefficient DEs",
+          "value": "non-constant-coefficient-des",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "kl15yfn4in91gcpuv10l999",
+      "data": {}
+    },
+    "lvkak3uo5q9zb7gxt78rlnd": {
+      "id": "lvkak3uo5q9zb7gxt78rlnd",
+      "title": "Inhomogeneous Equations",
+      "desc": "",
+      "updated": 1737879090562,
+      "created": 1737878879509,
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "Differential Equations.First-Order Differential Equations.Inhomogeneous Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "cd82a07a6abd42e724f78c7b2264be64",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "kl15yfn4in91gcpuv10l999",
+      "data": {}
+    },
+    "d6z8wi85dat6p12e6akcvfs": {
+      "id": "d6z8wi85dat6p12e6akcvfs",
+      "title": "Homogeneous Equations",
+      "desc": "",
+      "updated": 1759058666336,
+      "created": 1737878723645,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations.First-Order Differential Equations.Homogeneous Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "5a9ffb2df9fcc0b9aed97b000dc28d4d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "kl15yfn4in91gcpuv10l999",
+      "data": {}
+    },
+    "x1ozstkcytqvkx3eu95ztmo": {
+      "id": "x1ozstkcytqvkx3eu95ztmo",
+      "title": "Difference Equations",
+      "desc": "",
+      "updated": 1737882520799,
+      "created": 1737880744321,
+      "nav_order": 7,
+      "custom": {
+        "nav_order": 7
+      },
+      "fname": "Differential Equations.First-Order Differential Equations.Difference Equations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "46385dcda17ef834dccdd7149247fe00",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "kl15yfn4in91gcpuv10l999",
+      "data": {}
+    },
+    "fmouzl8qxved9orlrpa7kuu": {
+      "id": "fmouzl8qxved9orlrpa7kuu",
+      "title": "Autonomous Systems",
+      "desc": "",
+      "updated": 1737880684085,
+      "created": 1737880596525,
+      "nav_order": 6,
+      "custom": {
+        "nav_order": 6
+      },
+      "fname": "Differential Equations.First-Order Differential Equations.Autonomous Systems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "baf07d1c6154d05d8ac2f901ade796cc",
+      "links": [],
+      "anchors": {
+        "^2": {
+          "type": "block",
+          "value": "2",
+          "line": 31,
+          "column": 48
+        }
+      },
+      "children": [],
+      "parent": "kl15yfn4in91gcpuv10l999",
+      "data": {}
+    },
+    "gv3pkv58nre5g52cyc6tq73": {
+      "id": "gv3pkv58nre5g52cyc6tq73",
+      "title": "Differentiation and Integration",
+      "desc": "",
+      "updated": 1759048980424,
+      "created": 1737873391478,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "Differential Equations.Differentiation and Integration",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "76c0f4f03663de8a6b242944a1984a7a",
+      "links": [],
+      "anchors": {
+        "differentiation": {
+          "type": "header",
+          "text": "Differentiation",
+          "value": "differentiation",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "big-o-and-small-o-notation": {
+          "type": "header",
+          "text": "Big-O and small-o notation",
+          "value": "big-o-and-small-o-notation",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "basic-propositions-and-theorems": {
+          "type": "header",
+          "text": "Basic propositions and theorems",
+          "value": "basic-propositions-and-theorems",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "integration": {
+          "type": "header",
+          "text": "Integration",
+          "value": "integration",
+          "line": 78,
+          "column": 0,
+          "depth": 2
+        },
+        "partial-differentiation": {
+          "type": "header",
+          "text": "Partial differentiation",
+          "value": "partial-differentiation",
+          "line": 88,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6pzg4lteljkq8fn4clmv9y1",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "cvrcdb8o4kzgfzvj7bowdtl",
+      "title": "Math notes",
+      "desc": "",
+      "updated": 1735562176549,
+      "created": 1734849922137,
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "481bdea8146b7628306ea1ea7f984bd7",
+      "links": [],
+      "anchors": {
+        "by-turbo-huang": {
+          "type": "header",
+          "text": "By Turbo Huang",
+          "value": "by-turbo-huang",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6pzg4lteljkq8fn4clmv9y1",
+        "nws43qzeppx8mrw19k868hu",
+        "pljx45cxmkjv1tt8kohsggi",
+        "3tmmw5hl8xrirepk0mjudl4"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "## By Turbo Huang"
+    }
+  ],
+  "noteIndex": {
+    "id": "cvrcdb8o4kzgfzvj7bowdtl",
+    "title": "Math notes",
+    "desc": "",
+    "updated": 1735562176549,
+    "created": 1734849922137,
+    "nav_order": 1,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "notes"
+    },
+    "contentHash": "481bdea8146b7628306ea1ea7f984bd7",
+    "links": [],
+    "anchors": {
+      "by-turbo-huang": {
+        "type": "header",
+        "text": "By Turbo Huang",
+        "value": "by-turbo-huang",
+        "line": 8,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "6pzg4lteljkq8fn4clmv9y1",
+      "nws43qzeppx8mrw19k868hu",
+      "pljx45cxmkjv1tt8kohsggi",
+      "3tmmw5hl8xrirepk0mjudl4"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "## By Turbo Huang"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "notes"
+    }
+  ]
+}

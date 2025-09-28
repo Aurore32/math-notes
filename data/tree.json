@@ -1,0 +1,1439 @@
+{
+  "roots": [
+    {
+      "key": "6pzg4lteljkq8fn4clmv9y1",
+      "title": "Differential Equations",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "gv3pkv58nre5g52cyc6tq73",
+          "title": "Differentiation and Integration",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "kl15yfn4in91gcpuv10l999",
+          "title": "First-Order Differential Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "d6z8wi85dat6p12e6akcvfs",
+              "title": "Homogeneous Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "lvkak3uo5q9zb7gxt78rlnd",
+              "title": "Inhomogeneous Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "x5ttibwtz9kw9kjjo9z2jxc",
+              "title": "Integrating Factors",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "rifvn0500fkjo4kkrs9spok",
+              "title": "Non-Linear Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "hduqs5fphra3kiley5psg9p",
+              "title": "Solution Curves",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "fmouzl8qxved9orlrpa7kuu",
+              "title": "Autonomous Systems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "x1ozstkcytqvkx3eu95ztmo",
+              "title": "Difference Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "oz5w0dk6wt2w6lkv1537hb6",
+          "title": "Second-Order Differential Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "pw32zcpaxaw6o2os4my2vw5",
+              "title": "Constant-Coefficient Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "lunebnp6hfbd51z9lnzvnfc",
+              "title": "Inital-Condition Problems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "9iwoo2vtyjjut6weur45ae3",
+              "title": "Nonhomogeneous Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "lzhy8bvxt01f3gcdtmvvvua",
+              "title": "Equidimensional Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "nuhvrygqm4o29rrxrd7ufzh",
+              "title": "Second-Order Difference Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "1xyzrht8zfjzny8n8lj7vd5",
+              "title": "Impulse Functions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "sfpud698rpyl9rqza77ikw6",
+              "title": "Physical Systems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "od0v6l3mi9349a6ahvetidb",
+          "title": "Series Solutions to Differential Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "d1ze3vxw7eskbjg40jcqfhh",
+              "title": "Singular and Ordinary Points",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "nnr2tc5a78wx0h3g6chjsrr",
+              "title": "Examples of Series Solutions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "r6778su93rvk465af181xit",
+              "title": "Resonance of Solutions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "fezha9fok50w13uuxpu00vh",
+          "title": "Multivariate Differential Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "hrvwtwdmpo21tmwzsiyy8un",
+              "title": "Directional Derivative and Gradient",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "ao91sx24ma0i83ro4uo6spq",
+              "title": "Stationary Points",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "o0znon4syo5gjdazfsxwavg",
+          "title": "Systems of Differential Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "f70s0yzjyot4rjt9rr0l678",
+              "title": "Linear Systems of Differential Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "ymd86fi12f7d8uxx08o1l63",
+              "title": "Phase-Portrait Analysis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "509cman1903g1ylhux4x647",
+              "title": "Nonlinear Dynamical Systems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ok7m5b2pap6hl5jl837txqd",
+          "title": "Partial Differential Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "01qcq0jmgijhv4bj5bz0d7l",
+              "title": "Transport Equation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "qte89iyg3hbzoxjcqmyctkt",
+              "title": "Wave Equation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "92awlr0l52v7qrhpz9kt927",
+              "title": "Heat Equation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pljx45cxmkjv1tt8kohsggi",
+      "title": "Linear Algebra",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "dsj2qe8miwbf9b8bx301eo9",
+          "title": "Complex Numbers",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "w9edr0w0irit2nls3qryzxp",
+              "title": "Formulas and Theorems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "b6pvgfgsebio60eelk93piq",
+              "title": "Complex Exponentiation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "p6qgibfnguwutpsdy24bzls",
+              "title": "Roots of Unity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "bof4d8unu2g8shqxa7vhs4p",
+              "title": "Geometric Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "97hpohs61y3zs5fg8yh2s4a",
+          "title": "Vectors",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "cijw6w7tpvzehpgzd9u59gf",
+              "title": "Definitions and Properties",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "acofzyoqoi8d1hn41m901zr",
+              "title": "Scalar Product",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "83h5gwe0p7n8x55rqr9x8op",
+              "title": "Vector Product",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "yild13c55t8as7pol36ea84",
+              "title": "Linear Independence and Basis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "kps1vouu5g7m8efsc1ccr96",
+              "title": "Subspaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "s4584oa4m259kma2pmw1lnq",
+              "title": "Complex Vector Spaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "8r1kh8kplkgwdnntxbb67zt",
+              "title": "Tensor Notation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "2r2el4g77gk10wt5mm3q6bm",
+              "title": "Vector Geometry",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "psmhf3tnofluj0yiig4pdgt",
+          "title": "Matrices and Linear Maps",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "3g6oqjvmm0a8xcyxmfi9c98",
+              "title": "Defining Linear Maps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "i4nj9v4ltupnjuomf6c7vda",
+              "title": "Rank and Nullity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "ixvynw05twlgbw1og9o09jc",
+              "title": "Matrices as Linear Maps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "1cdknz7rz4s37vg3bf9e6zc",
+              "title": "Examples of Linear Maps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "udf5um6s0gh0r4585waftt3",
+              "title": "Matrix Operations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "g3saar7em9n8mr1cgmrackv",
+              "title": "Determinants",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "kzc5fzc65b83qv97lrkuqff",
+              "title": "Permutations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "46o6bijc8pbrmvcf5v9awc9",
+              "title": "Higher-Dimensional Determinants",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "pb3vb4nmzjvobpmrnoj9qxl",
+              "title": "Determinants of Products",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "j03u376ezurk37ks0i9f5ej",
+          "title": "Systems of Linear Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "o1xylvjonk35o9wnkmd060y",
+              "title": "Matrix Inverses and Linear Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "n417qwzj6g9sqx0h2tcpsoo",
+              "title": "Matrix Rank",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "gaidz59s80wjrr035osuo5h",
+          "title": "Eigenvalues and Eigenvectors",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "tklb5g2nntypp66xuohwavb",
+              "title": "Basic Definitions and Results",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "xsw48w148tbq8wcyezaw1hj",
+              "title": "Eigenspaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "pfvduov4dlnmrwikm39lsne",
+              "title": "Change of Basis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "7tx741gb0nmw3q1pv9u4kjk",
+              "title": "Similar Matrices and Diagonalization",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "0v6omcg3j6htia1jtgc613m",
+              "title": "Canonical Forms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "0b2cc21hzv5pgirnffcuyyo",
+              "title": "Differential Equations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "btx6g3xgtg54f68m93aow7t",
+              "title": "Cayley-Hamilton Theorem",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "4e4uv6kydsnn09xemle6ok1",
+              "title": "Eigenvalues and Eigenvectors of Hermitian Matrices",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "amle684tzu04xxy5sjdjvn6",
+              "title": "Forms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "2yto361ji010ae96sp9iee0",
+              "title": "Singular Value Decomposition",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "s1y1jxgk5fpdknpk6je7bym",
+          "title": "Transformation Groups",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "k0f8nh1skx99x6b1efjfbdi",
+              "title": "Metrics",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "3tmmw5hl8xrirepk0mjudl4",
+      "title": "Vector Calculus",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "4zlw0by57byl7ojg5soybhy",
+          "title": "Partial Differentiation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "13zb1v1saqoj2doziceal14",
+              "title": "Review",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "a51b94g3myhubif5xgfnslp",
+              "title": "Limits and Continuity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "94otf54sqlrwh45msr4awez",
+              "title": "Partial Derivatives",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "cp1tdvhopvnu9t3jk44jvi5",
+              "title": "The Chain Rule",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "68ii6enm0j9cktgmk6183bg",
+              "title": "Gradients",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "adt80pku4ms2kx67urfykds",
+              "title": "Higher-Order Partial Derivatives",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "8f3knzlp7caw0zuy3zvux02",
+          "title": "Curves and Surfaces",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "bzrgunlaz0monn4b9aecc6w",
+              "title": "Curves",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "erf58bjg36cdf82wsycudq4",
+              "title": "Surfaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "m3zun4jdnkto6pb8o6j19ym",
+          "title": "Line Integrals",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "19daeqeo5tz5bez00vc1vf6",
+              "title": "Riemann Integrals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "64t8ptaalufwp8zilizp1g0",
+              "title": "Line Integals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "jison1m3isyy139b9fv8lq2",
+              "title": "Fundamental Theorem of Line Integrals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "x467ljycicwakgbfe821jzm",
+          "title": "Multiple Integrals",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "zwoduv6zfijwzm9s7c8gn4l",
+              "title": "Area Integrals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "bw0vshsl9q10fgg63mzuci1",
+              "title": "Change of Variables",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "rtukfip9nnyllaawx8dpx9z",
+              "title": "Volume Integrals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "xot3ips2e7ncbzc1xg1xxny",
+          "title": "Surface Integrals",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "bppjh6ro6ivkjzybl0218pg",
+              "title": "Revisiting Surfaces",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "j2xtas36maeloynfjl7khnm",
+              "title": "Evaluating Surface Integrals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "42ta6y1z42bfkexycvzr7d6",
+          "title": "Differential Operators",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "gxnq41qhl1qkz9qpk8uprn5",
+              "title": "Basic Definitions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "z7hgjig8068ld6bvrym4qgi",
+              "title": "Second-Order Operators",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "2y9mihsvutycobs1m8hlpmk",
+              "title": "Orthogonal Curvilinear Coordinates",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "q8j48hpustufdimi076ru66",
+          "title": "Integral Theorems",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "r7sxg4tr107exgx1eb792bh",
+              "title": "Divergence Theorem",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "pw0mr7g1nh90w8kj5gd8q1s",
+              "title": "Green's Theorem",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "emg29oynu0ibam7ks899ki8",
+              "title": "Stokes' Theorem",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "ug263fsf2k2nyyzjz6w3gfk",
+              "title": "Curvilinear Differential Operators",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "nx5x0drn82shqnrk5rllt25",
+              "title": "Examples and Applications",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "wagqdbxliknfhukctsf4bcj",
+          "title": "Poisson and Laplace Equations",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "bg8uqr6kl87d2bt7ydgvxwl",
+              "title": "Physical Origins and Significance",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "9pqdbygdcfz3lg0q2pas8oy",
+              "title": "Solving the Laplace Equation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "8o8n6c8bwvppdsgg6j5uoy0",
+              "title": "Existence and Uniqueness",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "9ct9sy0ph4ewyzsppgv363h",
+              "title": "Integral Solutions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "phi04hkjfomkh64fsqcz5j8",
+          "title": "Tensors",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "5xckuaks5kuji8gyg4ah7pv",
+              "title": "Tensors are Tensors",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "d2bdexizo9ca3cmahu5a3uf",
+              "title": "Tensors are Multilinear Maps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "jqmpl4v1p55nm8mwx655y7w",
+              "title": "Tensors are Tensor Fields",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "rxi1zafrraesc93a8tb2yrf",
+              "title": "Tensors are Other Things",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "nws43qzeppx8mrw19k868hu",
+      "title": "Group Theory",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "mygvpkq0qd6bfu5iniod3fu",
+          "title": "Groups and Homomorphisms",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "oqnxnsodgippoj18oxfo5rp",
+              "title": "Preface",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "yifybyavu4cvu2kmulijla3",
+              "title": "Basic Definitions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "0l5zq2kvnbcz4zp20y1ir1r",
+              "title": "Subgroups",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "qhav2hoq2josw5eyo6n6oi3",
+              "title": "Group Families",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "pqm3586qth11ctqgyr4t8sk",
+              "title": "Homomorphisms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ueub0bnan3wvxjhz40fai0t",
+          "title": "Permutation Groups",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "ovco5v150uo99cv3au933vz",
+              "title": "Permutations and Cycles",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "z5qq1tdda9971j27ds5ys49",
+              "title": "Sign of a Permutation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "w1jnfre9zy9y65l03pf31iu",
+          "title": "Lagrange's Theorem",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "sbbmi4o8yr1nvsj3k3hyk5x",
+              "title": "Group Structures",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "bd1lv7h4pgqw8181od9557u",
+              "title": "Lagrange's Theorem",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "e255ewjqpl6o2yn1f7jrkeq",
+              "title": "Random Applications",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ryeuc9zk1mjisuuwjnctu87",
+          "title": "Quotient Groups",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "pfww89ysaeiieomrxa7nwc4",
+              "title": "Normal Subgroups",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "ni3hpaluegma8mln8yevsiw",
+              "title": "Quotient Group Theorems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "uykq2uef6t4raxvhniquqth",
+          "title": "Group Actions",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "yc98mxhtouq030oimyyhjdh",
+              "title": "Group Actions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "te6kuv5nxto47bx4vhu4z0y",
+              "title": "Orbits and Stabilizers",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "q7gca6v82fgdg2nc4vddc8n",
+              "title": "Conjugation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "y4rxvs6ablmpkja3x83ttpp",
+              "title": "Conjugacy Classes of Permutations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "709ipzlot5rqhtc7i5usn4y",
+          "title": "Matrix Groups",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "o3uik0jo6na1lscglwisp77",
+              "title": "The Mobius Group",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "6pzg4lteljkq8fn4clmv9y1": null,
+    "gv3pkv58nre5g52cyc6tq73": "6pzg4lteljkq8fn4clmv9y1",
+    "kl15yfn4in91gcpuv10l999": "6pzg4lteljkq8fn4clmv9y1",
+    "d6z8wi85dat6p12e6akcvfs": "kl15yfn4in91gcpuv10l999",
+    "lvkak3uo5q9zb7gxt78rlnd": "kl15yfn4in91gcpuv10l999",
+    "x5ttibwtz9kw9kjjo9z2jxc": "kl15yfn4in91gcpuv10l999",
+    "rifvn0500fkjo4kkrs9spok": "kl15yfn4in91gcpuv10l999",
+    "hduqs5fphra3kiley5psg9p": "kl15yfn4in91gcpuv10l999",
+    "fmouzl8qxved9orlrpa7kuu": "kl15yfn4in91gcpuv10l999",
+    "x1ozstkcytqvkx3eu95ztmo": "kl15yfn4in91gcpuv10l999",
+    "oz5w0dk6wt2w6lkv1537hb6": "6pzg4lteljkq8fn4clmv9y1",
+    "pw32zcpaxaw6o2os4my2vw5": "oz5w0dk6wt2w6lkv1537hb6",
+    "lunebnp6hfbd51z9lnzvnfc": "oz5w0dk6wt2w6lkv1537hb6",
+    "9iwoo2vtyjjut6weur45ae3": "oz5w0dk6wt2w6lkv1537hb6",
+    "lzhy8bvxt01f3gcdtmvvvua": "oz5w0dk6wt2w6lkv1537hb6",
+    "nuhvrygqm4o29rrxrd7ufzh": "oz5w0dk6wt2w6lkv1537hb6",
+    "1xyzrht8zfjzny8n8lj7vd5": "oz5w0dk6wt2w6lkv1537hb6",
+    "sfpud698rpyl9rqza77ikw6": "oz5w0dk6wt2w6lkv1537hb6",
+    "od0v6l3mi9349a6ahvetidb": "6pzg4lteljkq8fn4clmv9y1",
+    "d1ze3vxw7eskbjg40jcqfhh": "od0v6l3mi9349a6ahvetidb",
+    "nnr2tc5a78wx0h3g6chjsrr": "od0v6l3mi9349a6ahvetidb",
+    "r6778su93rvk465af181xit": "od0v6l3mi9349a6ahvetidb",
+    "fezha9fok50w13uuxpu00vh": "6pzg4lteljkq8fn4clmv9y1",
+    "hrvwtwdmpo21tmwzsiyy8un": "fezha9fok50w13uuxpu00vh",
+    "ao91sx24ma0i83ro4uo6spq": "fezha9fok50w13uuxpu00vh",
+    "o0znon4syo5gjdazfsxwavg": "6pzg4lteljkq8fn4clmv9y1",
+    "f70s0yzjyot4rjt9rr0l678": "o0znon4syo5gjdazfsxwavg",
+    "ymd86fi12f7d8uxx08o1l63": "o0znon4syo5gjdazfsxwavg",
+    "509cman1903g1ylhux4x647": "o0znon4syo5gjdazfsxwavg",
+    "ok7m5b2pap6hl5jl837txqd": "6pzg4lteljkq8fn4clmv9y1",
+    "01qcq0jmgijhv4bj5bz0d7l": "ok7m5b2pap6hl5jl837txqd",
+    "qte89iyg3hbzoxjcqmyctkt": "ok7m5b2pap6hl5jl837txqd",
+    "92awlr0l52v7qrhpz9kt927": "ok7m5b2pap6hl5jl837txqd",
+    "pljx45cxmkjv1tt8kohsggi": null,
+    "dsj2qe8miwbf9b8bx301eo9": "pljx45cxmkjv1tt8kohsggi",
+    "w9edr0w0irit2nls3qryzxp": "dsj2qe8miwbf9b8bx301eo9",
+    "b6pvgfgsebio60eelk93piq": "dsj2qe8miwbf9b8bx301eo9",
+    "p6qgibfnguwutpsdy24bzls": "dsj2qe8miwbf9b8bx301eo9",
+    "bof4d8unu2g8shqxa7vhs4p": "dsj2qe8miwbf9b8bx301eo9",
+    "97hpohs61y3zs5fg8yh2s4a": "pljx45cxmkjv1tt8kohsggi",
+    "cijw6w7tpvzehpgzd9u59gf": "97hpohs61y3zs5fg8yh2s4a",
+    "acofzyoqoi8d1hn41m901zr": "97hpohs61y3zs5fg8yh2s4a",
+    "83h5gwe0p7n8x55rqr9x8op": "97hpohs61y3zs5fg8yh2s4a",
+    "yild13c55t8as7pol36ea84": "97hpohs61y3zs5fg8yh2s4a",
+    "kps1vouu5g7m8efsc1ccr96": "97hpohs61y3zs5fg8yh2s4a",
+    "s4584oa4m259kma2pmw1lnq": "97hpohs61y3zs5fg8yh2s4a",
+    "8r1kh8kplkgwdnntxbb67zt": "97hpohs61y3zs5fg8yh2s4a",
+    "2r2el4g77gk10wt5mm3q6bm": "97hpohs61y3zs5fg8yh2s4a",
+    "psmhf3tnofluj0yiig4pdgt": "pljx45cxmkjv1tt8kohsggi",
+    "3g6oqjvmm0a8xcyxmfi9c98": "psmhf3tnofluj0yiig4pdgt",
+    "i4nj9v4ltupnjuomf6c7vda": "psmhf3tnofluj0yiig4pdgt",
+    "ixvynw05twlgbw1og9o09jc": "psmhf3tnofluj0yiig4pdgt",
+    "1cdknz7rz4s37vg3bf9e6zc": "psmhf3tnofluj0yiig4pdgt",
+    "udf5um6s0gh0r4585waftt3": "psmhf3tnofluj0yiig4pdgt",
+    "g3saar7em9n8mr1cgmrackv": "psmhf3tnofluj0yiig4pdgt",
+    "kzc5fzc65b83qv97lrkuqff": "psmhf3tnofluj0yiig4pdgt",
+    "46o6bijc8pbrmvcf5v9awc9": "psmhf3tnofluj0yiig4pdgt",
+    "pb3vb4nmzjvobpmrnoj9qxl": "psmhf3tnofluj0yiig4pdgt",
+    "j03u376ezurk37ks0i9f5ej": "pljx45cxmkjv1tt8kohsggi",
+    "o1xylvjonk35o9wnkmd060y": "j03u376ezurk37ks0i9f5ej",
+    "n417qwzj6g9sqx0h2tcpsoo": "j03u376ezurk37ks0i9f5ej",
+    "gaidz59s80wjrr035osuo5h": "pljx45cxmkjv1tt8kohsggi",
+    "tklb5g2nntypp66xuohwavb": "gaidz59s80wjrr035osuo5h",
+    "xsw48w148tbq8wcyezaw1hj": "gaidz59s80wjrr035osuo5h",
+    "pfvduov4dlnmrwikm39lsne": "gaidz59s80wjrr035osuo5h",
+    "7tx741gb0nmw3q1pv9u4kjk": "gaidz59s80wjrr035osuo5h",
+    "0v6omcg3j6htia1jtgc613m": "gaidz59s80wjrr035osuo5h",
+    "0b2cc21hzv5pgirnffcuyyo": "gaidz59s80wjrr035osuo5h",
+    "btx6g3xgtg54f68m93aow7t": "gaidz59s80wjrr035osuo5h",
+    "4e4uv6kydsnn09xemle6ok1": "gaidz59s80wjrr035osuo5h",
+    "amle684tzu04xxy5sjdjvn6": "gaidz59s80wjrr035osuo5h",
+    "2yto361ji010ae96sp9iee0": "gaidz59s80wjrr035osuo5h",
+    "s1y1jxgk5fpdknpk6je7bym": "pljx45cxmkjv1tt8kohsggi",
+    "k0f8nh1skx99x6b1efjfbdi": "s1y1jxgk5fpdknpk6je7bym",
+    "3tmmw5hl8xrirepk0mjudl4": null,
+    "4zlw0by57byl7ojg5soybhy": "3tmmw5hl8xrirepk0mjudl4",
+    "13zb1v1saqoj2doziceal14": "4zlw0by57byl7ojg5soybhy",
+    "a51b94g3myhubif5xgfnslp": "4zlw0by57byl7ojg5soybhy",
+    "94otf54sqlrwh45msr4awez": "4zlw0by57byl7ojg5soybhy",
+    "cp1tdvhopvnu9t3jk44jvi5": "4zlw0by57byl7ojg5soybhy",
+    "68ii6enm0j9cktgmk6183bg": "4zlw0by57byl7ojg5soybhy",
+    "adt80pku4ms2kx67urfykds": "4zlw0by57byl7ojg5soybhy",
+    "8f3knzlp7caw0zuy3zvux02": "3tmmw5hl8xrirepk0mjudl4",
+    "bzrgunlaz0monn4b9aecc6w": "8f3knzlp7caw0zuy3zvux02",
+    "erf58bjg36cdf82wsycudq4": "8f3knzlp7caw0zuy3zvux02",
+    "m3zun4jdnkto6pb8o6j19ym": "3tmmw5hl8xrirepk0mjudl4",
+    "19daeqeo5tz5bez00vc1vf6": "m3zun4jdnkto6pb8o6j19ym",
+    "64t8ptaalufwp8zilizp1g0": "m3zun4jdnkto6pb8o6j19ym",
+    "jison1m3isyy139b9fv8lq2": "m3zun4jdnkto6pb8o6j19ym",
+    "x467ljycicwakgbfe821jzm": "3tmmw5hl8xrirepk0mjudl4",
+    "zwoduv6zfijwzm9s7c8gn4l": "x467ljycicwakgbfe821jzm",
+    "bw0vshsl9q10fgg63mzuci1": "x467ljycicwakgbfe821jzm",
+    "rtukfip9nnyllaawx8dpx9z": "x467ljycicwakgbfe821jzm",
+    "xot3ips2e7ncbzc1xg1xxny": "3tmmw5hl8xrirepk0mjudl4",
+    "bppjh6ro6ivkjzybl0218pg": "xot3ips2e7ncbzc1xg1xxny",
+    "j2xtas36maeloynfjl7khnm": "xot3ips2e7ncbzc1xg1xxny",
+    "42ta6y1z42bfkexycvzr7d6": "3tmmw5hl8xrirepk0mjudl4",
+    "gxnq41qhl1qkz9qpk8uprn5": "42ta6y1z42bfkexycvzr7d6",
+    "z7hgjig8068ld6bvrym4qgi": "42ta6y1z42bfkexycvzr7d6",
+    "2y9mihsvutycobs1m8hlpmk": "42ta6y1z42bfkexycvzr7d6",
+    "q8j48hpustufdimi076ru66": "3tmmw5hl8xrirepk0mjudl4",
+    "r7sxg4tr107exgx1eb792bh": "q8j48hpustufdimi076ru66",
+    "pw0mr7g1nh90w8kj5gd8q1s": "q8j48hpustufdimi076ru66",
+    "emg29oynu0ibam7ks899ki8": "q8j48hpustufdimi076ru66",
+    "ug263fsf2k2nyyzjz6w3gfk": "q8j48hpustufdimi076ru66",
+    "nx5x0drn82shqnrk5rllt25": "q8j48hpustufdimi076ru66",
+    "wagqdbxliknfhukctsf4bcj": "3tmmw5hl8xrirepk0mjudl4",
+    "bg8uqr6kl87d2bt7ydgvxwl": "wagqdbxliknfhukctsf4bcj",
+    "9pqdbygdcfz3lg0q2pas8oy": "wagqdbxliknfhukctsf4bcj",
+    "8o8n6c8bwvppdsgg6j5uoy0": "wagqdbxliknfhukctsf4bcj",
+    "9ct9sy0ph4ewyzsppgv363h": "wagqdbxliknfhukctsf4bcj",
+    "phi04hkjfomkh64fsqcz5j8": "3tmmw5hl8xrirepk0mjudl4",
+    "5xckuaks5kuji8gyg4ah7pv": "phi04hkjfomkh64fsqcz5j8",
+    "d2bdexizo9ca3cmahu5a3uf": "phi04hkjfomkh64fsqcz5j8",
+    "jqmpl4v1p55nm8mwx655y7w": "phi04hkjfomkh64fsqcz5j8",
+    "rxi1zafrraesc93a8tb2yrf": "phi04hkjfomkh64fsqcz5j8",
+    "nws43qzeppx8mrw19k868hu": null,
+    "mygvpkq0qd6bfu5iniod3fu": "nws43qzeppx8mrw19k868hu",
+    "oqnxnsodgippoj18oxfo5rp": "mygvpkq0qd6bfu5iniod3fu",
+    "yifybyavu4cvu2kmulijla3": "mygvpkq0qd6bfu5iniod3fu",
+    "0l5zq2kvnbcz4zp20y1ir1r": "mygvpkq0qd6bfu5iniod3fu",
+    "qhav2hoq2josw5eyo6n6oi3": "mygvpkq0qd6bfu5iniod3fu",
+    "pqm3586qth11ctqgyr4t8sk": "mygvpkq0qd6bfu5iniod3fu",
+    "ueub0bnan3wvxjhz40fai0t": "nws43qzeppx8mrw19k868hu",
+    "ovco5v150uo99cv3au933vz": "ueub0bnan3wvxjhz40fai0t",
+    "z5qq1tdda9971j27ds5ys49": "ueub0bnan3wvxjhz40fai0t",
+    "w1jnfre9zy9y65l03pf31iu": "nws43qzeppx8mrw19k868hu",
+    "sbbmi4o8yr1nvsj3k3hyk5x": "w1jnfre9zy9y65l03pf31iu",
+    "bd1lv7h4pgqw8181od9557u": "w1jnfre9zy9y65l03pf31iu",
+    "e255ewjqpl6o2yn1f7jrkeq": "w1jnfre9zy9y65l03pf31iu",
+    "ryeuc9zk1mjisuuwjnctu87": "nws43qzeppx8mrw19k868hu",
+    "pfww89ysaeiieomrxa7nwc4": "ryeuc9zk1mjisuuwjnctu87",
+    "ni3hpaluegma8mln8yevsiw": "ryeuc9zk1mjisuuwjnctu87",
+    "uykq2uef6t4raxvhniquqth": "nws43qzeppx8mrw19k868hu",
+    "yc98mxhtouq030oimyyhjdh": "uykq2uef6t4raxvhniquqth",
+    "te6kuv5nxto47bx4vhu4z0y": "uykq2uef6t4raxvhniquqth",
+    "q7gca6v82fgdg2nc4vddc8n": "uykq2uef6t4raxvhniquqth",
+    "y4rxvs6ablmpkja3x83ttpp": "uykq2uef6t4raxvhniquqth",
+    "709ipzlot5rqhtc7i5usn4y": "nws43qzeppx8mrw19k868hu",
+    "o3uik0jo6na1lscglwisp77": "709ipzlot5rqhtc7i5usn4y"
+  },
+  "notesLabelById": {
+    "6pzg4lteljkq8fn4clmv9y1": "Differential Equations",
+    "gv3pkv58nre5g52cyc6tq73": "Differentiation and Integration",
+    "kl15yfn4in91gcpuv10l999": "First-Order Differential Equations",
+    "d6z8wi85dat6p12e6akcvfs": "Homogeneous Equations",
+    "lvkak3uo5q9zb7gxt78rlnd": "Inhomogeneous Equations",
+    "x5ttibwtz9kw9kjjo9z2jxc": "Integrating Factors",
+    "rifvn0500fkjo4kkrs9spok": "Non-Linear Equations",
+    "hduqs5fphra3kiley5psg9p": "Solution Curves",
+    "fmouzl8qxved9orlrpa7kuu": "Autonomous Systems",
+    "x1ozstkcytqvkx3eu95ztmo": "Difference Equations",
+    "oz5w0dk6wt2w6lkv1537hb6": "Second-Order Differential Equations",
+    "pw32zcpaxaw6o2os4my2vw5": "Constant-Coefficient Equations",
+    "lunebnp6hfbd51z9lnzvnfc": "Inital-Condition Problems",
+    "9iwoo2vtyjjut6weur45ae3": "Nonhomogeneous Equations",
+    "lzhy8bvxt01f3gcdtmvvvua": "Equidimensional Equations",
+    "nuhvrygqm4o29rrxrd7ufzh": "Second-Order Difference Equations",
+    "1xyzrht8zfjzny8n8lj7vd5": "Impulse Functions",
+    "sfpud698rpyl9rqza77ikw6": "Physical Systems",
+    "od0v6l3mi9349a6ahvetidb": "Series Solutions to Differential Equations",
+    "d1ze3vxw7eskbjg40jcqfhh": "Singular and Ordinary Points",
+    "nnr2tc5a78wx0h3g6chjsrr": "Examples of Series Solutions",
+    "r6778su93rvk465af181xit": "Resonance of Solutions",
+    "fezha9fok50w13uuxpu00vh": "Multivariate Differential Equations",
+    "hrvwtwdmpo21tmwzsiyy8un": "Directional Derivative and Gradient",
+    "ao91sx24ma0i83ro4uo6spq": "Stationary Points",
+    "o0znon4syo5gjdazfsxwavg": "Systems of Differential Equations",
+    "f70s0yzjyot4rjt9rr0l678": "Linear Systems of Differential Equations",
+    "ymd86fi12f7d8uxx08o1l63": "Phase-Portrait Analysis",
+    "509cman1903g1ylhux4x647": "Nonlinear Dynamical Systems",
+    "ok7m5b2pap6hl5jl837txqd": "Partial Differential Equations",
+    "01qcq0jmgijhv4bj5bz0d7l": "Transport Equation",
+    "qte89iyg3hbzoxjcqmyctkt": "Wave Equation",
+    "92awlr0l52v7qrhpz9kt927": "Heat Equation",
+    "pljx45cxmkjv1tt8kohsggi": "Linear Algebra",
+    "dsj2qe8miwbf9b8bx301eo9": "Complex Numbers",
+    "w9edr0w0irit2nls3qryzxp": "Formulas and Theorems",
+    "b6pvgfgsebio60eelk93piq": "Complex Exponentiation",
+    "p6qgibfnguwutpsdy24bzls": "Roots of Unity",
+    "bof4d8unu2g8shqxa7vhs4p": "Geometric Equations",
+    "97hpohs61y3zs5fg8yh2s4a": "Vectors",
+    "cijw6w7tpvzehpgzd9u59gf": "Definitions and Properties",
+    "acofzyoqoi8d1hn41m901zr": "Scalar Product",
+    "83h5gwe0p7n8x55rqr9x8op": "Vector Product",
+    "yild13c55t8as7pol36ea84": "Linear Independence and Basis",
+    "kps1vouu5g7m8efsc1ccr96": "Subspaces",
+    "s4584oa4m259kma2pmw1lnq": "Complex Vector Spaces",
+    "8r1kh8kplkgwdnntxbb67zt": "Tensor Notation",
+    "2r2el4g77gk10wt5mm3q6bm": "Vector Geometry",
+    "psmhf3tnofluj0yiig4pdgt": "Matrices and Linear Maps",
+    "3g6oqjvmm0a8xcyxmfi9c98": "Defining Linear Maps",
+    "i4nj9v4ltupnjuomf6c7vda": "Rank and Nullity",
+    "ixvynw05twlgbw1og9o09jc": "Matrices as Linear Maps",
+    "1cdknz7rz4s37vg3bf9e6zc": "Examples of Linear Maps",
+    "udf5um6s0gh0r4585waftt3": "Matrix Operations",
+    "g3saar7em9n8mr1cgmrackv": "Determinants",
+    "kzc5fzc65b83qv97lrkuqff": "Permutations",
+    "46o6bijc8pbrmvcf5v9awc9": "Higher-Dimensional Determinants",
+    "pb3vb4nmzjvobpmrnoj9qxl": "Determinants of Products",
+    "j03u376ezurk37ks0i9f5ej": "Systems of Linear Equations",
+    "o1xylvjonk35o9wnkmd060y": "Matrix Inverses and Linear Equations",
+    "n417qwzj6g9sqx0h2tcpsoo": "Matrix Rank",
+    "gaidz59s80wjrr035osuo5h": "Eigenvalues and Eigenvectors",
+    "tklb5g2nntypp66xuohwavb": "Basic Definitions and Results",
+    "xsw48w148tbq8wcyezaw1hj": "Eigenspaces",
+    "pfvduov4dlnmrwikm39lsne": "Change of Basis",
+    "7tx741gb0nmw3q1pv9u4kjk": "Similar Matrices and Diagonalization",
+    "0v6omcg3j6htia1jtgc613m": "Canonical Forms",
+    "0b2cc21hzv5pgirnffcuyyo": "Differential Equations",
+    "btx6g3xgtg54f68m93aow7t": "Cayley-Hamilton Theorem",
+    "4e4uv6kydsnn09xemle6ok1": "Eigenvalues and Eigenvectors of Hermitian Matrices",
+    "amle684tzu04xxy5sjdjvn6": "Forms",
+    "2yto361ji010ae96sp9iee0": "Singular Value Decomposition",
+    "s1y1jxgk5fpdknpk6je7bym": "Transformation Groups",
+    "k0f8nh1skx99x6b1efjfbdi": "Metrics",
+    "3tmmw5hl8xrirepk0mjudl4": "Vector Calculus",
+    "4zlw0by57byl7ojg5soybhy": "Partial Differentiation",
+    "13zb1v1saqoj2doziceal14": "Review",
+    "a51b94g3myhubif5xgfnslp": "Limits and Continuity",
+    "94otf54sqlrwh45msr4awez": "Partial Derivatives",
+    "cp1tdvhopvnu9t3jk44jvi5": "The Chain Rule",
+    "68ii6enm0j9cktgmk6183bg": "Gradients",
+    "adt80pku4ms2kx67urfykds": "Higher-Order Partial Derivatives",
+    "8f3knzlp7caw0zuy3zvux02": "Curves and Surfaces",
+    "bzrgunlaz0monn4b9aecc6w": "Curves",
+    "erf58bjg36cdf82wsycudq4": "Surfaces",
+    "m3zun4jdnkto6pb8o6j19ym": "Line Integrals",
+    "19daeqeo5tz5bez00vc1vf6": "Riemann Integrals",
+    "64t8ptaalufwp8zilizp1g0": "Line Integals",
+    "jison1m3isyy139b9fv8lq2": "Fundamental Theorem of Line Integrals",
+    "x467ljycicwakgbfe821jzm": "Multiple Integrals",
+    "zwoduv6zfijwzm9s7c8gn4l": "Area Integrals",
+    "bw0vshsl9q10fgg63mzuci1": "Change of Variables",
+    "rtukfip9nnyllaawx8dpx9z": "Volume Integrals",
+    "xot3ips2e7ncbzc1xg1xxny": "Surface Integrals",
+    "bppjh6ro6ivkjzybl0218pg": "Revisiting Surfaces",
+    "j2xtas36maeloynfjl7khnm": "Evaluating Surface Integrals",
+    "42ta6y1z42bfkexycvzr7d6": "Differential Operators",
+    "gxnq41qhl1qkz9qpk8uprn5": "Basic Definitions",
+    "z7hgjig8068ld6bvrym4qgi": "Second-Order Operators",
+    "2y9mihsvutycobs1m8hlpmk": "Orthogonal Curvilinear Coordinates",
+    "q8j48hpustufdimi076ru66": "Integral Theorems",
+    "r7sxg4tr107exgx1eb792bh": "Divergence Theorem",
+    "pw0mr7g1nh90w8kj5gd8q1s": "Green's Theorem",
+    "emg29oynu0ibam7ks899ki8": "Stokes' Theorem",
+    "ug263fsf2k2nyyzjz6w3gfk": "Curvilinear Differential Operators",
+    "nx5x0drn82shqnrk5rllt25": "Examples and Applications",
+    "wagqdbxliknfhukctsf4bcj": "Poisson and Laplace Equations",
+    "bg8uqr6kl87d2bt7ydgvxwl": "Physical Origins and Significance",
+    "9pqdbygdcfz3lg0q2pas8oy": "Solving the Laplace Equation",
+    "8o8n6c8bwvppdsgg6j5uoy0": "Existence and Uniqueness",
+    "9ct9sy0ph4ewyzsppgv363h": "Integral Solutions",
+    "phi04hkjfomkh64fsqcz5j8": "Tensors",
+    "5xckuaks5kuji8gyg4ah7pv": "Tensors are Tensors",
+    "d2bdexizo9ca3cmahu5a3uf": "Tensors are Multilinear Maps",
+    "jqmpl4v1p55nm8mwx655y7w": "Tensors are Tensor Fields",
+    "rxi1zafrraesc93a8tb2yrf": "Tensors are Other Things",
+    "nws43qzeppx8mrw19k868hu": "Group Theory",
+    "mygvpkq0qd6bfu5iniod3fu": "Groups and Homomorphisms",
+    "oqnxnsodgippoj18oxfo5rp": "Preface",
+    "yifybyavu4cvu2kmulijla3": "Basic Definitions",
+    "0l5zq2kvnbcz4zp20y1ir1r": "Subgroups",
+    "qhav2hoq2josw5eyo6n6oi3": "Group Families",
+    "pqm3586qth11ctqgyr4t8sk": "Homomorphisms",
+    "ueub0bnan3wvxjhz40fai0t": "Permutation Groups",
+    "ovco5v150uo99cv3au933vz": "Permutations and Cycles",
+    "z5qq1tdda9971j27ds5ys49": "Sign of a Permutation",
+    "w1jnfre9zy9y65l03pf31iu": "Lagrange's Theorem",
+    "sbbmi4o8yr1nvsj3k3hyk5x": "Group Structures",
+    "bd1lv7h4pgqw8181od9557u": "Lagrange's Theorem",
+    "e255ewjqpl6o2yn1f7jrkeq": "Random Applications",
+    "ryeuc9zk1mjisuuwjnctu87": "Quotient Groups",
+    "pfww89ysaeiieomrxa7nwc4": "Normal Subgroups",
+    "ni3hpaluegma8mln8yevsiw": "Quotient Group Theorems",
+    "uykq2uef6t4raxvhniquqth": "Group Actions",
+    "yc98mxhtouq030oimyyhjdh": "Group Actions",
+    "te6kuv5nxto47bx4vhu4z0y": "Orbits and Stabilizers",
+    "q7gca6v82fgdg2nc4vddc8n": "Conjugation",
+    "y4rxvs6ablmpkja3x83ttpp": "Conjugacy Classes of Permutations",
+    "709ipzlot5rqhtc7i5usn4y": "Matrix Groups",
+    "o3uik0jo6na1lscglwisp77": "The Mobius Group"
+  }
+}

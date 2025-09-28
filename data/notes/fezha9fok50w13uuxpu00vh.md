@@ -1,0 +1,1 @@
+In this section, we will be focusing our efforts on the multivariate function $z=f(x,y)$ and all its generalized relatives: how we can bring our tools of calculus from two dimensions to three-dimensional space, and how differential equations operate within that space.
