@@ -11,34 +11,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout source
-      uses: actions/checkout@v4 # Using updated version
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
-    # --- TEMPORARILY DISABLED CACHE ---
-    # - name: Restore Node modules cache
-    #   uses: actions/cache@v4
-    #   id: node-modules-cache
-    #   with:
-    #     path: |
-    #       node_modules
-    #       .next/*
-    #       !.next/.next/cache
-    #       !.next/.env.*
-    #     key: ${{ runner.os }}-dendronv2-${{ hashFiles('**/yarn.lock', '**/package-lock.json') }}
+    # --- NEW CRITICAL STEP ---
+    - name: Force Clean Next.js Template
+      run: rm -rf .next
 
     - name: Install dependencies
       run: yarn
 
     - name: Initialize or pull nextjs template
+      # This command will now always run the 'init' part because .next doesn't exist
       run: "(test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git pull && yarn && cd ..) || (echo 'init dendron next' && yarn dendron publish init)"
-
-    # --- TEMPORARILY DISABLED CACHE ---
-    # - name: Restore Next cache
-    #   uses: actions/cache@v4
-    #   with:
-    #     path: .next/.next/cache
-    #     key: ${{ runner.os }}-nextjs-${{ hashFiles('.next/yarn.lock', '.next/package-lock.json') }}-${{ hashFiles('.next/**.[jt]s', '.next/**.[jt]sx') }}
 
     - name: Export notes
       run: yarn dendron publish export --target github --yes
