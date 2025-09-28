@@ -91,6 +91,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    assetsPrefix: /math-notes 
     seo:
         title: Dendron
         description: Personal Knowledge Space
