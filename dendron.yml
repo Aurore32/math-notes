@@ -87,6 +87,7 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
+    assetsPrefix: /math-notes
     siteHierarchies:
         - root
     writeStubs: false
@@ -106,3 +107,5 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+site:
+    siteUrl: https://Aurore32.github.io/math-notes
